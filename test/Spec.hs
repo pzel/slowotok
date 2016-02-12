@@ -17,3 +17,12 @@ tests = do
     it "works on more words" $ do
       frequencies ["hello", "hello", "world"]
       `shouldBe` [("hello", 2/3), ("world", 1/3)]
+
+  describe "digrams" $ do
+    it "works on two word corpus" $ do
+      digrams ["hello", "world"]
+        `shouldBe` [("hello", ["world"])]
+    it "adds all subsequent strings to the parent key" $ do
+      digrams ["hello", "world", "hello", "moon"]
+        `shouldBe` [("hello", ["world", "moon"]),
+                    ("world", ["hello"])]

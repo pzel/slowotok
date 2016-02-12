@@ -1,12 +1,13 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Lib
   (Token,Corpus,Frequency,
-   clean, frequencies
+   digrams, clean, frequencies
     ) where
 
 import Control.Parallel.Strategies
 import Data.Char (isSpace)
 import Data.List (group,nub,sort,sortBy)
+import qualified Data.Map as M
 import qualified Data.Text as T
 
 type Token = T.Text
@@ -28,6 +29,14 @@ frequencies tokens =
       wordsToCheck = nub sorted
       findFreq = \t -> (t, frequency n grouped t)
   in map findFreq wordsToCheck `using` parList rdeepseq
+
+digrams :: Corpus -> [(Token, [Token])]
+digrams tokens =
+  M.toList (foldr addNext M.empty (shift tokens))
+ where
+   addNext :: (Token,Token) -> M.Map Token [Token] -> M.Map Token [Token]
+   addNext (t,next) map = M.insertWith (++) t [next] map
+   shift l = zipWith (,) l (tail l)
 
 frequency :: Int -> [[Token]] -> Token -> Frequency
 frequency n grouped word =
