@@ -16,9 +16,9 @@ type Frequency = Rational
 clean :: T.Text -> [Token]
 clean = filter (not . junk) . T.split isSpace . T.map replacePunctuation
   where
-    replacePunctuation c = if c `elem` ("+„”*—-?!:;'\"()[]»«"::String)
+    replacePunctuation c = if c `elem` ("+„”*—-:;'\"()[]»«"::String)
                            then ' ' else c
-    junk e = e `elem` ["", ".", ","]
+    junk e = e `elem` ["", ".", "..", ",", ",,"]
 
 frequencies :: [Token] -> [(Token, Frequency)]
 frequencies tokens =
