@@ -1,6 +1,9 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Main where
 
+import Control.Monad.Random (evalRand)
+import System.Random (mkStdGen)
+import qualified Data.Map as M
 import Data.List (sort)
 import Lib
 import Test.Hspec
@@ -21,22 +24,28 @@ tests = do
 
   describe "digrams" $ do
     it "works on two word corpus" $ do
-      digrams ["hello", "world"]
+      digrams_sorted ["hello", "world"]
         `shouldBe` [("hello", ["world"])]
     it "adds all subsequent strings to the parent key" $ do
-      digrams ["hello", "world", "hello", "moon"]
+      digrams_sorted ["hello", "world", "hello", "moon"]
         `shouldBe` [("hello", ["world", "moon"]),
                     ("world", ["hello"])]
 
   describe "trigrams" $ do
     it "works on three word corpus" $ do
-      trigrams ["hello", "there", "moon"]
+      trigrams_sorted ["hello", "there", "moon"]
         `shouldBe` [(("hello","there"), ["moon"])]
     it "adds all subsequent strings to the parent key" $ do
       trigrams_sorted ["hello", "there", "moon", "hello", "there", "moon"]
         `shouldBe` [(("hello","there"), ["moon", "moon"]),
                     (("moon","hello"), ["there"]),
-                    (("there","moon"), ["hello"])
-                   ]
+                    (("there","moon"), ["hello"])]
 
-trigrams_sorted = sort . trigrams
+  describe "generating text" $ do
+    it "works" $ do
+      let t = trigrams ["a", "b", "c", "a", "b", "c"]
+          g = mkStdGen 7423659837659837
+      evalRand (fromTrigram t) g `shouldBe` ["hello"]
+
+digrams_sorted = sort . M.toList . digrams
+trigrams_sorted = sort . M.toList . trigrams

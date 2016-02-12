@@ -8,9 +8,10 @@ import Lib
 main :: IO ()
 main = do
   files <- listDirectory "data"
-  t <- T.concat `fmap` mapM TIO.readFile (take 2 files)
-  TIO.writeFile "cleaned" (T.pack (show (frequencies (clean t))))
+  t <- T.concat `fmap` mapM TIO.readFile (take 5 files)
+  TIO.writeFile "cleaned" (T.pack (show (trigrams (clean t))))
 
+listDirectory :: FilePath -> IO [[Char]]
 listDirectory d = getDirectoryContents d >>=
                   return . map ((d ++ "/") ++)
                   . filter (\e -> not (elem e [".", ".."]))

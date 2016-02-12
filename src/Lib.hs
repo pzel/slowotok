@@ -1,12 +1,14 @@
 {-# LANGUAGE OverloadedStrings #-}
 module Lib
   (Token,Corpus,Frequency,
-   digrams, trigrams, clean, frequencies
+   digrams, trigrams, clean, frequencies,
+   fromTrigram
   ) where
 
 import Control.Parallel.Strategies
+import Control.Monad.Random
 import Data.Char (isSpace)
-import Data.List (group,nub,sort,sortBy)
+import Data.List (group,nub,sort)
 import qualified Data.Map as M
 import qualified Data.Text as T
 
@@ -32,21 +34,33 @@ frequencies tokens =
       findFreq = \t -> (t, frequency n grouped t)
   in map findFreq wordsToCheck `using` parList rdeepseq
 
-digrams :: Corpus -> [(Token, [Token])]
+digrams :: Corpus -> DigramMap
 digrams tokens =
-  M.toList (foldr addNext M.empty (shift tokens))
+  foldr addNext M.empty (shift tokens)
  where
    addNext :: (Token,Token) -> DigramMap -> DigramMap
-   addNext (t,next) map = M.insertWith (++) t [next] map
+   addNext (t,next) m = M.insertWith (++) t [next] m
    shift l = zipWith (,) l (tail l)
 
-trigrams :: Corpus -> [((Token,Token), [Token])]
+trigrams :: Corpus -> TrigramMap
 trigrams tokens =
-  M.toList (foldr addNext M.empty (shift tokens))
+  foldr addNext M.empty (shift tokens)
  where
    addNext :: (Token,Token,Token) -> TrigramMap -> TrigramMap
-   addNext (t,u,v) map = M.insertWith (++) (t,u) [v] map
+   addNext (t,u,v) m = M.insertWith (++) (t,u) [v] m
    shift l = zipWith3 (,,) l (tail l) (tail (tail l))
+
+
+fromTrigram :: (RandomGen g) => TrigramMap -> Rand g [Token]
+fromTrigram m = do
+  let l = M.toList m
+      len = length l
+  idx <- getRandomR (0,len-1)
+  let randomKey = fst (l !! idx)
+      entry = M.findWithDefault [] randomKey m
+  case entry of
+    [] -> return []
+    tokens -> return tokens
 
 frequency :: Int -> [[Token]] -> Token -> Frequency
 frequency n grouped word =
