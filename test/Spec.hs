@@ -44,8 +44,8 @@ tests = do
   describe "generating text" $ do
     it "works" $ do
       let t = trigrams ["a", "b", "c", "a", "b", "c"]
-          g = mkStdGen 7423659837659837
-      evalRand (fromTrigram t) g `shouldBe` ["hello"]
+          g = mkStdGen 1
+      evalRand (fromTrigram 2 t) g `shouldBe` ["hello"]
 
 digrams_sorted = sort . M.toList . digrams
 trigrams_sorted = sort . M.toList . trigrams

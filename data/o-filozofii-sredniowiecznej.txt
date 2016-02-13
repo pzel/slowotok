@@ -1,0 +1,2048 @@
+
+Niniejszych sześć wykładów o filozofii średniowiecznej wygłosiłem z początkiem roku 1906 w ramach „Powszechnych Wykładów uniwersyteckich” urządzanych staraniem Senatu akademickiego Uniwersytetu Lwowskiego. Już wtedy powziąłem zamiar wydania tych wykładów drukiem, pragnąc na razie przynajmniej ogólnym szkicem wypełnić jedną z najdotkliwszych luk naszego piśmiennictwa z zakresu dziejów filozofii. Liczne inne zajęcia nie pozwoliły mi wówczas zamiaru tego wykonać. Powróciłem do niego, gdym ubiegłej zimy wykładał w uniwersytecie filozofię średniowiecza jako część kursu historii filozofii. Chociaż jednak za tym drugim razem traktowałem rzecz obszerniej i szczegółowiej, oddaję wykłady do druku w ich formie pierwotnej, uwzględniwszy jedynie wyniki badań najnowszych i dokonawszy tylko niektórych drobniejszych zmian; sądzę bowiem, że w tej właśnie formie, pragnącej połączyć ścisłość z przystępnością, wykłady o tak mało na ogół znanej i cenionej epoce myśli ludzkiej spełnią najlepiej swój cel dydaktyczny.
+
+Dydaktyczne też względy kazały mi unikać w samym tekście wykładów gromadzenia szczegółów o życiu i pismach filozofów. Czytelnik znajdzie najważniejsze z nich zestawione osobno, w porządku abecadłowym według osób, których dotyczą. Dodane również na końcu książki tablice synchronistyczne mają ułatwić orientowanie się w chronologii tego długiego okresu rozwoju myśli ludzkiej, kurczącego się zwykle w potocznej świadomości niepomiernie w porównaniu z epoką starożytną i erą nowożytną. Mapka, zawierająca wspomniane w książce miejscowości, pozwoli może od razu w sposób naoczny zdać sobie sprawę z udziału poszczególnych krajów w następujących po sobie kolejno fazach filozofii średniowiecza.
+
+Lwów, 28 lipca 1909
+
+Prof. dr Kazimierz Twardowski
+
+
+
+Wykład pierwszy.
+Stosunek filozofii średniowiecznej
+do starożytnej
+
+1. Wstęp. — 2. Ścisły związek filozofii średniowiecznej ze starożytną. — 3. Rzut oka na filozofię starożytną. — 4. Platon. — 5. Arystoteles. — 6. Sceptycyzm, epikureizm, stoicyzm — 7. Filozofia hellenistyczna. — 8. Neoplatonizm. — 9. Religijne zabarwienie stoicyzmu późniejszego. — 10. Philo Judaeus, synkretyzm żydowski. — 11. Ciągłość rozwoju filozofii w okresie hellenistycznym i średniowiecznym. — 12. Zjawienie się chrześcijaństwa.
+
+
+Cel niniejszych wykładów
+
+1. Niniejsze wykłady o filozofii średniowiecznej pragną usunąć przynajmniej w części uderzający brak wiadomości, który można zauważyć nawet u ludzi skądinąd niewątpliwie wykształconych, ilekrotnie chodzi o zdanie sobie sprawy z ogólnego charakteru i znaczenia filozofii średniowiecznej. A ponieważ niewiedza bywa źródłem licznych przesądów, przeto też o filozofii średniowiecznej obiega wielka liczba przesądów, przekonań z góry powziętych, niepopartych poważnym uzasadnieniem lub chociażby usiłowaniem uzasadnienia. Często można się wprost spotkać ze zdaniem, że, ściśle rzecz biorąc, w wiekach średnich filozofii wcale nie było, albowiem wszelką myśl filozoficzną w zarodku tłumił Kościół. Fakt, że Kościół zwalczał w wiekach średnich — tak jak to czyni także dzisiaj — wszelkie poglądy, niezgodne w danej chwili z jego nauką, fakt ten nie ulega oczywiście żadnej wątpliwości. Kto jednak sądzi, że ta walka wyczerpuje całą treść filozofii średniowiecznej, lub że w walce tej myśl filozoficzna zawsze ulegała, ten nie zajrzał nigdy głębiej w liczne krzyżujące się i bogatą tkaninę tworzące prądy, które nurtowały w umysłach ludzkości w okresie tysiącletnim objętym nazwą średniowiecza.
+
+
+Charakterystyka niniejszych wykładów
+
+I dlatego właśnie, że jest to okres dziejów filozofii tak mało znany i tak często mylnie oceniany, obrałem go za temat niniejszych wykładów, chociaż temat ten nie może liczyć na wielką popularność. Lecz im mniej znaną jest rzecz, tym bardziej trzeba ją poznać, i tym większe też zadowolenie płynie z jej poznania. Śledzenie wszystkich szczegółów rozwoju filozofii średniowiecznej może być poniekąd słusznie uważane za rzecz żmudną i nużącą; ale znajomość tych wszystkich szczegółów wcale nie jest potrzebna człowiekowi, który się nie poświęca czy to z zawodu, czy z zamiłowania badaniu tej epoki; toteż niniejsze wykłady ograniczą się do ogólnej charakterystyki i do uwydatnienia głównych cech, znamiennych typów i zasadniczych kierunków.
+
+
+Filozofia nowożytna wobec średniowiecznej
+
+2. Jedną z tych głównych, a może jedną z najgłówniejszych cech filozofii średniowiecznej jest jej istotny i ścisły związek z filozofią starożytną. Cała niemal filozofia średniowieczna na starożytnej się opiera, z niej i nią żyje. Porównując stosunek filozofii średniowiecznej do nowożytnej ze stosunkiem średniowiecznej do starożytnej, powiedzieć trzeba, że jest on tu i tam zupełnie odmienny, niemal przeciwny. Filozofia nowożytna wobec średniowiecznej zajmuje prawie w całości stanowisko zupełnej, bezwzględnej negacji. Nie umie, co prawda, od razu wyzwolić się z pod jej wpływu, ale wyzwolenie to uważa za najważniejsze swe zadanie. Przodownicy filozofii nowożytnej, *Franciszek Bacon* w Anglii, *René Descartes* we Francji głoszą konieczność zerwania z filozofią wieków średnich. Zarzut, uczyniony filozofowi nowożytnemu, że jego poglądy trącą myślą średniowieczną, należy do najcięższych i najmniej pochlebnych.
+
+
+Filozofia średniowieczna wobec starożytnej
+
+Jakże inaczej przedstawia się sprawa, gdy zestawimy filozofię średniowieczną ze starożytną. W miarę rozwoju filozofii średniowiecznej starożytna coraz większe i coraz szersze zyskuje sobie uznanie. Nie brak gdzieniegdzie pewnej opozycji przeciw filozofii „pogańskiej”, ale opozycja ta ostatecznie musi zamilknąć. Ileż to pracy i trudu włożyli filozofowie średniowieczni w objaśnienie myślicieli starożytnych! Co więcej, pewne, najbardziej znamienne kierunki filozofii starożytnej z łatwością dadzą się odnaleźć w filozofii wieków średnich!
+
+
+Filozofia średniowieczna jako dalszy ciąg starożytnej
+
+O ile więc całkiem słusznie można o filozofii nowożytnej powiedzieć, że się od średniowiecznej odwróciła z pewnym lekceważeniem, a nawet z wyraźną pogardą, o tyle o filozofii średniowiecznej należy stwierdzić, że do swej starszej siostrzycy, do filozofii starożytnej, odnosiła się na ogół z niekłamaną czcią, uważając siebie samą za spadkobierczynię jej skarbów myślowych i za kontynuatorkę jej pracy.
+
+
+Trudność rozgraniczenia
+
+Istotnie też filozofia średniowieczna do tego stopnia przedstawia się jako dalszy ciąg filozofii starożytnej, że ich wzajemne odgraniczenie napotyka na pewną trudność. Filozofia starożytna bowiem doszła była w swym wielowiekowym rozwoju ostatecznie do takiej postaci, iż jej przemiana w filozofię średniowieczną dokonała się prawie niepostrzeżenie. Rzut oka na filozofię starożytną twierdzenie to wyjaśni i uzasadni.
+
+
+Początki filozofii greckiej
+
+3. Filozofia starożytna zjawiła się u Greków z chwilą, gdy przestano się zadowalać odpowiedzią, której udzielały zrazu mity i wierzenia potoczne na najwyższe zagadnienia, zaciekawiające umysł ludzki. Z czego powstał świat? — oto było w zaraniu filozofii greckiej najbardziej piekące zagadnienie. I różni różnie na to pytanie odpowiadali. Z wody, mówili jedni; z powietrza, ognia, drudzy; inni zamiast jednego przyjmowali cztery pierwiastki czyli żywioły, jeszcze inni nieskończoną ilość pierwiastków, które zwali atomami. Nie brakło też mędrca — imię jego *Anaksagoras* — który sądził, że prócz takich lub owakich pierwiastków — do powstania świata trzeba było jeszcze czegoś więcej, czegoś od owych pierwiastków nieskończenie różnego, mianowicie ducha, rozumu, któryby pierwiastki w całość wszechświata ułożył. W epoce *Anaksagorasa* zaczęła się filozofia także więcej zajmować sprawami ludzkimi i szukać rozumnych zasad dla postępowania człowieka. Wystąpili sofiści i *Sokrates*, ucząc, że przedmiotem głównym dociekań myśli człowieczej powinien być sam człowiek, jego stosunek do świata i przeznaczenie jego żywota.
+
+
+Filozofia Platona
+
+4. Tak więc wszechświat i człowiek zajęli pierwszorzędne miejsce w badaniach filozoficznych. I nasunęła się myśl, czy nie można by wszystkich zagadnień, tyczących się tak wszechświata, jak człowieka oraz wzajemnego ich stosunku, rozwiązać z jednego punktu widzenia, który by pozwolił w zaokrągloną całość ująć wszystko, cokolwiek istnieje. Pierwszą na szeroką skalę zakrojoną próbą takiej konstrukcji jest system filozoficzny *Platona*.
+
+
+Świat zmysłowy i świat idei
+
+Dla *Platona* świat, który zmysłami postrzegamy, jest tylko bladym odbiciem, niezupełnie udanym naśladowaniem, niewyraźną kopią świata innego. Ten inny świat to świat *idei*. Przez *idee* rozumie *Platon* pierwowzory wieczne i niezmienne istniejących w naszym świecie rzeczy zmiennych i znikomych. Np. liczni żyją i żyli ludzie na świecie. Jeden człowiek od drugiego się różni. Ale każdy jest człowiekiem. Więc widocznie nie brak im cech wspólnych. Te wspólne cechy wszystkich ludzi tworzą, razem wzięte, istotę człowieka, człowieczeństwo samo w sobie. A każdy człowiek jest tym doskonalszy, im bardziej uwydatnia w sobie owo człowieczeństwo, ową istotę człowieka. Albo: istnieje na świecie wiele rzeczy pięknych. Między sobą te rzeczy piękne bardzo się różnią. Piękny obraz, piękny posąg, piękne oblicze, piękne drzewo itd. — wszak to rzeczy bardzo do siebie niepodobne. Ale każda zawiera w sobie piękno, które, będąc pięknem, jest we wszystkim jednym i tym samym. Im bardziej więc każda z tych rzeczy wyraża piękno samo w sobie, tym sama jest piękniejsza.
+
+
+Wieczność idei
+
+Otóż człowieczeństwo, piękno itp. to w języku *Platona* idea człowieka, idea piękna. Każdy człowiek jest odblaskiem idei człowieka, każda rzecz piękna odblaskiem idei piękna. Człowiek powstaje i ginie, rzecz piękna bywa stworzona i może zmarnieć — ale człowieczeństwo, piękno jako prawzór wszelkiego człowieka i wszelkiej pięknej rzeczy, idea człowieka i idea piękna jest wieczna, nie powstała nigdy i nigdy zginąć nie może.
+
+
+Skąd znamy idee?
+
+Skądże jednak znamy te idee, które, razem wszystkie wzięte, tworzą ów wieczny i doskonały świat idei? Wszak tu na ziemi spostrzegamy tylko ich kopie! To, co spostrzegamy, to przecież nie idea człowieka, lecz ten lub ów człowiek; nie spostrzegamy też idei piękna, lecz tę lub ową rzecz piękną! Istotnie, uczy *Platon*, spostrzegać idei, zmysłami ich poznać nic możemy. Ale możemy je sobie *pomyśleć*, możemy je sobie uobecnić rozumem, gdy spostrzegamy ich kopie. Czym bowiem dla zmysłów te oto tu konkretne stworzenia i rzeczy, tym dla rozumu są idee tych konkretnych stworzeń i rzeczy. A jak *wyobrażeniu*, które jest dziełem spostrzeżenia, odpowiada ten oto tu człowiek, ta oto tu rzecz piękna, tak *pojęciu*, które jest wytworem rozumu, odpowiada idea człowieka, idea piękna. I nic dziwnego, że rozum zdolny jest posiąść pojęcie idei; wszak wywołując w sobie na widok pięknych rzeczy ideę piękna, rozum właściwie pojęcia tego nie wytwarza, lecz je sobie odtwarza; rozum przypomina sobie ideę piękna, człowieczeństwa itd., gdyż był czas, kiedy rozum idee te oglądał. Nim się bowiem dusza z ciałem połączyła, żyła błogo i szczęśliwie w świecie wiecznych idei; wtedy je poznała, a one wryły się w nią tak głęboko, że nawet sprzęgnięcie duszy z ciałem nie może ich w zupełności wymazać. A gdy obecnie widzimy coś, w czym się idea uwydatnia nieco wyraźniej, przypominamy ją sobie wszak z czasów życia przedziemskiego.
+
+
+Przeznaczenie człowieka
+
+Skoro więc świat ziemski, świat zmysłowy, jest tylko odblaskiem świetlanego świata idei, czyż dziwić się można duszy, że tęskni serdeczną miłością za owym światem, który jest zarazem jej prawdziwą i pierwotną ojczyzną? Ku tamtemu też światu wiedzie duszę jej przeznaczenie. Im bardziej, im szybciej potrafi się uczynić niezależną od ciała i zmysłów, które ją odgradzają od świata idei, tym rychlej doń powróci, odzyskując w miejsce tęsknoty spokój i oglądanie rzeczy najdoskonalszych.
+
+
+Dwa światy Platona
+
+Dwa są więc światy: jeden zmysłowy, drugi doskonały, ideowy; jeden istnieje oddzielnie od drugiego tak jak obraz w zwierciadle jest oddzielony od przedmiotu, który się w nim odbija. A człowiek, którego dusza z owego wyższego pochodzi świata, czuje się jakby w więzieniu jakimś w tym świecie zmysłowym i do wyższego tęskni i dąży ku niemu, póki doń nie powróci.
+
+
+Filozofia Arystotolesa
+
+5. Myśl *Platona* podjął uczeń jego *Arystoteles* i na równi z nim uczył, że należy od siebie odróżnić świat zmysłowy i rozumowy, albo też cielesny i duchowy. Ale według *Arystotelesa* nie istnieją te dwa światy obok siebie, oddzielnie, lecz w sobie, nawzajem się przenikając.
+
+
+Pierwiastek czynny i bierny
+
+Idea człowieka, człowieczeństwo samo w sobie, nie bytuje gdzieś w zaświatach, lecz w każdym jest człowieku jako jego istota, jako to, co człowieka czyni człowiekiem. Wszak z kości, mięśni, krwi itd. różne powstać mogą stworzenia. Że jednak w danym wypadku z tych składników powstał człowiek, a nie ptak lub ryba, to pochodzi stąd, że w owym materiale na żywe stworzenie ziściła się istota człowiecza. Cokolwiek jest, z jakiegoś materiału się składa, z jakiejś materii, i z czegoś, co się w tej materii iści, urzeczywistnia, kształtując materię na rzecz taką lub owaką. Więc też we wszystkim jest składnik bierny, materialny, i składnik czynny. Ale nie we wszystkim oba te pierwiastki w jednakowej mierze się uwydatniają. W jednych rzeczach przeważa bierny, w innych czynny, i tym sposobem można wszystko, co istnieje, ułożyć w szereg, na którego najniższym szczeblu stać będzie to, co jest niemal całkiem bierne, co zupełnie czynnego pierwiastka nie posiada — to będzie pramateria; na najwyższym zaś szczeblu będzie to, co nic w sobie bierngo nie ma, co jest samym czynem, a tym jest Bóg.
+
+
+Cel człowieka
+
+Więc owe światy nawzajem się przenikają, zlane w jeden tylko świat. A człowiek? On w obu pierwiastkach uczestniczy, mając w sobie pierwiastek bierny, materialny, a zarazem też pierwiastek boski, nieśmiertelny. A skoro istotą Boga jest czysty, z żadną biernością niezmieszany czyn, przeto też przeznaczeniem człowieka jest być czynnym, działać w kierunku przez boski pierwiastek mu wskazanym. A ponieważ czynność tym wyższa będzie, im bardziej do boskiej będzie podobna, i ponieważ Bóg jako istota zupełnie niematerialna tylko myślą działać może, przeto i dla człowieka ideałem działania jest czynność myślenia rozumowego, naukowego. Myśliciel, oto człowiek najdoskonalszy.
+
+
+Późniejsza filozofia grecka
+
+6. Wznieść się do takich wyżyn, stanąć tak wysoko ponad światem namacalnym i dotykalnym, jak to uczynili *Platon* i *Arystoteles*, nie było danym szerszemu ogółowi Greków. A widząc w poglądach obu mędrców sprzeczności liczne, zaczęli powątpiewać o możności rozwiązania tych wszystkich zagadnień, którymi się zajmowali. Tymczasem jednak życie domagało się stanowczej odpowiedzi na pytania bardzo realne, na pytanie, co czynić i jak postępować należy, by uzyskać chociażby względne zadowolenie i uwolnić się od trosk, niepokojów, cierpień. Powstały wiec nowe kierunki filozoficzne: jeden *sceptyczny*, nie wierzący w zdolność umysłu ludzkiego do rozwiązania zagadnień, którymi zajmował się *Platon* i *Arystoteles*, oraz dwa kierunki *praktyczne*, pragnące przede wszystkim nauczyć człowieka tak żyć, aby mu było dobrze tu na ziemi: *epikureizm* i *stoicyzm*.
+
+
+Epikureizm, stoicyzm
+
+Ale chociaż oba te kierunki praktyczne zgadzały się ze sobą w swych celach, chociaż oba usiłowały sformułować głównie przepisy życiowe i zapewnić człowiekowi względne zadowolenie, przecież pod jednym względem bardzo się między sobą różniły. *Epikureizm*, oparty na teorii atomistycznej, nie bardzo wierzył w zaświaty, brał życie ze strony pogodnej i swobodnej, a chociaż nie pozwalał poddawać się ślepo namiętnościom i gonić bezmyślnie za rozkoszami zmysłowymi, przecież uznawał, że człowiek ma wszelkie prawo do urządzenia sobie życia w sposób jak najprzyjemniejszy. Zupełnie inaczej *Stoicy*. Im się życie przedstawiało jako rzecz niesłychanie poważna; wierzyli, że światem rządzi rozum; toteż i człowiek rozumem rządzić się winien przede wszystkim. Przyjemności życiowe, chociażby najwytworniejsze — to rzecz mała, nikomu szczęścia nie dająca; zadowolenie znaleźć można jedynie w ścisłym spełnieniu swych obowiązków, opartym na zrozumieniu własnego w świecie stanowiska.
+
+
+Filozofia hellenistyczna
+
+7. Takie istniały prądy i kierunki w filozofii greckiej w chwili, gdy zaczęła się tworzyć kultura *hellenistyczna*, która powstała dzięki zetknięciu się i wzajemnemu przenikaniu myśli greckiej z dwoma innymi pierwiastkami cywilizacyjnymi: z rzymskim i wschodnim. Wyprawa *Aleksandra Wielkiego* na wschód, stopniowy podbój wszystkich krajów nad Morzem Śródziemnym położonych przez Rzymian — oto wypadki polityczne, które epokę tę inaugurują. Myśl filozoficzna, w epoce największego rozkwitu filozofii greckiej w jednym skupiona ognisku, w *Atenach*, zyskuje obecnie dwa nowe ogniska, o nierównym co prawda znaczeniu, *Rzym* i *Aleksandrię*, jedno na zachodzie, drugie na wschodzie. A zarazem dokonywa się w filozofii bardzo znamienne przeobrażenie. Filozofia, której początkiem był zanik wiary w mity i podania legendarne, która zaczęła swą pracę od sprowadzenia najżywotniejszych zagadnień z nieba na ziemię, obecnie zwraca wzrok swój znowu ku niebu. I nie tylko to. Zwątpiwszy po tylu niezgodnych ze sobą próbach rozumowego rozwiązania tych zagadnień o zdolnościach rozumu ludzkiego, innego chwyta się sposobu wniknięcia w tajemnice bytu. Nie bystrością myśli, lecz żarem uczucia wznosi się dusza ludzka ku początkom bytu i zlawszy się w najwyższej ekstazie ze źródłem wszelkiego istnienia, ogląda bezpośrednio w pełnej zachwytów kontemplacji istotę najdoskonalszą.
+
+
+Neoplatonizm. Plotyn
+
+8. Tak uczy filozofia *neoplatońska*, utworzona przez *Plotyna* w III wieku po Chrystusie. Neoplatońską się nazywa, gdyż nie tylko czci i wielbi *Platona* jako mistrza wszelkiej filozofii, lecz zarazem czerpie z nauki jego szereg zasadniczych myśli. Neoplatonizm przejmuje od *Platona* idee, przeciwstawiając im świat zmysłowy. Ale zarazem uzupełnia i po części zmienia naukę *Platona*. Ponad idee bowiem stawia byt jeszcze od nich wyższy, *prajedność*. Wszystko inne z tej prajedności wypływa, jak ze słońca wszelkie wypływa światło. Więc: rozum, dusza czyli pierwiastek życia, materia. Rozum, będąc najbliższym boskiej prajedności, jest też pod względem swej istoty najbardziej do niej zbliżony; rozum ten, jak każdy rozum, myśli; a myślami jego są idee, pierwowzory wszechrzeczy. Znacznie mniej boskiego pierwiastka zawiera w sobie dusza, a już wręcz przeciwieństwem boskiej prajedności jest materia. Wprawdzie i ona wypływa z tej prajedności, ale tylko tak, jak cień zjawia się na krańcach światła. Jeśli więc prajedność jaśnieje blaskami wszystkiego, co dobre, materia jest siedliskiem wszelkiego zła i ciemnoty. Pomiędzy te główne wypływy czyli *emanacje* prajedności wsunięto wiele innych, niezliczone rzesze dusz i duchów, zaludniających w postaci różnych demonów i aniołów wszechświat.
+
+
+Mistycyzm
+
+Neoplatonizm przedstawia się tedy jako system filozoficzno-religijny o silnym zabarwieniu mistycznym. Mistycyzmem bowiem nazywa się wiara w bezpośrednie komunikowanie się duszy ludzkiej za pomocą ekstazy z istotą najwyższą, jako też wiara w ustawicznie niemal wzajemne oddziaływanie na siebie człowieka i różnorodnych duchów, z czym oczywiście łączą się i u neoplatoników istotnie łączyły się liczne praktyki czarnoksięskie i cudotwórcze.
+
+
+Stoicyzm późniejszy
+
+9. Podobnie jak neoplatonizm, tak też stoicyzm wchłonął w siebie pewne pierwiastki religijne. Wiara w rządzący wszechświatem rozum, tkwiąca już w pierwotnych założeniach stoicyzmu, przeobraziła się stopniowo w wiarę w opatrzność. Cesarz *Marek Aureliusz*, umierając w 23 lat przed przyjściem na świat twórcy neoplatonizmu, pozostawia pamiętniki, rozmyślania, które są doskonałym wyrazem ówczesnej filozofii stoickiej. Kilka zdań z tego dzieła najlepiej odda jego charakter: „Cokolwiek czynisz i cokolwiek myślisz, niechaj będzie takim, jak gdybyś miał za chwilę rozstać się z tym światem. Ustąpić spośród ludzi nie jest rzeczą straszną, jeśli istnieją Bogowie, albowiem oni nie rzucą Ciebie na pastwę nieszczęść: jeśli natomiast nie ma Bogów, albo jeśli się oni nie troszczą o sprawy ludzkie, cóż wtedy za wartość może mieć życie w świecie, pozbawionym Bogów i opatrzności? Ale Bogowie są i troszczą się o człowieka”. (Księga II, 11). — Albo: „Wszystko jest pełne śladów boskiej opatrzności. Nawet zdarzenia przypadkowe nie są czymś nienaturalnym, lecz zależą od współdziałania i splatania się przyczyn, kierowanych opatrznością. Wszystko jest dziełem opatrzności”. (Księga II, 3). — Wobec takich poglądów nie może się wydać dziwnym zdanie *św. Augustyna*, że życie tego poganina zasługuje na to, by je naśladowali chrześcijanie. Wszak to zupełne poddanie się woli opatrzności jest jednym z najznamienitszych rysów chrześcijańskiego życia. Więc i stoicyzm możemy w jego fazach późniejszych uważać za system filozoficzno-religijny.
+
+
+Religijne zabarwienie filozofii
+
+Zarówno w neoplatonizmie, jak też w stoicyzmie rzymskim, pierwiastek filozoficzny jest wcześniejszy, religijny późniejszy. Pierwotny stoicyzm i pierwotny platonizm były systematami wyłącznie filozoficznymi; dzięki jednak cechującemu je ogólnemu nastrojowi, jeśli tak wyrazić się można, wchłonęły w siebie bardzo łatwo czynniki religijno-mistyczne, przeobrażając się tym sposobem w poglądy filozoficzno-religijne.
+
+
+Philo Judaeus
+
+10. Odwrotne ustosunkowanie pierwiastka filozoficznego i religijnego okazuje nam inny kierunek myśli, wcześniejszy od neoplatonizmu, wcześniejszy od cesarskiego stoika. Neoplatonizm jest dziełem Greka, a chociaż stoicyzm jest także dziełem myślicieli greckich, zabarwienie religijne nadali mu stoicy rzymscy. Trzeci natomiast kierunek religijno-filozoficzny powstał w ten sposób, że religijne wierzenia żydów otrzymały zabarwienie filozoficzne. Twórcą tego kierunku jest *Philo Judaeus*, żyjący w Aleksandrii za Chrystusa. Wychodzi on z założenia, że prawda znajduje się jedynie w księgach świętych zakonu żydowskiego. Ale i u filozofów greckich, zwłaszcza u *Platona* i *Arystotelesa* znajduje wiele rzeczy, które go przekonują. Więc przyjmuje, że filozofowie greccy jakimiś bliżej nieznanymi drogami czerpali z *Mojżesza* i usiłuje w tym szeregu komentarzy do pisma świętego starego zakonu wykazać, że między nauką *Platona* i *Arystotelesa* z jednej, a *Mojżesza* z drugiej strony zachodzi we wszystkich zasadniczych punktach zgodność. Tym sposobem wytwarza się w umyśle *Philona* pogląd filozoficzno-religijny, z którego wiele myśli zaczerpnęły niemal wszystkie późniejsze systemy filozoficzno-religijne, a między nimi także neoplatonizm i filozofia chrześcijańska.
+
+
+Logos
+
+Najważniejszą z tych myśli jest pojęcie pośrednika pomiędzy Bogiem a światem. Bóg jest czymś od świata tak nieskończenie wyższym, że bezpośrednio nań działać i nawet bezpośrednio sam go tworzyć nie może. Stworzenie świata jest więc dziełem pośrednika między Bogiem a światem, zwanego przez *Philona* Logos, a Logos ten to ogół wszystkich idei czyli pierwowzorów rzeczy. Tym samym w Logosie spoczywa z góry cały układ i cała postać świata stworzonego z wszystkimi jego szczegółami. Ten Logos ma jeszcze dwie inne nazwy: nazywa się *Mądrością* albo też *Słowem*, według tego, czy plan stworzenia, spoczywający w Logosie, pojmujemy jako przez Boga pomyślany, czy też jako już przez Boga uzewnętrzniony, wypowiedziany. Sam zaś Logos, sama ta Mądrość, samo to Słowo jest wypływem, emanacją Boga.
+
+
+Znaczenie Philona
+
+Wystarczy to, by zrozumieć, ile neoplatonizm zawdzięcza poglądom *Philona*, a zawdzięcza mu nadto całą naukę o duchach i aniołach, tj. uosobionych siłach i władzach bożych; wystarczy też, by uzasadnić twierdzenie, że trzeci z omawianych kierunków filozoficzno-religijnych okresu hellenistycznego powstał odmiennie od tamtych dwóch, bo powstał dzięki przeszczepieniu poglądów filozoficznych na podłoże religijne.
+
+
+Synkretyzm żydowski
+
+11. Były jeszcze inne kierunki, ale tutaj należało wspomnieć tylko o tych, które są nam potrzebne do zrozumienia wzajemnego stosunku filozofii starożytnej i średniowiecznej. Pamiętać więc należy, że zarówno stoicyzm rzymski, jak też neoplatonizm i ów trzeci kierunek, zwany zwykle *synkretyzmem* żydowskim, należą chronologicznie w całej pełni do filozofii starożytnej. A jednak, z istoty swej, pokrewniejsze są filozofii średniowiecznej.
+
+
+Synkretyzm chrześcijański
+
+Wszak filozofia średniowieczna — to także szereg systemów filozoficzno-religijnych z tą tylko w porównaniu z tamtymi różnicą, że pierwiastek religijny czerpią głównie z chrześcijaństwa. Nie brak jednak w wiekach średnich także systemów filozoficznych o podłożu religijnym żydowskim, a nawet prób wskrzeszenia filozoficzno-religijnych poglądów neoplatonizmu.
+
+
+Filozofia starożytna a średniowieczna
+
+Tak więc nie ma ścisłej granicy między średniowieczną i starożytną filozofią; już bowiem w starożytnym okresie jej dziejów zaczynają się początki systemów filozoliczno-religijnych na tle chrześcijaństwa, a jeszcze w średniowiecze sięgają systemy filozoficzno-religijne o podkładzie niechrześcijańskim. Filozofia średniowieczna korzeniami swymi sięga w starożytną, a starożytna rozgałęzieniem swych konarów w średniowieczną. I tylko wtedy, gdy bardzo ogólnikowo zechcemy się wyrazić, będziemy mogli powiedzieć, że filozofię starożytną od średniowiecznej różni i odgranicza się tym, że pierwsza była pogańska, a druga chrześcijańska. Skoro jednak zechcemy być nieco ściślejszymi, będziemy się musieli liczyć z faktem, że tak w starożytnej, jak w średniowiecznej filozofii istnieją systemy filozoficzno-religijne na tle wiary mojżeszowej i że nie brak w wiekach średnich zwolenników systemów religijno-filozoficznych pogańskich.
+
+
+Zjawienie się chrześcijaństwa
+
+12. Nie wolno jednak przeoczyć tej niewątpliwej prawdy, że z chwilą zjawienia się chrześcijaństwa występuje czynnik nowy, światu starożytnemu nieznany: czynnik, który do istniejących już systemów filozoficzno-religijnych miał dorzucić cały szereg nowych.
+
+
+
+Wykład drugi.
+Filozofia i chrześcijaństwo
+
+1. Pierwotny i późniejszy stosunek wzajemny filozofii i chrześcijaństwa. — 2. Dążność do usystemizowania wierzeń chrześcijańskich przy pomocy pojęć filozoficznych. Gnostycyzm. — 3. Sobór nicejski. — 4. Św. Augustyn. — 5. Jego stanowisko filozoficzne i znaczenie w Kościele. — 6. Zastój w ruchu filozoficznym po św. Augustynie. — Komentarze, przekłady, podręczniki. — 7. Przeobrażenia polityczne. — 8. Ruch misjonarski, powstawanie szkół klasztornych i katedralnych. — 9. Filozofia scholastyczna w obszerniejszym i w ściślejszym znaczeniu — 10. Kierunek mistyczny, przebłyski kierunku empiryczno-przyrodniczego w wiekach średnich. — 11. Platon i Arystoteles w wiekach średnich.
+
+
+Pierwotny stosunek filozofii i chrześcijaństwa
+
+1. Zrazu chrześcijaństwo z filozofią nic wspólnego nie miało i mieć nie chciało, a tak samo filozofia z chrześcijaństwem. Zrazu bowiem chrześcijaństwo występuje jako opozycja przeciw wszelkiej mądrości „tego świata”, więc także przeciw filozofii; a tak samo też filozofowie pogańscy tylko pogardę odczuwać mogą dla nauki, której twórca umarł śmiercią, uważaną w owych czasach za najhaniebniejszą.
+
+
+Późniejszy stosunek filozofii i chrześcijaństwa
+
+Niebawem jednak stosunek ten uległ zmianie. Nauka Chrystusowa właśnie dzięki swej opozycji do mądrości ówczesnego świata i w ogóle do całego ówczesnego porządku rzeczy doznawała licznych prześladowań, musiała więc zająć stanowisko obronne i odpierać czynione jej zarzuty. Nie mogła też ograniczyć się raz na zawsze do takiego wyłącznie obronnego stanowiska. Wszak chrześcijaństwo czuło w sobie misję zawładnięcia „tym światem”, do czego je zresztą obowiązywał wyraźny rozkaz mistrza. Konieczność własnej obrony i obowiązek szerzenia dobrej nowiny zrodziły potrzebę dokładniejszego sformułowania nauki, wymagającej obrony i domagającej się rozszerzenia. A sformułowanie to mogło nastąpić tylko przy pomocy pojęć filozoficznych. Musiało tedy chrześcijaństwo bardzo wcześnie zacząć posługiwać się wynikami prac i rozmyślań filozofów — zrazu oczywiście niechrześcijańskich — a stąd zawiązał się odmienny od pierwotnego między nim a filozofią starożytną stosunek.
+
+
+Justyn, Tertullian
+
+Oba stosunki, wrogi i przyjazny, znajdują swój wyraz już w pismach autorów żyjących w pierwszych wiekach ery chrześcijańskiej. Są wśród nich tacy, co jak *Justyn* męczennik uważają *Platona* za chrześcijanina, tyle w jego poglądach znajdują pierwiastków istotnych nauce Chrystusowej; ale są i tacy, którzy jak *Tertullian* za nic mają wszelką filozofię, tę „matkę wszystkich herezji”, tak dalece prawdy szukać i widzieć ją pragną jedynie w piśmie świętym. Rozwój myśli chrześcijańskiej nie poszedł jednak śladami *Tertulliana*, lecz *Justyna*. Zwyciężyli ci, którzy odczuwali potrzebę ujęcia nauki Chrystusowej w system religijno-filozoficzny, oparty na objawieniu, nie wyrażony w pojęciach filozofii greckiej i hellenistycznej.
+
+
+Gnosis
+
+2. Z początku praca nad wytworzeniem takiego systemu przedstawia się dość rozbieżnie. Rozpoczyna się w *Aleksandrii* i prowadzi do całego szeregu poglądów na Boga, świat, człowieka i na wzajemny ich stosunek, poglądów znanych pod nazwą *gnostycyzmu*. Nazwa pochodzi od greckiego wyrazu gnosis, który oznacza wiedzę. Przedstawiciele bowiem tych kierunków pragną miejsce ślepej wiary religijnej zastąpić wiedzą. Wiedza zaś, którą podają, składa się z dziwnej mieszaniny poglądów, czerpanych z neoplatonizmu, synkretyzmu żydowskiego i chrześcijaństwa. Systemy gnostyczne powstają przeważnie w pierwszej połowie II wieku ery chrześcijańskiej, a najwybitniejsze wśród ich twórców miejsca zajmują *Bazylides* i *Walentynus*. — Bez porównania mniejszą fantastycznością i o wiele silniejszym uwydatnieniem właściwych pierwiastków chrześcijańskich odznacza się stanowisko *Klemensa z Aleksandrii* (um. 217), który z gnostykami ma tę wspólną cechę, iż, jak oni, dąży od prostej wiary przez poznanie do wiedzy. Ale *Klemens z Aleksandrii* nie stworzył zaokrąglonego poglądu; uczynili to w kierunku przez niego wskazanym dopiero *Orygenes* (um. 254), pisząc w języku greckim, i *Laktancjusz* (um. 325), w języku łacińskim.
+
+
+Sobór nicejski
+
+3. W roku, w którym umarł *Laktancjusz*, odbywa się *sobór nicejski*, tak ważny dla ustalenia religijno-filozoficznych poglądów chrześcijaństwa. Dotąd wobec braku jednolitości w tych poglądach nie zawsze można było stwierdzić, który z nich ma niejako charakter urzędowy, który jest prawowierną nauką Kościoła, w przeciwieństwie do poglądów od tego prawowiernego odbiegających czyli do tzw. herezji. A potrzeba ustalenia urzędowego wyznania wiary stała się sprawą wprost piekącą w chwili, gdy chrześcijaństwo za cesarza *Konstantyna Wielkiego* stało się religią państwową, które też pozostało mimo podjętych przez *Juliana Apostatę* usiłowań przywrócenia pogaństwu dawnego w państwie stanowiska.
+
+
+Dogmat Trójcy
+
+Ustalenie poglądów religijno-filozoficznych chrześcijaństwa, dokonane w jednym z najważniejszych głównych punktów na soborze nicejskim, było dziełem *Atanazego*, biskupa aleksandryjskiego (um. 373). Punkt ten dotyczył nauki o Trójcy, tj. o Bogu, będącym Ojcem, Synem (Logosem) i Duchem św. Uchwały, na soborze nicejskim powzięte, uzupełnił *synod konstantynopolitański* w r. 381 i odtąd poglądy filozoficzno-religijne na Boga w istocie swej jednego, w osobach zaś troistego, są w nauce kościelnej względnie ustalone, tworząc podstawę, na której można było przystąpić do dalszej budowy systemu myśli chrześcijańskiej.
+
+
+Ojcowie Kościoła
+
+4. Toteż, opierając się na *Orygenesie* i *Atanazym* podejmuje się *Grzegorz z Nyssy* (um. 394) utworzenia rozumowego uzasadnienia systemu wiary chrześcijańskiej. A tego samego zadania podjął się też młodszy o 23 lat od *Grzegorza św. Augustyn* (ur. 354, um. 430), ostatni i najsławniejszy z „ojców Kościoła”, jak nazwano wszystkich tych pisarzy, którzy sformułowali zasadnicze twierdzenia nauki kościelnej i stali się tym sposobem duchowymi rodzicami jej podstawowej treści, jej dogmatów.
+
+
+Podstawa filozofii św. Augustyna
+
+Rzecz ciekawa, że *św. Augustyn*, żyjąc u schyłku ery starożytnej, zdobywa sobie niewzruszony fundament dla swych poglądów filozoficzno-religijnych w zupełnie ten sam sposób, w jaki o 12 wieków później uczynił to *René Descartes*, stając u progu filozofii nowożytnej. *Św. Augustyn*, wychowany przez matkę w chrześcijaństwie — ojciec jego był poganinem — niebawem zaczął wyznawać *manicheizm*, naukę stworzoną przez Persa nazwiskiem *Mani* w wieku III, a polegającą na pewnym połączeniu poglądów gnostycznych z nauką *Zaratustry* o walczących ze sobą pierwiastkach dobrym i złym, później popadł w sceptycyzm, po czym zwrócił się do filozofii platońskiej i neoplatońskiej, aby nareszcie pod wpływem *św. Ambrożego* stał się jednym z najgorętszych i najbardziej zasłużonych wyznawców nauki kościelnej. *Św. Augustyn*, przez tyle przeszedłszy najrozmaitszych poglądów, szuka niezachwianej podstawy, na której mógłby oprzeć rozumowe uzasadnienie chrześcijańskiego poglądu na świat. Podstawę tę znajduje w przekonaniu o istnieniu swego własnego życia umysłowego, swego myślenia, uczucia, pragnienia. O czymkolwiek byśmy zwątpili, to przecież o tym, że myślimy, czujemy i pragniemy, wątpić nie możemy, gdyż wątpienie samo jest myśleniem, uczuciem i pragnieniem. Jest to zupełnie ten sam tok rozumowania, który *Descartesa* doprowadził do twierdzenia cogito, ergo sum: myślę, więc jestem.
+
+
+Rozum wieczny
+
+Myśląc, poznaję pewne prawdy, które też kierują mym myśleniem, prawdy wieczne i niezmienne, jak np. że żadna rzecz nie może w tej samej chwili być i nie być, albo że dwie rzeczy różne nie mogą być tą samą rzeczą. Niepodobna nie uznawać tych prawd; one niewątpliwie są, istnieją. Ale jakże może prawda wieczna istnieć w ograniczonym, zamkniętym w ciasnych granicach rozumie ludzkim? Tylko w rozumie wiecznym prawdy wieczne istnieć mogą. A tym rozumem wiecznym jest rozum boski, obejmujący sobą te prawdy w tym samym zupełnie znaczeniu, w jakim rozum wynikły z prajedni neoplatońskiej obejmuje idee, pierwowzory wszystkich rzeczy. Albowiem nasz ludzki rozum wraz z poznanymi przez nas i dzięki temu żyjącymi w nas prawdami jest odzwierciedleniem, obrazem rozumu boskiego i wiecznie w nim żyjącej prawdy wiecznej. I nie z własnej siły ludzki rozum do poznania owych prawd wiecznych dochodzi, lecz dzięki temu, że go rozum boski oświeca. Tak więc prawdę zawsze w Bogu poznajemy i w Nim ją oglądamy.
+
+
+Człowiek obrazem Boga
+
+Ale nie tylko rozum ludzki, lecz cała jego duchowa istota jest odzwierciedleniem boskiej istoty. Wszak duchowa istota ludzka, istniejąc poznaje i chce; mówiąc innymi słowy: w duszy swej człowiek łączy pamięć, przechowującą całą treść jego bytu, dalej rozum i wolę. I jak pamięć, rozum i wola, chociaż między sobą różne, jedną tworzą w każdym człowieku istotę tak też Ojciec, Syn i Duch św. jedną tworzą istotę boską, różnymi będąc osobami.
+
+
+Platonizm św. Augustyna
+
+W sposobie, w jaki *św. Augustyn* pojmuje stosunek duszy ludzkiej do Boga, widać całkiem wyraźny wpływ poglądów platońskich. Wpływ ten jeszcze w wielu innych względach można stwierdzić u *św. Augustyna*. Należy do nich też jaskrawe przeciwstawienie dwóch światów, tym jaskrawsze, że w tej mierze św. Augustyn zbliża się poniekąd do neoplatonizmu a nawet do manicheizmu.
+
+
+Upadek i zbawienie człowieka
+
+Albowiem nie tylko duszą człowiek jest, lecz także ciałem. I ciało, pierwiastek materialny, zmysłowy, sprawiło, że pierwszy człowiek, posiadając jeszcze możność zupełnie swobodnego i wolnego wyboru między dobrem a złem, żyjąc w stanie, w którym mógł nie grzeszyć, uległ pokusie, dzięki czemu całe jego potomstwo pierwotną wolność woli utraciło i popadło w stan, w którym już nie może nie grzeszyć. I tylko ci, którym Bóg udzieli swej łaski, mogą się spod konieczności grzechu wyzwolić i osiągnąć zbawienie wieczne, stan, w którym nie mogą grzeszyć; tamci zaś są skazani na wieczne potępienie.
+
+
+Państwo Boga i szatana
+
+Tak więc cała ludzkość rozpada się na dwa przeciwne obozy: wybranych i potępionych, dzieci Boga i dzieci szatana. Już w Ablu i Kainie przeciwieństwo to się zaznacza. Otóż *św. Augustyn* przeprowadził je przez cały rozwój świata, o ile tenże był mu znany, i dał nam tym sposobem w jednym ze swych dzieł historiozoficzny pogląd na dzieje ludzkości. W poglądzie tym uwydatnia myśl zasadniczą, iż wszystkie istoty do jednego z owych dwóch należą światów, do jednej z dwóch społeczności. Do społeczności bożej prócz samego Boga należą aniołowie Bogu wierni i ludzie do zbawienia przeznaczeni; do społeczności szatańskiej zaliczyć trzeba aniołów upadłych i ludzi na potępienie wieczne przeznaczonych. Członkowie państwa bożego i szatańskiego żyją jedni obok i pośród drugich, nawzajem się zwalczając; ale w miarę postępu dziejów coraz wyraźniej się rozstępują, coraz silniej zarysowuje się między nimi przeciwieństwo, a ostatecznym celem rozwoju dziejowego jest zupełne oddzielenie jednego państwa od drugiego, wybranych od potępionych. Najważniejszym zdarzeniem historycznym jest wcielenie się słowa bożego, przyjście na świat Chrystusa. Z nim zaczyna się ostatni okres dziejowy, a okresów tych jest sześć, tak jak sześć było dni stworzenia. Gdy ten okres szósty dobiegnie swego końca, gdy w sądzie ostatecznym wybrańcy łaski staną po prawicy, by wejść w wieczną chwałę i dostąpić oglądania Boga, a potępieńcy gniewu staną po lewicy, by ulec już na wieki katuszom piekielnym, wtedy też nastanie dzień odpoczynku, dzień pokoju bożego w wszechświecie.
+
+
+Zakres filozofii św. Augustyna
+
+5. Wychodząc od rozbioru treści swej świadomości i rozpatrywania własnych czynności duchowych, doszedł *św. Augustyn* do poglądu na świat, który obejmuje ziemię i niebo, i piekło, człowieka, Boga i szatana, całą przeszłość od utworzenia świata i całą przyszłość aż do sądu ostatecznego. W poglądzie tym zlewa się w jedną całość, może nie zawsze dość jednolitą, ogromne bogactwo czynników myślowych, czerpanych z wierzeń wschodu, z filozofów greckich, rzymskich i hellenistycznych oraz z pisma świętego. Szeroki i wysoki gmach myśli *św. Augustyna* jak widna w jedną i drugą stronę baszta stoi u granicy starożytności i średniowiecza, a jeżeli oczywiście *św. Augustyn* zawdzięcza wiele, bardzo wiele filozofom starożytnym, z pewnością nie mniej mają jemu do zawdzięczenia filozofowie średniowieczni, a nawet nowożytni.
+
+
+Znaczenie św. Augustyna w Kościele
+
+Do największej jednak wdzięczności zobowiązany był i jest *św. Augustynowi* Kościół katolicki. Wprawdzie niejedno z twierdzeń jego musiał złagodzić, inaczej nieco tłumaczyć, ale faktem pozostanie, że *św. Augustyn* stworzył system religijno-filozoficzny, który jest jakby uwieńczeniem wszelkich poprzednich w tym kierunku usiłowań, i który zarazem na długie wieki wskazał kierunek późniejszym rozmyślaniom filozofów chrześcijańskich, dostarczając im zarówno nowych problematów, jak też punktów wytycznych dla ich rozwiązania. Trzeba było czekać osiem wieków, aby ujrzeć równie szeroko pojętą i przeprowadzoną, lecz na innych podstawach filozoficznych opartą syntezę filozoficzno-religijną (zob. wykład IV).
+
+
+Czasy zastoju
+
+6. Wysiliwszy się na tak wybitne konstrukcje myślowe, jakimi są systemy *Grzegorza z Nyssy* i *św. Augustyna*, ludzkość jak gdyby wyczerpała się. Nigdzie nie zjawia się teraz przez cztery wieki żadna ważniejsza myśl oryginalna, nowa. Ci, którzy piszą i naukowo pracują, ograniczają się do zestawiania, objaśniania, formułowania tego, co inni przed nimi już znaleźli. A dzieje się tak zarówno na zachodzie, wśród po łacinie, jak na wschodzie, wśród po grecku piszących autorów.
+
+Do pierwszych należą m.in.:
+
+
+Marcianus Capella
+
+*Marcianus Capella*, który wywarł olbrzymi wpływ na całe wieki średnie i nawet późniejsze napisanym około r. 430 dziełem pt. Satyricon. W dziele tym podaje zarys znanych wówczas nauk, a czyni to w układzie, który stał się wzorem na długie bardzo czasy przy udzielaniu tych nauk w szkołach. Układ ten dzieli nauki na dwie grupy: Artes i Disciplinae. Pierwszych jest trzy, mianowicie gramatyka, dialektyka, retoryka; drugich jest cztery, arytmetyka, geometria, muzyka, astronomia. Pierwsze trzy nazywają się razem niekiedy logiką, albo też trivium; drugie cztery bywają zwane matematyką, później fizyką, albo też quadrivium.
+
+
+Boëthius
+
+*Boëthius*, żyjący około r. 500, przez niektórych uważany za chrześcijanina, wywarł bardzo wielki wpływ podręcznikami i przekładami łacińskimi logiki Arystotelesa, oraz objaśnieniem do przekładu pewnego dziełka Porfiriusza, ucznia *Plotyna*. *Porfiriusz* napisał był mianowicie wstęp do rozprawy Arystotelesa o kategoriach czyli o głównych rodzajach bytu. Różne myśli i wątpliwości, sformułowane przez Boecjusza w komentarzu do tego wstępu, stały się punktem wyjścia dla jednego z najbardziej zaciętych sporów filozoficznych, które prowadzono w wiekach średnich (zob. III. 8). Nadto ogromnie czytywano inną rzecz tegoż autora pisaną na przemian prozą i wierszem pt. De consolatione philosophiae libri quinque, tj. Ksiąg pięcioro o pocieszeniu, które nam daje filozofia.
+
+Wśród drugich zasługują tu na wzmiankę:
+
+
+Areopagita
+
+*Pseudo-Dionysius Areopagita*, autor, który podszył się pod nazwisko znanego z dziejów apostolskich pierwszego biskupa ateńskiego, sam zaś żył w wieku piątym. W całym szeregu pism, traktujących o imionach Boga, o teologii mistycznej, o hierarchii niebieskiej i o hierarchii kościelnej, usiłuje ująć zasadnicze myśli chrześcijaństwa w schemat neoplatoński, przy czym jednak pojęcie emanacji zastępuje pojęciem tworzenia. Te wszystkie więc stopnie istot, które według Plotyna drogą emanacji wyłaniają się z prajedni, tutaj przez Boga są stworzone; stopnie te najdokładniej autor określa, jak np. znane chóry anielskie w liczbie dziewięciu itp. Oczywiście i dla tego autora mistyczne zatapianie się w Bogu, ekstatyczne oglądanie go jest najwyższym szczytem i ostatecznym celem życia ludzkiego. Na rzekomym Dionizym opiera się w znacznej mierze *Maximus Confessor*, Maksym Wyznawca (580–662), którego dzieła nabrały później wielkiego znaczenia dla Kościoła Wschodniego. Z jego poglądów godne zapamiętania jest twierdzenie, że Bóg objawia nie tylko w piśmie św., lecz także w przyrodzie, która jest jego dziełem. Do pracy kompilatorskiej ogranicza się też *Jan Damasceński* (około roku 700), zestawiający przy pomocy pojęć, zaczerpniętych z logiki i metafizyki arystotelesowej w sposób systematyczny całość nauki kościelnej i wywierający dzięki temu ogromny wpływ na dalszy rozwój teologii przede wszystkim na wschodzie, ale także (za pośrednictwem przekładów łacińskich jego pism) na zachodzie.
+
+
+Rozproszenie
+
+7. Wyliczeni tu pisarze to nie jacyś wyjątkowi przedstawiciele ruchu filozoficzno-religijnego wśród licznej rzeszy innych, gdyż obok nich bardzo już niewiele tych innych pozostaje. To ubóstwo twórczości filozoficzno-religijnej w czasach następujących bezpośrednio po *Grzegorzu z Nyssy* i *św. Augustynie* tłumaczyć należy, jak wiadomo, przede wszystkim wypadkami dziejowymi. Wędrówka ludów, upadek jednych państw a tworzenie się nowych, zalewanie krajów o kwitnącej kulturze przez ludy pozbawione jej jeszcze albo posiadające odmienną cywilizację (mahometanie), szczęk broni i tętent kopyt końskich nie sprzyjały oczywiście pracy umysłowej filozofów. A w tym napieraniu i wzajemnym wypieraniu się narodów, w tych ustawicznych zapasach, zatraciły swój blask i swe znaczenie dawne centra ruchu filozoficznego: *Ateny*, *Aleksandria*, *Rzym*. Z centrów umysłowych dawnego imperium rzymskiego myśliciele uchodzą sami lub okolicznościami zostają rzuceni na najdalsze jego krańce. Znajdujemy ich w Hiszpanii, na Wyspach Brytańskich, nad Morzem Czarnym, w Syrii, o nawet w Persji, dokąd udają się ostatni nauczyciele i uczniowie założonej jeszcze przez Platona akademii ateńskiej, gdy w r. 529 cesarz Justynian kazał ją zamknąć, a majątek jej skonfiskować.
+
+
+Rozszerzenie chrześcijaństwa
+
+8. Zjawianie się filozofów w krajach od dawnych centrów cywilizacyjnych mniej lub więcej odległych idzie ręka w rękę z innym ruchem również odśrodkowym, z ruchem misjonarskim. Nauka Chrystusowa, sformułowana i ustalona pracą ojców Kościoła, uzyskawszy stanowisko rządzące w krajach położonych nad Morzem Śródziemnym, wszystkie już posiadała warunki, by jej przedstawiciele szli w świat nauczać wszystkich ludzi i wszystkie ludy.
+
+
+Cywilizacyjna misja chrześcijaństwa
+
+Wiadomo, czym się ten pochód chrześcijaństwa zaznaczał. Nie tylko chrzczono nowo nawróconych, ale stale wśród nich zamieszkiwano, zakładając domy boże i klasztory, a przy nich szkoły, by wykształcać nowe sługi Chrystusa i jego Kościoła. A ci, co szli mieszkać w tych klasztorach wśród puszcz i na wpół dzikich plemion, nie tylko ewangelię ze sobą brali, lecz całą, rzec można, podręczną literaturę teologiczną, a nadto ulubionych autorów świata klasycznego, ratując ich pisma od zapomnienia i zagłady.
+
+
+Szkoły
+
+Tak więc centrami cywilizacyjnymi stały się teraz klasztory i szkoły zakładane przy klasztorach i w stolicach biskupich przy katedrach. W szkołach tych uczono siedmiu sztuk wyzwolonych według planu trivium i quadrivium; ci co uczyli w tych szkołach, nazywali się nauczycielami szkolnymi, po łacinie doctores scholastici. Więc i filozofia, którą uprawiali nauczyciele i uczniowie tych szkół, przybrała nazwę filozofii scholastycznej.
+
+
+Dwa znaczenia filozofii scholastycznej
+
+9. *Filozofią scholastyczną* nazywa się zatem filozofia, uprawiana w szkołach średniowiecznych. Filozofia ta łączy się, jak to z natury rzeczy wynika, najściślej z religią i z teologią, tj. z systematycznym opracowaniem wiary i moralności religijnej oraz wszystkich stąd wynikających stron życia ludzkiego. Ale obok tego pierwotnego, najobszerniejszego znaczenia wyraz *filozofia scholastyczna* posiada jeszcze znaczenie inne, ciaśniejsze, gdy służy do scharakteryzowania *sposobu* filozofowania, który się w szkołach średniowiecznych urobił. Sposób ten polega na rozumowym rozbiorze zagadnień, zawartych w filozoficzno-religijnym poglądzie na świat, a w związku z tym na grupowaniu tych zagadnień, ich rozwiązań i całego w ogóle zasobu ówczesnej wiedzy w układ jak najbardziej rozczłonkowany, ujęty w dokładnie od siebie odgraniczone działy, rozdziały i poddziały. A z przedmiotu, którym się ten sposób filozofowania zajmował, wynika jeszcze inna jego cecha. Zagadnienia bowiem, którymi się zajmowała filozofia scholastyczna, były zawarte w piśmie świętym, w pismach ojców Kościoła i filozofów. Toteż ten, który się rozbiorowi tych zagadnień poświęcał, nie widział żadnej potrzeby wybiegania poza pisma i księgi. Rzeczywistość życia, które go otaczało, była dla niego czymś o wiele mniej ważnym, aniżeli zdania, wypowiedziane przez ewangelistów, apostołów, filozofów pogańskich i chrześcijańskich, a spisane ręką klasztornego kaligrafa na pięknym pergaminie.
+
+
+Mistycyzm, empiryzm
+
+Wielu więc, mówiąc o *filozofii scholastycznej*, ma na myśli taki właśnie sposób filozofowania i takie właśnie stanowisko filozofów w wiekach średnich. Ale w tym drugim znaczeniu wzięta, filozofia scholastyczna nie wyczerpuje całej filozofii średniowiecznej, gdyż obok takiego rozumowego rozbioru i systemizowania zagadnień filozoficzno-religijnych, obok takiego książkowego zaspokajania żądzy wiedzy, obok i w znacznej mierze przeciw takiemu trybowi filozofowania występują w wiekach średnich dwa prądy inne. Z nich jeden zaznacza się słabiej, zjawia się niemal tylko epizodycznie; drugi zaś płynie niekiedy łożem bardzo szerokim. Ten drugi to *prąd mistycyzmu*. Zwraca się on przeciw rozumowemu, formalistycznemu i książkowemu traktowaniu spraw religijnych; nacisk główny kładzie nie na logiczne ujęcie wierzeń religijnych, lecz na uczuciowe wniknięcie w nie; nie głową, lecz sercem trzeba wznosić się ku Bogu, nie rozdrabnianiem całości wiary na kwestie i kwestyjki, lecz ponownym przeżyciem całego objawienia w ekstatycznym uniesieniu własnej duszy dążyć należy do Boga. W porównaniu z siłą, jaką w pewnych okresach prąd mistyczny przybiera w rozwoju filozofii średniowiecznej, tamten prąd przeciwny scholastycyzmowi w znaczeniu ściślejszym bardzo jest nikły. Jest to *prąd*, który można by nazwać *empirycznym*, *przyrodniczym*. Zwraca się on przede wszystkim przeciw książkowemu charakterowi ówczesnej filozofii, przeciw ograniczaniu zagadnień do tego, co w różnych dziełach duchownych czy świeckich napisano, przeciw temu, by tak, jak same zagadnienia, także i rozwiązanie tych zagadnień upatrywać jedynie w książkach, zamiast zwrócić swój wzrok na tętniącą życiem przyrodę i faktyczne stosunki ludzkie. Ale ten prąd empiryczno-przyrodniczy nie nabiera — przynajmniej wśród chrześcijańskich filozofów średniowiecza — samodzielnego znaczenia; występuje raczej jako zapowiedź i przedsmak przyszłego, do nowożytnych czasów należącego rozwoju filozofii, a nie jako odrębny typ, współrzędny tamtym typom filozofii średniowiecznej.
+
+
+Wpływ Platona i Arystotelesa
+
+11. Tak więc pozostają jako główne prądy filozofii średniowiecznej: kierunek scholastyczny w znaczeniu ciaśniejszym i kierunek mistyczny. Już scharakteryzowaliśmy je jako rozumowy i jako uczuciowy. Do tej charakterystyki psychologicznej można dorzucić inną, historyczną. Albowiem łatwo stwierdzić, że każdy z tych kierunków od innego wywodzi się protoplasty: rozumowy od Arystotelesa, uczuciowy od Platona i neoplatonizmu. Wszak Arystoteles dał poniekąd przykład takiego właśnie traktowania zagadnień filozoficznych, jakie znamionuje scholastycyzm w znaczeniu ciaśniejszym. On to każde zagadnienie szczegółowo rozbiera, a wyniki swe składa w całym szeregu dzieł, kodyfikując w nich całokształt wiedzy swego czasu. Tylko że Arystoteles metody tej używał dla roztrząsania zagadnień, czerpanych ze świata realnego, a w systemizowaniu nie popadał w czczą formalistykę. A właśnie jego średniowieczni uczniowie, wzorując się na nim, zbyt często w tej mierze grzeszyli przesadą, a nadto błąd ten spotęgowali drugim, czerpiąc swe zagadnienia nie z rzeczywistości, lecz z książek i zdań różnych powag. Ci zaś, którzy w imię uczucia religijnego i gorącej miłości Boga, faktycznie odczutej, a nie tylko opisanej i logicznie zanalizowanej, przeciw tej scholastyce występowali, opierali się w swych poglądach i wywodach na Platonie i Plotynie i ich uczniach. Wszak platonizm już w pierwotnej swej postaci był owiany duchem pewnego mistycyzmu; dzieląc rzeczywistość na dwa światy i każąc niższemu z nich ustawicznie ku wyższemu tęsknić, ku wyższemu się wznosić i na koniec w tym wyższym świecie spocząć, dał filozoficzny wyraz zasadniczej myśli wszelkiego mistycyzmu, polegającego, jak to już wspomnieliśmy, na wierze w ustawiczne oddziaływanie wzajemne wyższego, duchowego, i niższego, ziemskiego świata.
+
+
+Wzajemny stosunek obu kierunków
+
+Rzecz jasna, że nie zawsze kierunek mistyczny da się od scholastycznego czyli racjonalnego w znaczeniu średniowiecznym ściśle oddzielić. Wszak istnieją nie tylko równocześnie obok siebie, lecz nadto łączą się często w poglądach jednego i tego samego myśliciela, łagodząc przy tym nawzajem swoje skrajności. I właśnie w najwybitniejszych przedstawicielach filozofii średniowiecznej takie połączenie nastąpić musi, gdyż tacy pragną objąć swoim poglądem całokształt, a nie tylko pewne strony myśli współczesnej.
+
+
+Początki nowego ruchu
+
+Tak mniej więcej przedstawia się nam ogólny charakter, główne znamiona i kierunki filozofii średniowiecznej od chwili, kiedy dzięki stworzonym przez misjonarzy chrześcijańskich w Europie nowym ogniskom cywilizacji rozpoczął się znowu na większą skalę ruch filozoficzny. Ten charakter, te znamiona i kierunki w jaśniejszym nam się jeszcze przedstawią świetle, gdy poznamy głównych ich reprezentantów.
+
+
+
+Wykład trzeci
+
+1. Główne okresy filozofii średniowiecznej. — 2. Okres rozwoju. — 3. Okres rozkwitu. — 4. Okres upadku. — 5. Jan Szkot Eriugena — 6. Panteizm Eriugeny, Amalryka, Dawida. — 7. Realizm i nominalizm. — 8. Spór o uniwersalia. — 9. Roscelinus i triteizm. — 10. Anzelm Kantuareński. Dowód ontologiczny istnienia Boga. — 11. Anzelma nauka o odkupieniu. — 12. Realizm i dogmaty kościelne.
+
+
+Okres przygotowawczy
+
+1. Jeżeli obejmiemy jednym rzutem oka dzieje myśli filozoficznej od roku 476, na który przypada początek średniowiecza, aż do jego końca, tj. do roku 1492, zobaczymy zarysowujące się dość wyraźnie pewne linie graniczne, dzielące historię filozofii średniowiecznej na różne okresy. W pierwszych stuleciach średniowiecza właściwy ruch filozoficzny zrazu słabnie, miejscami niemal zupełnie zanika i dopiero w wieku dziewiątym zaczyna się ożywiać. Okres ten od końca V aż do IX wieku można by nazwać okresem przygotowawczym. Następuje po nim okres niejako młodzieńczy filozofii średniowiecznej, w którym niemal z dniem każdym przybywa jej sił, w którym się rozrasta i w coraz to nowe zasoby wzbogaca.
+
+
+Okres rozwoju
+
+2. W tym okresie, który obejmuje wiek IX, X, XI i XII, spotykamy już oba najważniejsze prądy filozofii średniowiecznej, scholastyczny w znaczeniu ciaśniejszym i mistyczny; zrazu płyną jeszcze jakby w korycie wspólnym, lecz w wieku XII już wyraźnie się sobie przeciwstawiają. Całe zaś ukształtowanie się filozofii w tym okresie jest w znacznej mierze wynikiem faktu, iż znajomość pism filozofów starożytnych była wówczas bardzo ograniczona. Z *Platona* znano tylko jeden dialog, traktujący o budowie wszechświata, w przekładzie łacińskim; z *Arystotelesa* jedynie niektóre pisma logiczne w przekładzie *Boecjusza* i jego do nich objaśnienia; znajomość innych nauk logicznych *Arystotelesa* czerpano również z drugiej ręki. Dalej znano pisma niektórych późniejszych neoplatończyków, zwłaszcza *Porfiriusza* oraz rzekomego *Dionizjusza Areopagity*. Z drugiej też ręki znano resztę poglądów *Platona*, głównie dzięki *św. Augustynowi*, obficie z Platona czerpiącemu. Ale chociaż także tylko z drugiej ręki, znacznie więcej o *Platonie* wiedziano w owych czterech wiekach, aniżeli o *Arystotelesie*, którego znajomość ograniczała się do jego logiki. Okoliczność ta wycisnęła, jak zobaczymy, swe piętno na filozofii średniowiecznej w tym okresie jej rozwoju.
+
+
+Okres rozkwitu
+
+3. Około r. 1200 zaczynają filozofowie chrześcijańscy zapoznawać się ze światem w ciągu poprzednich wieków przed ich oczyma zakrytym: za pośrednictwem filozofów arabskich i żydowskich żyjących w Hiszpanii zaczynają do klasztorów i szkół przenikać pisma *Arystotelesa* treści przyrodniczej, psychologicznej, etycznej i metafizycznej. W tym samym też mniej więcej czasie, dzięki nawiązanym wskutek wojen krzyżowych ze wschodem stosunków, zachód zaznajamia się bezpośrednio z oryginalnym tekstem Arystotelesa i z pismami filozofów późniejszych, piszących pod berłem cesarzy bizantyńskich. Zrazu poglądy *Arystotelesa* uchodzą za niezgodne z nauką kościelną; bardzo rychło jednak pierwotny opór przeciw jego filozofii ustępuje miejsca zupełnemu niemal jej wcieleniu w systemat chrześcijańskich poglądów religijno-filozoficznych. Jest to zjawisko podobne do innego, które zaszło w wieku XII na polu nauk prawniczych wskutek tego, że powrócono znowu do prawa rzymskiego, skodyfikowanego za cesarza *Justyniana* w wieku VI jako corpus juris civilis. I tak, jak ze szkoły prawników w *Bononii* znajomość prawa rzymskiego zaczęła się odtąd coraz bardziej rozpowszechniać i wpływać coraz bardziej na pojęcia prawnicze owych czasów, tak z *Paryża*, począwszy mniej więcej od roku 1200, rozprzestrzenia się znajomość całej już filozofii *Arystotelesa*, przekształcając sformułowane dawniej poglądy filozofów chrześcijańskich.
+
+
+Bogactwo kierunków
+
+W wieku XIII zatem, dzięki temu obfitemu przypływowi nowych myśli, filozofia średniowieczna dosięga swego najwyższego rozkwitu. Obok dawniejszych, głównie na *Platonie* opartych poglądów, zjawiają się nowe, zbudowane na bogatych fundamentach przez *Arystotelesa* dostarczonych. A dzięki temu owe z platonizmem spokrewnione kierunki myśli, zmuszone walczyć o swój byt, same też potęgują swą energię życiową. Żaden okres wieków średnich nie może się szczycić tylu znakomitymi umysłami, jak właśnie ów okres rozkwitu, wiek XIII. I aby wszystko, na co zdobyć się mogły wieki średnie, w stuleciu tym zabłysło, zjawia się w nim też najwybitniejszy przedstawiciel kierunku empiryczno-przyrodniczego średniowiecza.
+
+
+Okres upadku
+
+4. Ale ten bujny rozrost myśli filozoficznej już dzięki własnemu bogactwu musiał się dzielić i rozgałęziać na liczne kierunki, niekiedy zawzięcie się zwalczające. A walka toczyła się nie tylko między znanymi nam już głównymi prądami, miedzy filozofią scholastyczną w znaczeniu ściślejszym, którą od wieku XIII począwszy można nazwać arystotelizmem, między mistycyzmem i prądem empiryczno-przyrodniczym. I w obrębie jednego i tego samego prądu nie brakło starć i wojen. Głównie toczyły się one w zakresie arystotelizmu, nie tylko dlatego, że prąd ten najliczniejszych posiadał zwolenników, lecz też dlatego, że najwięcej w sobie zawierał materiału na kwestie sporne, a zarazem najdoskonalej ujął w stałe przepisy broń stosowaną w walce myślowej, tj. prawidła logiki formalnej i użycie ich w dysputach. A gdy nadto walka myśli zlała się w jedno z współzawodnictwem dwóch najpotężniejszych wówczas zakonów, dominikanów i franciszkanów, doszła ona do takiego stopnia zapamiętałości, że ostatecznie rozerwała cały gmach jednolitego religijno-filozoficznego poglądu na świat. Toteż ostatnie dwa stulecia średniowiecza, stulecia XIV i XV przedstawiają nam obraz coraz szybciej odbywającego się upadku filozofii średniowiecznej. Z działających w tych dwóch stuleciach filozofów jedni nadaremnie usiłują nawiązać nić tradycji filozoficznej; drudzy z mniejszą lub większą świadomością pracują nad jej zupełnym zerwaniem. Ci ostatni okazali się ostatecznie silniejszymi. Brzask ery nowożytnej pada na obraz powolnego konania średniowiecznej myśli filozoficznej.
+
+
+Zestawienie
+
+Zestawiając razem scharakteryzowane powyżej całkiem ogólnikowo okresy, otrzymamy po okresie przygotowawczym następujący schemat okresów właściwej filozofii średniowiecznej:
+
+I. Okres rozwoju, obejmujący wieki od IX do XII włącznie.
+
+II. Okres rozkwitu, przypadający na wiek XIII.
+
+III. Okres upadku, sięgający przez wiek XIV i XV.
+
+
+Paryż
+
+5. Zwracając się po tym rzucie oka na całość przebiegu filozofii średniowiecznej do okresu I, do okresu rozwoju, stwierdzić należy, że w okresie tym wysuwa się na czoło nowe centrum ruchu filozoficznego, mianowicie *Paryż*. Wskutek zabiegów Karola Wielkiego, usiłującego dla szkół tego miasta pozyskać najznakomitszych przedstawicieli ówczesnej wiedzy, przybywają do Paryża uczeni z tego kraju, który dzięki swemu położeniu geograficznemu dawał względnie spokojny przytułek miłośnikom nauki, gdy resztą Europy wstrząsała zawierucha wędrówki ludów i jej następstw, tj. z Wysp Brytyjskich. Karol Łysy pozostał w tej mierze wiernym tradycjom Karola Wielkiego, toteż za jego rządów przybywa do Paryża w połowie wieku IX *Jan Szkot Eriugena*. *Eriugena* znaczy *pochodzący z Irlandii*; Szkotem zaś nazywa się bądź dlatego, że był z rodu szkockiego, bądź też dlatego, że Irlandia wówczas zwała się Scotia Maior, Szkocją Wielką.
+
+
+Eriugena
+
+*Eriugena* był mężem, którego otaczała wielka cześć i rozgłośna sława niezwykłej uczoności. Znał nie tylko język łaciński, lecz także grecki, co podówczas było już rzeczą na zachodzie wyjątkową. Oczytany był zarówno w pismach ojców Kościoła, jak w dziełach dostępnych mu filozofów starożytnych, z których najbardziej wielbił Platona. A nawet sam się do rozpowszechniania dawnych dziel filozoficznych przyczynił, tłumacząc na język łaciński prace rzekomego *Dionizjusza Areopagity*, znanego nam już neoplatończyka-chrześcijanina.
+
+
+Podział wszechbytu
+
+Toteż nie możemy się dziwić, że podobnie jak u *Dionizjusza Aeropagity*, także u *Eriugeny* zlewa się w jedną całość chrześcijański pogląd na świat z neoplatonizmem. Ale o wiele wyżej od swego poprzednika stoi filozof wieku IX tym, że system jego jest jednolity i zwarty, że obejmuje konsekwentnie przeprowadzoną całość, gdy tymczasem *Dionizjusz Areopagita* poglądy swe przedstawił w szeregu rozpraw, luźnie obok siebie stojących. Już sam tytuł głównego dzieła *Eriugeny* zapowiada te cechy; brzmi bowiem „O podziale wszechbytu” (tak bowiem należy zgodnie z starożytnem znaczeniem wyrazów physis, natura i z intencją autora tłumaczyć tytuł de divisione naturae). Otóż ten podział wszechbytu przeprowadza *Eriugena* według bardzo prostej zasady, uzyskanej drogą logicznego rozbioru pojęcia Stwórcy i stworzenia. Wszystko bowiem, co istnieje, jest albo bytem niestworzonym lecz tworzącym, albo bytem stworzonym i tworzącym, albo bytem stworzonym i nietworzącym, albo bytem niestworzonym i nietworzącym.
+
+
+Bóg, Logos, świat
+
+Bytem niestworzonym, lecz tworzącym, jest oczywiście Bóg. On jeden posiada byt w ścisłym znaczeniu tego wyrazu; w porównaniu więc z wszystkimi innymi formami bytu posiada byt najdoskonalszy, najbardziej pełny. Z tego bytu niestworzonego wychodzi na mocy odwiecznego aktu twórczego *Logos* czyli ogół idei, prawzorów rzeczy. *Logos* jest więc bytem stworzonym, który i sam także tworzy, mianowicie cały wszechświat wraz z człowiekiem. Będąc stworzonym, wszechświat jednak sam już nie tworzy. Ma on przeznaczenie inne, mianowicie tak, jak powstał dzięki temu, iż prawzory, idee rzeczy, w jednym pierwotnie złączone *Logosie*, odwiecznym aktem twórczym *Logosa* rozczepiły się na mnogość rzeczy i istot konkretnych, tak też wszelkie istoty i rzeczy konkretne za pośrednictwem *Logosa* ponownie zjednoczone, przez niego zbawione, powrócić mają do Boga i w Boga, istoty niestworzonej, która jednak, po dokonanym już zbawieniu świata, więcej nie tworzy, więc jako ostateczny cel wszechrzeczy nazywa się istotą niestworzoną i nietworzącą.
+
+
+Panteizm
+
+6. Przypatrując się tej koncepcji wszechbytu bliżej, przekonywamy się, że znamionuje ją bardzo wyraźny *panteizm*, tj. nauka, według której właściwie jeden tylko jest istotny byt, przejawiający się w różnych formach, pozbawionych jednak bytu swoistego, będących jedynie rozszczepieniem owego było jedynego. Panteizmem jest neoplatonizm, twierdzący, że wszystko, co istnieje, z prajedni wyłania się, jak promienie ze światła; wszak promienie nie są czymś względem światła samoistnym, są tylko przejawami światła. I tak właśnie pojmuje *Eriugena* odwieczne akty twórcze Boga i *Logosa*. Dzięki temu wszechświat nie przedstawia mu się jako coś od Boga odrębnego, lecz jako byt jeden i ten sam co Bóg. „Bóg jeden” powiada, „we właściwym i ścisłym tego słowa znaczeniu jest we wszystkim, i nic nie jest we właściwym i ścisłym tego słowa znaczeniu, co nie jest Nim. Dlatego też nie powinniśmy pojmować Boga i stworzenia jako dwa byty odrębne, lecz jako byt jeden i ten sam. Albowiem i stworzenie istnieje w Bogu i Bóg stwarza się sposobem dziwnym niewysłowionym w stworzeniu, sam się objawiając; będąc niewidzialnym, czyni się widzialnym, będąc niepojętym, czyni się pojęciu dostępnym, będąc ukrytym, czyni się jawnym, będąc niepoznanym, czyni się poznawalnym, będąc pozbawionym formy i postaci, przybiera formę i postać itd.” Komuż nie przypomina się tutaj nie tylko twierdzenie znanego także Eriugenie Maksyma Wyznawcy, iż Bóg zarówno w piśmie św., jak w przyrodzie się nam objawia, lecz nadto słynny zwrot Spinozy Deus sive natura, Bóg czyli świat, a dalej panteizm *Hegla*, mówiącego innymi słowy o tym samym, o czym mówi *Eriugena*, o tym mianowicie, jak to świat z Boga wychodzi i znowu do Boga powraca, nie będąc nigdy niczym innym, jak tylko przejawem Boga?
+
+
+Amalryk, Dawid
+
+Tak więc myśliciel wieku IX, którym rozpoczyna się okres rozwoju filozofii średniowiecznej, był niewątpliwie nieodrodnym synem neoplatończyków, był niewątpliwie panteistą. I nie możemy się już dziwić, że w wieku XII spotykamy takiego np. *Amalryka z Beny*, Francuza, który wysnuwając najdalej idące konsekwencje z nauki *Eriugeny*, dochodzi do twierdzenia, że Bóg, będąc we wszystkim, więc także w nas, sam czyni, co my czynimy, i że wskutek tego nic, co czynimy, nie może być złem. Nie dziwimy się też, że współcześnie z *Amalrykiem* niejaki *Dawid z Dinant* chciwie przyswaja sobie i rozpowszechnia poglądy panteistyczne, czerpane z niektórych filozofów arabskich i żydowskich, których pisma często odznaczały się panteistycznem zabarwieniem. Ale nie możemy się też dziwić, że Kościół nie tylko potępiał naukę *Amalryka* i *Dawida*, lecz także samego *Eriugeny*, którego dzieła kazał uroczyście spalić. *Eriugena* tego potępienia nie dożył i z pewnością nigdy go nie przewidywał; wszak był tego zdania, że między prawdziwą filozofią a prawdziwą religią nie może być rozbratu, gdyż jedna i druga jest tym samym; wszak twierdził, że rozprawiać o filozofii znaczy to samo, co wykładać zasady prawdziwej religii.
+
+
+Realizm
+
+7. Ale nie tylko Kościół powstał przeciw *Eriugenie*; także w kwestiach czysto filozoficznych zjawiła się przeciw niemu opozycja. Najważniejsza z tych kwestii dotyczyła stosunku idei do konkretnych istot i rzeczy stworzonych, będących, jak twierdził *Eriugena* zgodnie z *Platonem*, odzwierciedleniem owych idei i posiadających byt mniej pełny, mniej rzeczywisty aniżeli idee. Wiemy, że na stosunek idei do rzeczy konkretnych inaczej aniżeli *Platon* zapatrywał się już *Arystoteles*. Według Platona idee mają byt od rzeczy konkretnych oddzielny, tworzą odmienny, własny, doskonalszy świat: według *Arystotelesa* idee maja wprawdzie byt rzeczywisty, ale nieoddzielny od rzeczy konkretnych, lecz tkwią w nich jako iszcząca się w nich istota tych rzeczy. Oba poglądy nazywają się *realizmem*, gdyż uważają idee za coś rzeczywiście istniejącego, za coś rzeczywistego, realnego. Dla odróżnienia zaś pogląd *Platona* zowie się realizmem skrajnym, a pogląd *Arystotelesa* realizmem umiarkowanym. Otóż już *Boecjusz* w swoim komentarzu do wstępu, który napisał *Porfiriusz* do pisma *Arystotelesa* O kategoriach, wspomniał o możliwości innego poglądu. Według tego innego poglądu idee nie mają wcale bytu rzeczywistego, wcale nie są czymś realnym; byt rzeczywisty posiadają wyłącznie rzeczy i jestestwa konkretne, jednostkowe. To zaś, co oznacza wyraz idea, nie już niczym innym, jak wspólną nazwą dla większej ilości rzeczy lub jestestw do siebie podobnych. Na przykładach przeciwieństwo tych oglądów przedstawia się w sposób następujący:
+
+
+Idea według realizmu
+
+Istnieją liczni ludzie, istnieją liczne trójkąty. Każdy człowiek, każdy trójkąt jest pod każdym względem ściśle określony, posiada szereg cech, po części wspólnych z innymi ludźmi, innymi trójkątami, po części jednostkowych, jemu tylko właściwych. Cechy wspólne wszystkim ludziom, wszystkim trójkątom, tworzą według Platona ideę człowieka, ideę trójkąta. Idea człowieka, idea trójkąta nie jest niczym innym, jak ogółem cech wspólnych wszystkim ludziom, wszystkim trójkątom, razem zebranych; idea jest więc nie tym lub owym jednostkowym trójkątem, nie tym lub owym jednostkowym człowiekiem, lecz człowiekiem w ogóle, trójkątem w ogóle, człowiekiem jako takim, trójkątem jako takim. Jeśli zatem powiadamy: Człowiek jest śmiertelny, trójkąt posiada powierzchnię równą iloczynowi z podstawy i połowy wysokości, nie orzekamy bezpośrednio nic o tym lub owym człowieku, tym lub owym trójkącie konkretnym, lecz o człowieku w ogóle, o trójkącie w ogóle; tylko pośrednio nasze twierdzenie dotyczy także konkretnych ludzi i konkretnych trójkątów, dzięki temu właśnie, że jak powiada *Plato*, ludzie i trójkąty konkretne są kopiami idei człowieka i trójkąta, albo że, jak powiada *Arystoteles*, w ludziach i trójkątach konkretnych iści się, tkwi idea trójkąta i człowieka. Bo tylko dzięki temu, że jakieś jestestwo, jakaś figura jest kopią idei człowieka lub trójkąta, albo że w jakimś jestestwie lub jakiejś figurze iści się i tkwi idea człowieka lub trójkąta, jestestwo to, figura ta jest człowiekiem i trójkątem.
+
+
+Nominalizm
+
+Inaczej zwolennicy poglądu przeciwnego temu realizmowi *Platona* i *Arystotelesa*: jeśli, powiadają, twierdzimy, że człowiek jest śmiertelny, lub że trójkąt ma taką a taką powierzchnię, twierdzenia nasze dotyczą bezpośrednio i wyłącznie ludzi i trójkątów konkretnych. Mówiąc: człowiek jest śmiertelny, trójkąt ma taką a taką powierzchnię, używamy uproszczonego sposobu wyrażania się, zamiast powiedzieć „ten człowiek jest śmiertelny, i tamten jest śmiertelny, i trzeci, i czwarty itd., w ogóle wszyscy”, i tak samo o trójkącie. A możność używania takiego uproszczonego sposobu wyrażania się płynie stąd, że dla jestestw i rzeczy do siebie podobnych, więc mających cechy wspólne, mamy także wspólne nazwy. *Człowiek*, jest to nazwa wspólna dla wszystkich jestestw, dzięki pewnym wspólnym cechom do siebie podobnych; tak samo *trójkąt* jest nazwą wspólną dla wszystkich figur, dzięki pewnym wspólnym cechom do siebie podobnych. Bynajmniej więc wyrazy *człowiek* i *trójkąt* nie dotyczą jakichś idei, jakichś istot z samych tylko wspólnych cech się składających; dotyczą jedynie wszystkich tych jestestw i rzeczy konkretnych, które obok cech jednostkowych posiadają także pewne cechy wspólne. Wyrazy *człowiek* i *trójkąt* nie oznaczają jakiegoś „człowieka w ogóle”, „trójkąta w ogóle”, bo nie ma nic takiego; oznaczają one jedynie każdego człowieka, każdy trójkąt.
+
+
+Universalia
+
+8. Spór między tymi dwoma poglądami, z których jeden uznawał rzeczywistość idei istniejących bądź oddzielnie od rzeczy konkretnych, bądź w rzeczach konkretnych, gdy tymczasem drugi zaprzeczał istnieniu idei i uznaje tylko rzeczywistość rzeczy konkretnych, jednostkowych, spór ten ciągnie się przez całe wieki średnie i znany jest pod nazwą sporu o *universalia*. *Universaliami* nazwano bowiem idee w przeciwieństwie do rzeczy konkretnych, byt ogólny w przeciwieństwie do bytów jednostkowych. Spór toczył się więc o to, czy istnieją zarówno byty ogólne, idee czyli *universalia*, jak byty jednostkowe, *individua*, czy też istnieją wyłącznie byty jednostkowe, *individua*. Zwolenników rzeczywistości uniwersaliów nazwano *realistami*: filozofów, zaprzeczających rzeczywistości uniwersaliów nazwano *nominalistami*, tj. takimi, którzy przyznając byt rzeczywisty wyłącznie jednostkom, sprowadzają wszelkie rzekome *universalia* do wspólnych *nazw* (nomina).
+
+
+Wybuch sporu
+
+9. Przeciwieństwo między *realizmem* a *nominalizmem*, wykluwające się już około roku 500, zaczęło się zaostrzać wskutek działalności *Eriugeny*, stającego bezwzględnie po stronie skrajnego realizmu. Opozycja przeciw temu stanowisku, której wyraźne ślady spotykamy już w wieku X, niewsławionym zresztą w dziejach filozofii ani nowymi pomysłami, ani wybitniejszymi umysłami, występuje z wielkim naciskiem w drugiej połowie wieku XI, a opozycję tę reprezentuje *Roscelinus*. Nie jest on pierwszym nominalistą wieków średnich w ogóle, ale jest pierwszym, który nominalizm ściśle formułuje i konsekwentnie przeprowadza, nie cofając się nawet przed wysnuwaniem z tej nauki wniosków, które zmusiły Kościół do wystąpienia przeciw niemu.
+
+
+Triteizm
+
+Jeżeli bowiem rzeczywisty byt mają tylko jednostki, a idea, wspólna istota rzeczy jednostkowych, pozbawiona jest istnienia, wtedy nauka o Trójcy, nauka o Bogu troistym w osobach, lecz jednym w istocie, nie da się utrzymać. Dogmat ten był sformułowany w duchu realizmu: trzy są osoby, ale ponieważ każda jest Bogiem, więc też jedna tylko jest istota boska, tak jak mimo istnienia niezliczonych ludzi jest we wszystkich jedna i ta sama idea czyli istota człowieczeństwa. Odmawiając tej jednej idei czyli istocie człowieczeństwa bytu rzeczywistego, mamy już tylko owych niezliczonych ludzi; tak samo ten, który w ogóle nie uznaje obok bytów jednostkowych żadnego bytu ogólnego, żadnej idei, żadnej wspólnej istoty bytów jednostkowych, musi wystąpić przeciw istnieniu jednej istoty boskiej w trzech osobach boskich. Wniosku tego *Roscelinus* nie wahał się wysnuć, dochodząc tym sposobem do tzw. *triteizmu*, tj. do nauki, że nie jeden jest Bóg, lecz że trzej są Bogowie, Ojciec, Syn i Duch Św., złączeni ze sobą tożsamością swej woli i mocy. Wprawdzie sam *Roscelinus* nie sądził, jakoby jego twierdzenie były heretyckie; był tego zdania, że tu chodzi wyłącznie o nieco odmienne sformułowanie słowne nauki kościelnej; Kościół wszelako inaczej się na tę sprawę zapatrywał i zmusił *Roscelina* pod koniec wieku XI, w r. 1093 w Soissons do odwołania tej nauki. To energiczne wystąpienie Kościoła jest z jego stanowiska zrozumiałe, tym bardziej, gdy się zważy, że w tym samym wieku dokonuje się schizma kościelna, i że jeden z głównych punktów spornych, który do tej schizmy doprowadził, dotyczył stosunku Ducha Św. do tamtych dwóch osób boskich w dogmacie Trójcy.
+
+
+Nominalizm a Kościół
+
+Nominalizm, potępiony przez Kościół na korzyść realizmu, stał się dzięki temu kierunkiem opozycyjnym nie tylko w zakresie filozofii, lecz także w obrębie Kościoła i teologii. Przekonamy się, że później wszelkie kierunki liberalne, wszelkie dążności, zmierzające do wyłamania się spod karności, którą Kościół rozciągał albo przynajmniej rozciągnąć pragnął także nad ruchem filozoficznym i naukowym w ogóle, występują w mniej lub więcej ścisłym sojuszu z nominalizmem. Na razie jednak nominalizm na pewien czas stłumiono. Karna organizacja Kościoła, stworzona właśnie w wieku XI przez papieża *Grzegorza VII*, i stanowisko, które Kościół dzięki rządom tego papieża zyskał w oczach całej Europy i które, trwając także i nadal, pod koniec wieku XI zjednoczyło ją całą w pierwszej wyprawie krzyżowej — wszystko to na razie istotnie zapewniło zwycięstwo realizmowi, zwłaszcza, że w obronie jego stanął mąż, który nie tylko w Kościele, lecz także na polu filozofii średniowiecznej wybitne zajmuje miejsce, *Anzelm*, arcybiskup kanterbureński, czyli kantuareński, prymas Anglii.
+
+
+Anzelm Kantuareński
+
+10. Z urodzenia Włoch, bo pochodzi z Aosty w Piemoncie, z wykształcenia i pierwszej działalności Francuz, gdyż w klasztorze w *Bec* w Normandii pobierał nauki i tym też dostąpił godności przeora i opata, w ostatnich szesnastu latach życia (umarł 1109) najwyższy kościelny dostojnik angielski, *Anzelm* Kantuareński musiałby się w dziejach filozofii zadowolić skromną tylko wzmianką, gdyby był jedynie zwalczał nominalizm *Roscelina* i bronił dogmatu Trójcy. Laury filozoficzne zdobył sobie *Anzelm* czymś innym, mianowicie tym, że podał nowy, oryginalny dowód istnienia Boga. Dowód ten znany pod nazwą dowodu *ontologicznego* polega na tym, że ma wykazać istnienie Boga na podstawie samego tylko logicznego rozbioru tego pojęcia, że więc nie wymaga żadnych innych założeń, prócz pojęcia Boga, które posiada nawet ateista, zaprzeczający istnieniu Boga.
+
+
+Dowód ontologiczny
+
+Sam tok dowodu jest następujący: jeżeli ktoś, chociażby ateista, mówi o Bogu, rozumie on przez wyraz ten istotę najdoskonalszą. Istota jest najdoskonalsza, jeżeli żadnej od niej doskonalszej nie zdołamy sobie przedstawić. Pojęcie takiej istoty najdoskonalszej może mieć każdy, bez względu na to, czy w jej istnienie wierzy, czy też mu zaprzecza. Jeżeli zaś posiadamy pojęcie istoty najdoskonalszej, istota ta jest niewątpliwie przez nas pomyślana, czyli istnieje w naszej myśli. Więc istnieje w myśli naszej istota najdoskonalsza. Ale czy istnieje też w rzeczywistości? Na to należy odpowiedzieć, że znowu, bez względu na to, czy przyjmujemy istnienie istoty najdoskonalszej w rzeczywistości czy też mu zaprzeczymy, możemy na wszelki wypadek *pomyśleć* sobie istotę najdoskonalszą, istniejącą w rzeczywistości. Tym sposobem mamy w myśli naszej: 1. istotę najdoskonalszą, 2. istotę najdoskonalszą rzeczywiście istniejącą. Łatwo już widzimy, że między takimi dwiema istotami zachodzi ta różnica, iż druga posiada coś, czego pierwszej zbywa, mianowicie cechę rzeczywistego istnienia. Ale jeśli pierwszej czegoś zbywa, nie wolno nam jej uważać za istotę najdoskonalszą, tj. za taką, od której nie zdołamy sobie przedstawić żadnej doskonalszej. Wszak możemy sobie przedstawić istotę od niej doskonalszą, istotę wyposażoną w jedną więcej cechę, w cechę rzeczywistego istnienia. Stąd wynika, że istota najdoskonalsza, która nie posiada cechy rzeczywistego istnienia, nie jest naprawdę najdoskonalszą istotą, że istotą naprawdę najdoskonalszą może być tylko istota, posiadająca cechę rzeczywistego istnienia, jednym słowem istota rzeczywiście istniejąca. Zatem istota najdoskonalsza czyli Bóg istnieje.
+
+
+Gaunilo
+
+Taki jest dowód ontologiczny *Anzelma* Kantuareńskiego, dowód, świadczący o energii myślowej tego, co go wymyślił. Ale cenilibyśmy *Anzelma* jako filozofa z pewnością o wiele wyżej, gdyby dowód ten był istotnym dowodem, a nie zawierał bardzo rażącego błędu logicznego, który wykrył już współczesny *Anzelmowi* skromny mnich, *Gaunilo*, przebywający w jednym z klasztorów francuskich. Trafnie wskazał *Gaunilo*, że mając w myśli: 1. istotę najdoskonalszą, 2. istotę najdoskonalszą rzeczywiście istniejącą, mamy w myśli dwie istoty, z których, co prawda, druga jest doskonalsza od pierwszej, wskutek czego pierwsza nie może być najdoskonalsza, że jednak zawsze te dwie istoty są tylko w naszej myśli, są przez nas pomyślane, a z tego faktu nic nie można wnosić o istnieniu rzeczywistym jednej z nich. Toteż mimo pewnych prób poprawienia dowodu anzelmowskiego, nie wszedł on nigdy w stały skład inwentarza pisarzy teologiczno-filozoficznych wieków średnich.
+
+
+Nauka o odkupieniu
+
+11. Zaszczyt ten spotkał natomiast inną myśl *Anzelma*, którą przejął od niego Kościół katolicki, czyniąc z niej jeden z artykułów swej wiary. Od Anzelma Kantuareńskiego pochodzi mianowicie znana z katechizmu teoria odkupienia ludzkości przez Syna Bożego. To odkupienie pojmowano dawniej przeważnie jako wykupienie ludzkości z rąk Szatana, który wskutek grzechu pierwszych rodziców stał się panem człowieka, a człowiek jego niewolnikiem. W miejsce tej teorii dosyć prymitywnej postawił *Anzelm* inną. Wywodzi, że grzechem pierwszych rodziców Bóg został obrażony, że została przeciw niemu popełniona wina, która jest nieskończenie wielka, skoro obraza dotknęła nieskończenie wielkiego Boga. Bóg jest istotą sprawiedliwą; musi się więc domagać za tę winę odpowiedniej kary, odpowiedniego, więc nieskończonego zadośćuczynienia. Spełnienie tego wymagania pociągnęłoby jednak za sobą wiecznie potępienie ludzkości, które byłoby jedyną karą nieskończoną, równoważącą nieskończenie wielką obrazę Boga. Ale Bóg jest nie tylko sprawiedliwością, lecz zarazem miłością, a z nią nie da się pogodzić wieczne potępianie całej ludzkości. Istnieje zatem konflikt między sprawiedliwością i miłością bożą. Jedynym wyjściem z tego konfliktu jest zadośćuczynienie dane przez kogoś, który sam będąc człowiekiem, przecież jest bez winy, a zarazem dać może zadośćuczynienie nieskończenie wielkie. Warunki te może jednoczyć w sobie tylko ktoś taki, co jest równocześnie niewinnym człowiekiem i nieskończonym Bogiem, więc Bóg-człowiek, urodzony bez zmazy grzechu.
+
+
+Filozofia i dogmaty
+
+12. Przypomniałem tę teorię odkupienia, chociaż ona właściwie do filozofii nie należy, aby wykazać, jak niezmiennie ścisły związek zachodzi między pewnymi poglądami filozoficznymi a pewnymi dogmatami Kościoła katolickiego. Teoria grzechu pierworodnego, grzechu, popełnionego przez Adama i Ewę, ale ciążącego na całej ludzkości, w głównej mierze opiera się na założeniu platońskim i arystotelesowym, że istota człowieczeństwa we wszystkich ludziach jest jedna i ta sama. Tak samo możność wyzwolenia ludzkości spod brzemienia tego grzechu przez Zbawiciela polega na tym, że Chrystus, przybierając naturę ludzką, tj. istotę człowieczeństwa, i gromadząc swą śmiercią nieskończenie wielki skarb zasług, dał tym samym zadośćuczynienie za całą ludzkość, gdyż wszyscy ludzie są niejako jednostkowymi przedstawicielami tego samego „człowieka w ogóle”, tej samej istoty człowieczeństwa, która ziściła się w zstępującym na świat Bogu. A jeśli przypomnimy sobie filozoficzną treść dogmatu o Trójcy, nie możemy wątpić, że sformułowanie zasadniczych dogmatów chrześcijaństwa opiera się na filozofii realizmu Platona i Arystotelesa.
+
+
+Wilhelm z Champeaux
+
+Tym lepiej teraz też rozumiemy opór Kościoła przeciw nominalizmowi i tym „nowinkarzom”, którzy go wyznawali i rozpowszechniać pragnęli, oraz sympatie Kościoła dla przedstawicieli realizmu, z których najznakomitszym był w owych czasach właśnie Anzelm Kantuareński. Na pograniczu XI i XII wieku żyje inny realista, Wilhelm z Champeaux, który, zwalczając na równi z Anzelmem naukę *Roscelina*, przecież usiłował realizm sformułować tak, by pozbawić podstawy przynajmniej część zarzutów, podnoszonych przez nominalistów. Jest to okoliczność godna uwagi z tego powodu, że właśnie *Roscelinus* i *Wilhelm z Champeaux* byli nauczycielami filozofa, który podał nową teorię *universaliów*, pośrednią pomiędzy realizmem a nominalizmem. Filozofem tym był *Abelard*, znany ze stosunku swego do *Heloizy*.
+
+
+
+Wykład czwarty
+
+1. Abelard. — Konceptualizm. — 2. Mistycyzm w wieku XII. — 3. Filozofia u Arabów. — 4. Filozofia u Żydów. — 5. Arystoteles w wieku XII i XIII. — 6. Aleksander z Hales i Albert Wielki. — 7. Stanowisko Alberta w sporze o universalia. — 8. Stosunek wiary do wiedzy, objawienia do rozumu, teologii do filozofii. — 9. Tomasz z Akwinu. — 10. Piotr Hiszpan. — 11. Dante.
+
+
+Abelard
+
+1. *Piotr Abelard* (1079–1142) należy do najciekawszych postaci średniowiecza. Jako nauczyciel zrazu filozofii, następnie także teologii, zdobył sobie porywającą wymową i przenikliwością swych śmiałych poglądów taką sławę, taki rozgłos, że zewsząd tłumnie garnęli się doń uczniowie, gdziekolwiek nauczał, czy w Melun, czy w Corbeil, czy na górze św. Genowefy, czy w opactwie św. Dionizego pod Paryżem czy w samym Paryżu, czy nareszcie w pustelni pod wezwaniem św. Ducha Pocieszyciela, którą sam sobie założył. A nie tylko jako świetny nauczyciel w dziejach nauczania poczesne zajmuje miejsce, lecz też dlatego, że z połączenia szkoły, którą założył na górze św. Genowefy, z istniejącą już przedtem szkołą klasztoru Notre-Dame w Paryżu powstał pierwszy w Europie środkowej uniwersytet paryski. Ale to, co *Abelardowi* zjednało sławę i rozgłos, świetność formy i oryginalna treść wykładów, stało się też przyczyną podwójnej w życiu jego klątwy. Sławie najwybitniejszego nauczyciela, której zażywał, zawdzięczał znajomość z Heloizą, a ta znajomość była dla obojga źródłem krótkiego szczęścia, po którym nastąpiło nieprzerwane niemal pasmo cierpień i udręczeń. Nadto Kościół dwukrotnie potępił pewne poglądy Abelarda, który musiał nawet własnoręcznie w obliczu swych przełożonych duchownych spalić jedno z dzieł swoich.
+
+
+Konceptualizm
+
+Poglądy, przez Kościół potępione, dotyczyły przede wszystkim nauki o Trójcy. *Abelard* bowiem, usiłując zająć stanowisko pośrednie pomiędzy *realizmem* i *nominalizmem*, uczył, że żaden z obu kierunków nie ma słuszności. Myli się *realizm*, przyjmując rzeczywiste istnienie idei, bądź oddzielnie od rzeczy konkretnych, bądź w rzeczach konkretnych jako ich istoty; myli się jednak także *nominalizm*, sprowadzając *universalia* wyłącznie do wspólnych nazw szeregu przedmiotów konkretnych, do siebie podobnych. Ani odmawiać wszelkiego bytu, ani przyznawać rzeczywistego bytu *universaliom* nie można. Więc cóż jest prawdą? Cóż może być pośredniego między bytem rzeczywistym a niebytem? Byt pomyślany, odpowiada Abelard. Rzeczywisty byt mają — jak już *Roscelinus* twierdził — tylko rzeczy konkretne; ale umysł ludzki, rozważając je, nie tylko wspólnymi nazwami obdarza podobne do siebie rzeczy, lecz nadto wytwarza sobie pojęcia ogólne, którymi obejmuje podobne do siebie rzeczy konkretne. Nie istnieje więc obok trójkątów i ludzi albo też w nich samych jakiś trójkąt w ogóle, jakiś człowiek w ogóle; ale istnieje w umyśle naszym pojęcie trójkątu w ogóle, pojęcie człowieka w ogóle. Wypowiadając taki pogląd, stał się Abelard twórcą kierunku zwanego dla odróżnienia od realizmu i nominalizmu *konceptualizmem*, od łacińskiego wyrazu conceptus tj. pojęcie.
+
+
+Universalia ante rem, in re, post rem
+
+Tak więc spór o *universalia* skrystalizował się ostatecznie w trzech lub raczej czterech kierunkach. Zaprzeczeniem universaliów jest *nominalizm*; uznaniem ich rzeczywistego bytu jest *realizm*, którego naukę ujęto w formułkę universalia ante rem i in re (przed rzeczą i w rzeczy). Że *universalia* istnieją *przed rzeczą* konkretną, twierdził realizm skrajny, uznając oddzielny, wieczny świat idei; że istnieją *w rzeczy* konkretnej, twierdził realizm umiarkowany, uznając iszczącą się w rzeczach konkretnych istotę; *konceptualizm* natomiast wyrażał się w formułce universalia post rem (po rzeczy), gdyż według tego poglądu naprzód istnieją rzeczy konkretne, a dopiero później na ich podstawie wytwarza sobie umysł ludzki pojęcia ogólne.
+
+
+Abelard o Trójcy
+
+Nie mógł konceptualizm *Abelarda* pozostać bez wpływu na sposób, w jaki pojmował on dogmat Trójcy. Nie chcąc popaść w triteizm *Roscelina*, a nie mogąc stanąć na gruncie realizmu, uznającego jedną rzeczywistą istotę boską w trzech osobach, obrał drogę, którą już wielu innych dawniej kroczyło, i upatrywał w trzech osobach boskich uosobienie trzech przymiotów jedynego Boga, mianowicie mocy, mądrości, dobroci.
+
+
+Sic et non
+
+Odbiegające od nauki kościelnej poglądy na dogmat Trójcy istniały, jak wiemy, już przed *Abelardem*. Wszak już sami ojcowie Kościoła w swoich wywodach o tym zasadniczym dogmacie nie od razu byli zupełnie zgodni, lecz wypowiadali zdania różne. Tę niezgodność ojców Kościoła w pewnych kwestiach filozoficznego sformułowania wiary uwydatnił Abelard w dziele, którego tytuł brzmi: Tak i nie (Sic et non), a w którym zestawia i przeciwstawia sobie różne poglądy ojców Kościoła na te same zagadnienia. Na pytanie zaś, kto ma rozstrzygać tam, gdzie powagi same ze sobą pozostają w niezgodzie, odpowiada: rozumowe dociekanie prawdy, a gdzie ono nie wystarcza, poczucie etyczne.
+
+
+Etyka
+
+Poczucie etyczne czyli sumienie odgrywa w filozofii *Abelarda* bardzo ważną rolę. Poświęcił mu osobną książkę pt. Poznaj siebie samego. Wywodzi w niej, że dobrym lub złym nie jest nigdy czyn człowieka, lecz jedynie intencja działającej jednostki. O tym zaś, czy intencja jest dobra czy zła, poucza nas sumienie, poczucie etyczne, które zdaniem Abelarda nie może stanąć w sprzeczności z prawem przyrodzonym, będącym zarazem prawem boskim.
+
+Stawiając tak wysoko głos przyrodzonych władz człowieka, rozumu i sumienia, przyznaje im *Abelard* zdolność częściowego przynajmniej poznania prawdy najwyższej, nawet bez pomocy złożonego w księgach świętych objawienia. Stąd też płyną odmienne od przyjętych wówczas poglądy *Abelarda* na stosunek Żydów i pogańskich Greków do chrześcijaństwa. W Rozmowie między filozofem, żydem i chrześcijaninem dowodzi, że właściwymi poprzednikami chrześcijaństwa nie byli Żydzi, lecz filozofowie greccy, a jeśli *Philo Judaeus* i za jego przykładem inni przypuszczali, iż *Platon* czerpał niektóre poglądy swoje z świętych ksiąg Żydów, *Abelard* raczej skłonny jest przypuścić, że odwrotnie, treść ksiąg świętych zaczerpana jest poniekąd z filozofów greckich.
+
+
+Bernard z Clairvaux
+
+2. Wierząc tak niezachwianie w potęgę rozumu ludzkiego, musiał Abelard gorszyć tych wszystkich, którzy mniejsze mając o rozumie mniemanie, tym chętniej poddawali zdanie swe powadze objawienia i przede wszystkim na wierze polegać pragnęli. Rzecznikiem gorącej wiary a tym samym nieubłaganym przeciwnikiem Abelarda stał się *Bernard z Clairvaux*, o 12 lat od niego młodszy, znany z dziejów drugiej wyprawy krzyżowej. Jak z końcem XI wieku *Roscelina* zwalczał *Anzelm*, tak w pierwszej połowie XII *Abelarda* zwalczał *Bernard z Clairvaux*, nazywając pragnienie wiedzy dla wiedzy samej rzeczą pogańską. Pokora i zaparcie się, dziecięca wiara i karność klasztorna, oto hasła, z którymi na ustach zjawia się ten nie gorszy od Abelarda mocarz słowa, stając na czele kierunku mistycznego w wieku XII, i upominając, by człowiek nie silił się na rozumowe zgłębianie tajemnic bożych, lecz życiem i miłością zasłużył na zupełne zjednoczenie się duchowe z Bogiem.
+
+
+Kontemplacja
+
+Mistycyzm wieku XII, powołany do życia przez *św. Bernarda*, obrał sobie za główną siedzibę klasztor św. Wiktora w Paryżu, w którym żyli najznakomitsi dwaj ówcześni przedstawiciele tego kierunku: *Hugon* i *Ryszard*. Według ich nauki trojaki stopień wiedzy dany jest człowiekowi: poznanie za pośrednictwem zmysłów, poznanie za pośrednictwem rozumu i poznanie za pośrednictwem kontemplacji. Na każdym z tych stopni poznaje człowiek Boga i jego doskonałość, ale nie na każdym stopniu poznanie to jest w równej mierze doskonałym; prawdziwie doskonałego poznania Boga nie rozum nam dostarcza, tym mniej zmysły, lecz kontemplacja. Ale i w kontemplacji trojaki należy odróżnić stopień: rozszerzenie umysłu, wzniesienie umysłu i wyjście z siebie umysłu; na tym ostatnim i najwyższym stopniu człowiek zupełnie zatraca świadomość swego własnego istnienia i cały zatapia i roztapia się w najwyższej ekstazie, oglądając tajemnice boże. Aby się stać godnym takiego stanu, trzeba się życiem odpowiednim do niego przygotowywać; aby zaś stać się istotnie jego uczestnikiem, trzeba w pokorze oczekiwać łaski bożej.
+
+
+Zacieśnianie zakresu filozofii
+
+Nietrudno dopatrzeć się w tym mistycyzmie pokrewieństwa z filozofią *św. Augustyna*, przynajmniej z jej najgłówniejszymi założeniami. Na wzór św. Augustyna mistycy wzrok swój zwrócili w swą własną duszę, i tam, w pewnych jej stanach, szukali podstawy niewzruszonej pewności. A pokrewieństwo to nie jest rzeczą przypadkową, skoro, jak uczą dzieje średniowiecznej filozofii i religii, za każdym razem, gdy zjawia się w rozwoju myśli ludzkiej potężniejsza fala mistycyzmu, płynie ona mniej lub więcej świadomie z pism św. Augustyna. Wobec stosunku, w jakim św. Augustyn pozostaje do platonizmu i neoplatonizmu, tego głównego źródła wszelkiego mistycyzmu europejskiego, nie ma w tym nic dziwnego. Inna natomiast rzecz bardziej jest uderzająca: wszak nie tylko mistycy wieku XII, lecz także ten, którego tak zapamiętale zwalczają, *Abelard*, zagląda w głąb swej duszy, skoro w etyce swej analizuje duszę i w tkwiącym w niej sumieniu widzi podstawę, a w wynikającej z niej intencji właściwy przedmiot naszych sądów o tym, co złe, a co dobre. Tak więc w obu głównych kierunkach filozofii średniowiecznej widzimy w ciągu wieku XII zwrot ku wnętrzu człowieka i ku głębiom duszy ludzkiej; coraz bardziej odwracają się umysły od całości wszechświata, od zagadnień, z jego powstaniem i istotą związanych, które tak żywo zajmowały jeszcze *Szkota Eriugenę* i wchodziły w całość poglądów *św. Augustyna*. Zakres problematów, obejmujący dawniej prócz Boga i człowieka także wszelakie inne stworzenie żywe i martwe, obecnie ścieśnia i ogranicza się przede wszystkim lub wyłącznie do duszy ludzkiej i jej stosunku do Boga. Trzeba było bardzo silnego bodźca, by uprzytomnić człowiekowi, że prócz niego samego i Boga istnieje także ten cały świat boży. Niebawem też miał się bodziec ten istotnie zjawić, a to dzięki powtórnemu zetknięciu się społeczeństwa chrześcijańskiego z cywilizacją arabską.
+
+
+Filozofowie arabscy
+
+3. Raz bowiem już przedtem takie zetknięcie się nastąpiło. Na wschodzie, na samych krańcach dawnego imperium rzymskiego, w Syrii, przebywali chrześcijanie, którzy w wieku VI zaczęli różne pisma Arystotelesa przyswajać swemu ojczystemu, syryjskiemu językowi. Arabowie, sąsiadujący z Syryjczykami, gorliwie uprawiający nauki lekarskie, żywo zainteresowali się nauką mędrca greckiego, obejmującego w swych dziełach niemal całokształt wiedzy ludzkiej, rozprawiającego nie mniej szczegółowo o budowie wszechświata i ciał zwierzęcych, jak o duszy ludzkiej i o Bogu. Więc zaczęli od wieku IX, wtedy więc, gdy w Paryżu żył i działał *Eriugena*, przekładać pisma Arystotelesa na język arabski. Współczesny *Eriugenie Alkendi* pisze objaśnienia do dzieł logicznych Arystotelesa, w wieku X *Alfarabi* występuje jako umiarkowany realista i łączy w swych poglądach arystotelesowy sposób dowodzenia istnienia Boga z neoplatońskich pojmowaniem stosunku Boga do świata, uważając świat w duchu panteistycznym z emanacją Boga. W wieku XI *Avicenna* w pismach swych traktuje na wzór Arystotelesa wszystkie dziedziny ówczesnej wiedzy, a stwarzając obowiązujący w szkołach arabskich przez szereg wieków system nauki lekarskiej, w poglądach filozoficznych bardziej od swoich poprzedników zbliża się do wolnej od przymieszek neoplatońskich nauki Arystotelesa. Lecz po nim na wschodzie upada wśród Arabów filozofia, by, chociaż przez krótki tylko czas, tym bujniej się rozwinąć wśród Arabów, mieszkających w Hiszpanii. Tu ponad innych wybił się w wieku XII *Averroës* (1126–1198), prawnik i sędzia, lekarz, matematyk, filozof, uznający wyłączną powagę Arystotelesa, którego wszystkie niemal pisma zna (oczywiście w przekładzie arabskim), objaśnia i parafrazuje. Nadto sam pisze rozprawy różnej treści, także filozoficznej. Nie wiadomo, czy z chęci bardzo ścisłego tłumaczenia nauki swego mistrza, czy też może wskutek mimowolnego wpływu swych poprzedników, zabarwionych neoplatonizmem, *Averroës* rozwija pogląd, według którego rozum ludzki jest jeden i ten sam we wszystkich ludziach. Ten jeden rozum jest emanacją Boga, i jak jedno słońce oświeca wszystkie ciała, tak ów jeden rozum wszystkie oświeca dusze ludzkie. Z nauką tą wiara w nieśmiertelność indywidualną pogodzić się oczywiście nie da, gdyż ów jeden rozum po śmierci każdego człowieka cząstkę swą, udzieloną mu za jego życia, znowu w siebie wchłania.
+
+
+Filozofowie żydowscy
+
+Równocześnie z *Averroësem* żył filozof żydowski, który wśród swoich ziomków podobną odegrał rolę, jak Averroës wśród Arabów, mianowicie: *Mojżesz Maimonides* (1135–1204). Wśród żydowskich filozofów zrazu bardzo silnie się zaznaczyły wpływy neoplatońskie. Jeszcze *Avicebron*, żyjący w wieku XI, objawia w swych poglądach wybitne rysy neoplatońskie. *Maimonides* natomiast uznaje jedynie powagę *Arystotelesa*; w sprawach, tyczących się świata stworzonego, *Arystoteles* zawsze ma słuszność. Maimonides do tego stopnia wierzył w *Arystotelesa*, że nie tylko przyjmuje w zupełności jego etykę, lecz twierdzi nadto — jak już dawniej Philo — że w razie niezgodności między poglądami filozofa greckiego a słowami pisma świętego trzeba tekst ksiąg objawionych tłumaczyć i rozumieć alegorycznie, przenośnie, tak, aby niezgodność usunąć.
+
+
+Recepcja Arystotelesa
+
+5. Zaznajomiwszy się z *Arystotelesem*, a także z pisarzami arabskimi, opierającymi się na *Arystotelesie*, Żydzi to sprawili, że pisma *Arystotelesa* dostały się do rąk chrześcijan, mieszkających w Hiszpanii i w południowej Francji. Dla tych chrześcijan bowiem Żydzi zaczęli przekłady arabskie i hebrajskie tego filozofa tłumaczyć na język łaciński, i w tej formie dzieła *Arystotelesa*, dotąd w Europie środkowej z wyjątkiem kilku pism logicznych nieznane, wchodzą znowu w skład cywilizacji chrześcijańskiej, za pośrednictwem której poznali je na wschodzie cztery wieki przedtem Arabowie. Przeszedłszy tyle przekładów — z greckiego na język syryjski, z syryjskiego na arabski, z arabskiego czasem wprost, czasem za pośrednictwem hebrajskiego na łaciński, tekst *Arystotelesa* wymagał przede wszystkim ustalenia, a ponieważ chrześcijańscy uczeni owych czasów tylko wyjątkowo posiadali znajomość języka greckiego, więc zaczęto się starać o przekłady łacińskie, sporządzone wprost z oryginałów greckich. Tym sposobem w I połowie wielu XIII rozpoczyna się dla chrześcijańskiej filozofii średniowiecza nowy okres, w którym, tak jak przedtem u Arabów i Żydów, górujące stanowisko zdobył sobie *Arystoteles*. A jeśli zrazu Kościół posądzał arystotelesową filozofię o panteistyczne domieszki i dlatego nawet zakazywał czytania jego pism, niebawem się przekonał, że domieszki te pochodziły od komentatorów arabskich i żadnych już przeszkód nie stawiał rozpowszechnieniu tej filozofii, zwłaszcza odkąd zdobyli dla niej w paryskim uniwersytecie osobne katedry szczególni wielbiciele tego filozofa greckiego, dominikanie i franciszkanie.
+
+
+Pierwsi arystotelicy chrześcijańscy
+
+6. Toteż franciszkaninem był żyjący w Paryżu Anglik, *Aleksander z Hales* (um. 1245), pierwszy uczony chrześcijański, posługujący się w wykładzie teologii całokształtem filozoficznych pojęć Arystotelesa, a dominikaninem był Niemiec *Albert Wielki* (um. 1230), który pierwszy podjął się zarówno wyczerpującego przedstawienia filozofii Arystotelesa, jak utworzenia przy jej pomocy systemu religijno-filozoficznego, obejmującego, jak u *św. Augustyna*, całość bytu stworzonego i niestworzonego.
+
+
+Pogodzenie realizmu i konceptualizmu
+
+7. Trudne to było zadanie i *Albert Wielki* nie całkowicie mu sprostał. Ogrom wiadomości i materialu, nagromadzony w pismach *Arystotelesa* i jego arabskich i żydowskich komentatorów, przytłaczał *Alberta Wielkiego*; a powstałe stąd w dziełach *Alberta* braki występują tym silniej, ile że uniknął ich szczęśliwie i zamiary *Alberta Wielkiego* w sposób doskonały przeprowadził większy od mistrza uczeń jego *Tomasz z Akwinu*. Ale nie tylko sformułował *Albert Wielki* zadanie, wykonane następnie przez *Tomasza*, lecz sam także dał próbę wykonania go w swych komentarzach do *Arystotelesa*, w swych dziełach filozoficznych i teologicznych, a w nich wypowiedział szereg myśli, które następnie skwapliwie przyswoił sobie jego uczeń. Jedna z nich dotyczy sporu o *universalia*, który Albert Wielki rozwiązuje w duchu umiarkowanego *realizmu*, nie odrzucając jednak ani skrajnego *realizmu*, ani *konceptualizmu* i tylko *nominalizm* uważając za naukę z gruntu fałszywą. Uczy mianowicie *Albert Wielki*, że *universalia* zarówno istnieją przed rzeczami, jak w rzeczach, jak też po rzeczach. Przed rzeczami w myśli ulotnej jako prawzory rzeczy stworzonych; w rzeczach tak, jak to pojmował *Arystoteles*, upatrując w każdym bycie konkretnym prócz jego cech jednostkowych także urzeczywistnioną w nim istotę, ideę; po rzeczach zaś jako pomyślane w naszych pojęciach cechy wspólne podobnych do siebie rzeczy konkretnych. Odrzucając w ten sposób z możliwych kierunków zapatrywania się na zagadnienie *universaliów* jedynie *nominalizm*, przyczynił się *Albert* tym samym do tego, że później właśnie *nominalizm* najbardziej natarczywie zaczynał się upominać o swe prawa i wystąpił do walki z następcami *Alberta* i z reprezentowanym przez nich *realizmem*. Tak samo i drugi jeszcze pogląd Alberta stał się w dalszym rozwoju wypadków bardzo groźnym dla jedności nauki kościelnej fermentem, chociaż tak jak pogodzenie *realizmu* z *konceptualizmem* miał według intencji *Alberta* uśmierzyć spory i zapobiec niebezpieczeństwom z nich wynikającym. Drugi ten pogląd dotyczy stosunku filozofii do religii, wiedzy do wiary, rozumu do objawienia.
+
+
+Wiedza i wiara u Anzelma
+
+8. W tej mierze dokonała się w pierwszym okresie filozofii średniowiecznej znamienna ewolucja. *Jan Szkot Eriugena* był, jak wiemy tego zdania, że prawdziwa filozofia i prawdziwa religia pozostają ze sobą zawsze w zgodzie. Ale już *Anzelm Kantuareński* nieco inaczej się na tę sprawę zapatrywał. Uważał wprawdzie to za obowiązek nasz, byśmy, wierząc, starali się także zrozumieć to, w co wierzymy; wiara ma być stopniem pierwszym, zrozumienie stopniem drugim w przyjmowaniu nauki objawionej; wierzę, abym rozumiał, powiada (credo ut intelligam); ale przy tym przypuszcza możność takiego wypadku, że bądź rozum nie zdoła przeniknąć należycie nauki objawionej, bądź też, usiłując ją sobie przyswoić, do odmiennych od niej dojdzie wyników. W obu wypadkach poddać się powinien bezwzględnie powadze objawienia, ojców Kościoła i Kościoła samego. Wszelka niezgodność między religią i filozofią ma być usunięta ustępstwem filozofii.
+
+
+Wiedza i wiara u Abelarda
+
+Znowu inaczej sprawę tę pojmował *Abelard*. Uważając na równi z *Anzelmem* za rzecz w najwyższym stopniu pożądaną, by filozofia i religia pozostały ze sobą w zgodzie, poddając się nawet w myśl zasady *Anzelma* potępiającym go wyrokom władzy duchownej, przecież wręcz przeciwnie od *Anzelma* broni zdania, że dopiero filozoficzne zrozumienie i rozważanie może nam utorować drogę do wiary i że w wątpliwych kwestiach wiary rozstrzyga nie powaga ojców Kościoła, lecz argumentacja, rozum, a gdzie on nie wystarcza, poczucie etyczne.
+
+
+Wiedza i wiara u mistyków
+
+Mistycy wieku XII natomiast w sporze tym między wiedzą rozumową a wiarą religijną zajmują stanowisko poniekąd pośrednie, gdyż nie przeciwstawiają wiedzy i wiary w ten sposób, by mogła się między nimi zjawić sprzeczność, zakończona bądź po myśli *Anzelma* poddaniem rozumu pod wiarę, bądź po myśli *Abelarda* poddaniem wiary pod rozum, lecz czynią z wiedzy rozumowej niższy stopień poznania prawdy, a z wiary, czerpanej drogą bezpośredniego objawienia w kontemplacji ekstatycznej, najdoskonalszy jego stopień.
+
+
+Wiedza i wiara u Alberta
+
+Otóż *Albert Wielki* usiłował również pośredniczyć między prawami, których żądał dla siebie rozum, a niecierpiącą żadnego wyłamywania się spod swych dogmatów nauką objawioną. Idąc za wskazówkami Maimonidesa starał się pociągnąć i określić granice między tym, co może być przedmiotem wiedzy, a tym, co musi pozostać wobec ułomności rozumu ludzkiego dziedziną wiary. Dwojaka istnieje więc teologia: przyrodzona i objawiona. Pierwsza obejmuje wszystkie prawdy, które zrozumieć i uzasadnić może uzbrojony w narzędzia filozofii rozum ludzki; druga składa się z tajemnic wiary, których nikt zrozumieć nie zdoła, które więc jako objawione trzeba przyjmować w pokornej wierze. A tajemnicami tymi są przede wszystkim: dogmat Trójcy, dogmat wcielenia Syna Bożego i odkupienia człowieka.
+
+
+Tomasz z Akwinu
+
+9. Przyjmując od swego mistrza zasadnicze te myśli i jeszcze szereg innych, potrafił je *Tomasz z Akwinu* zlać i stopić w harmonijną, konsekwentną całość z wynikami swych własnych, nieustannych rozmyślań, z całym systemem teologii ówczesnej i zasobem pojęć czerpanych z *Arystotelesa*. W niespełna pięćdziesięciu latach swego życia (1225–1274), poświęconego nauczaniu filozofii i teologii w Kolonii, Paryżu, Bolonii, Rzymie, Neapolu i w innych miastach, potrafił ten potomek włoskich hrabiów z Aquino (niedaleko Neapolu), a zarazem mnich dominikański, nie tylko przyswoić sobie w zupełności filozofię Arystotelesa, napisać do jego dzieł szereg doskonałych komentarzy, wytworzyć sobie jednolity pogląd filozoficzno-religijny na świat, lecz także pogląd ten przedstawić w dwóch dziełach Summa philosophica i Summa theologiae, które po dziś dzień uchodzą w Kościele za ostatni wyraz i ostateczne filozoficzne sformułowanie katolicyzmu.
+
+Cały system *Tomasza z Akwinu* można scharakteryzować jako naukę wiary katolickiej, wyrażoną w pojęciach arystotelesowych, a zarazem jako filozofię Arystotelesa, wyrażającą naukę katolicką. Jak bowiem u *św. Augustyna* filozoficzne wyrazy nie są tylko formą, znakami mowy, przy pomocy których wypowiada się treść od tej formy zewnętrznej zupełnie niezależną, przystępną równie dobrze każdej innej formie, tak też i tutaj, u *Tomasza z Akwinu* filozofia sama staje się istotną częścią składową nauki, staje się jej treścią i właśnie dzięki temu nauka ta wypowiada się słowami filozofii. Tylko że u *św. Augustyna* z nauką wiary łączyła się filozofia Platona i neoplatońska, u *Tomasza z Akwinu* zaś filozofia *Arystotelesa*, przy czym oczywiście nie brak i u niego tych czynników platońskich i augustyńskich, które weszły już przedtem w ustalony skład nauki Kościoła. Jak więc światło słońca i ciepło jego nie dadzą się od siebie oderwać, gdyż jedną nierozerwalną tworzą całość, tak też nauka Kościoła i filozofia *Arystotelesa* w jedną zwartą całość zlały się w umyśle i w pismach *Tomasza z Akwinu*, dzięki czemu np. niektóre określenia, sformułowane przez Greka i poganina Arystotelesa, stały się dogmatami kościelnymi, jak przedtem już inne określenia, sformułowane przez żyda Philona.
+
+
+Świat materialny i duchowy
+
+Zasadnicza myśl arystotelesowego poglądu na świat, według którego całość jego okazuje nam szereg nieprzerwany bytów od najniższego do najwyższego, w ten sposób, że im byt jest wyższy, tym bardziej przeważa w nim pierwiastek czynny, forma, istota rzeczy nad pierwiastkiem biernym, materią, myśl ta przenika także cały pogląd na świat *Tomasza z Akwinu*. Wskutek tego to, co u innych występowało jako przeciwieństwo, u niego zjawia się jako szereg różnych stopni do najwyższego celu wiodących. Tak np. według neoplatoników i tych, co pod ich wpływem pozostają, świat duchowy i cielesny są sobie jakby światłem i ciemnością, pozostają do siebie w jaskrawym przeciwieństwie. U Tomasza natomiast od bytów najniższych, od roślin i zwierząt, prowadzi ciągły, nieprzerwany szereg istot coraz wyższych poprzez człowieka, w którym niejako dokonywa się przemiana przewagi czynnika zmysłowego na przewagę duchowego, coraz wyżej przez chóry anielskie aż do Boga, bytu najwyższego.
+
+
+Władza świecka i duchowna
+
+W podobny sposób usunął *Tomasz* przeciwieństwo państwa bożego i szatańskiego, społeczności duchowej i świeckiej, które tak ponure światło rzuca na poglądy historiozoficzne św. Augustyna. Tomasz pierwszy zajął się wśród filozofów średniowiecznych teorią państwa, wcielając tym sposobem w swój system także polityczne poglądy Arystotelesa, niezużytkowane przez *Alberta Wielkiego*, który natomiast okazał wielkie zainteresowanie dla pism przyrodniczych *Arystotelesa*, pominiętych przez *Tomasza*. Zgodnie więc z Arystotelesem uważa człowieka za istotę stworzoną do życia społecznego i do łączenia się w organizacji państwowej; zadaniem zaś państwa jest w myśl *Arystotelesa* urzeczywistnienie w obywatelach cnoty. Państwo świeckie nie jest więc dziełem szatana, lecz niezbędnym ogniwem w planie tworzenia. Ale plan ten nie zakreślił człowiekowi granic na ziemi, lecz przeznacza go w miarę jego cnoty do wiecznego zbawienia. Więc też nie cnota obywatelska jest najwyższą, lecz ta, która jest darem łaski bożej. Państwo zatem powinno, iszcząc w swych członkach cnoty obywatelskie, przygotowywać ich tym samym do uzyskania łaski bożej, do cnót wyższych i do wiecznego zbawienia. Państwo świeckie przestaje więc być przeciwieństwem państwa bożego i staje się przygotowaniem do niego. A ponieważ państwo boże jest stopniem wyższym, a państwo świeckie stopniem niższym, przeto też władza duchowa wyższość posiadać musi nad władzą świecką, którą się posługuje dla osiągnięcia swoich własnych, wyższych celów.
+
+
+Znaczenie Tomasza z Akwinu
+
+Ta teoria państwa jest zarazem bardzo jasnym przykładem owego wzajemnego przenikania się filozofii arystotelesowej i teologii katolickiej w systemie *Tomasza z Akwinu*. I jakkolwiekby się ktoś zapatrywał na bezwzględną wartość tego systemu, jedno przecież każdy musi uznać, to mianowicie, że nigdy przedtem i już nigdy potem myśl chrześcijańska i myśl grecka nie zlały się w całość tak doskonale sharmonizowaną, i że ten, co potrafił w sobie skupić wszystko, co przemyślał Arystoteles, i wszystko, co skodyfikował Kościół, a skupiwszy w sobie przekazać potomności w postaci tak zaokrąglonej, musiał być człowiekiem niepospolitym, umysłem genialnym.
+
+
+Piotr Hiszpan
+
+10. Stanął więc gmach skończony; cóż można było w tym kierunku uczynić jeszcze dalej? Pozostawało jedno bardzo ważne zadanie: gmach ten uczynić przystępnym dla wszystkich, aby jak największa ilość mogła w nim zamieszkać. Trzeba zatem było znajomość systemu *Tomasza* rozpowszechniać, trzeba było wykładać go w szkołach. A metoda szkolnego wykładu, metoda scholastyczna w ściślejszym tego słowa znaczeniu, którą także św. Tomasz sam stosował w swym wykładzie, w owym właśnie czasie jeszcze bardziej się wydoskonaliła, a tym samym jeszcze bardziej sformalizowała. Współczesny Tomaszowi *Piotr Hiszpan*, (umarł w r. 1277 jako papież Jan XXI), napisał podręcznik logiki, który podaje po raz pierwszy formułki sylogizmu *Barbara*, *Celarent* itd. Odtąd więc można było jeszcze łatwiej wyuczyć się władać sylogizmem w wykładzie i w dysputach; toteż nadchodzą czasy, w których coraz słuszniejszym staje się zarzut bezdusznego formalizmu, czyniony metodzie scholastycznej.
+
+
+Dante
+
+11. Jak niebo od ziemi różni się od tego szkolnego sposobu rozpowszechniania w szerszych kołach systemu *Tomasza z Akwinu* droga, obrana przez *Dantego*, który urodził się na 9 lat przed śmiercią Tomasza. Ktokolwiek zna naukę *Tomasza*, odnajdzie ją w Boskiej komedii, w poetyckie odzianą szaty, począwszy od postaci Wergilego i Beatryczy jako symbolów wiedzy przyrodzonej i objawionej, a skończywszy na ujętych w cudowne wiersze najsubtelniejszych roztrząsaniach filozoficznych. W poglądach jednak na stosunek władzy świeckiej do duchownej *Dante* zajmuje stanowisko wręcz przeciwne nauce Tomasza.
+
+
+Tomizm
+
+Poza rozpowszechnieniem się bądź drogą suchego wykładu szkolnego, bądź drogą genialnej poezji nic już innego *tomizmowi* nie pozostało. System tak w sobie zamknięty, tak zwarty i jednolity nie dopuszczał dalszego rozwoju; wszelka modyfikacja, wszelka chociażby najlepsza chęć jeszcze dalszego udoskonalenia musiała wywołać w gmachu tym rysy i nim zachwiać.
+
+
+Filozofia poza tomizmem
+
+Ale życie filozofii średniowiecznej nie całe zamieszkało w murach tego gmachu. Przeciwnie, poza jego murami wrze ono także, a nawet po części z niego się zasila. Płynie jeszcze i coraz szerszym prądem się rozlewa fala mistycyzmu, a z tego samego gmachu, z którego trysnęło źródło tak wybitnie wzmagające wzrost scholastyki w znaczeniu ciaśniejszym, z arystotelizmu arabsko-żydowskiego, wypływają też pierwsze wyraźne strumienie prądu empirycznego i przyrodniczego.
+
+
+
+Wykład piąty
+
+1. Mistycyzm w szacie scholastycznej: Bonaventura. — 2. Rogeriusz Bacon. Jego zasady metodyczne. Matematyka i nauki przyrodnicze w wiekach średnich. — 3. Zmiana wzajemnego stosunku teologii i filozofii. Jan Duns Szkot. — 4. Rozum i wola. — 5. Indywidualizm. — 6. Początek upadku filozofii średniowiecznej. — 7. Odnowienia umiarkowanego nominalizmu czyli konceptualizmu. Wilhelm Ockham. Terminizm. — 8. Teoria dwojakiej prawdy. — 9. Kościół wobec odnowionego nominalizmu. — 10. Nowe ugrupowanie się kierunków myśli ludzkiej.
+
+
+Mistycyzm Bonaventury
+
+1. Największym mistykiem wieku XIII, mistykiem, którego też najwyżej wśród wszystkich stawia Kościół katolicki, był *Jan Fidanza*, przezwany *Bonaventurą*, uczeń *Aleksandra z Hales*, jak on franciszkanin, a zarazem serdeczny przyjaciel *Tomasza z Akwinu*, z którym umiera w jednym i tym samym roku (1274). Będąc uczniem pierwszego chrześcijańskiego arystotelika wieków średnich, zaczerpnął od niego tylko metodę wykładu; treścią zaś nawiązuje do *Hugona* i *Ryszarda* z klasztoru św. Wiktora. Dla Bonaventury religia jest sprawą serca, nie rozumu; nie tyle więc zajmuje go *rozbiór dogmatów* i logiczne ich opracowanie, ile *wiara w dogmaty*; analiza jego dotyczy nie tego, w co wierzymy, lecz tego, jak mamy wierzyć i jak możemy do wiary dojść. Na pytania te odpowiada w licznych dziełach, wzorowanych na bogatych w subtelne dystynkcje pismach swego mistrza Aleksandra, tylko że dystynkcje te dotyczą u Bonaventury stanów duszy ludzkiej, zmierzającej ze stanu grzechu po przez pokutę i skruchę do przestrzegania praw bożych oraz rad ewangelicznych, dalej do pobudzenia w sobie cnót boskich, następnie do posiadania siedmiu darów Ducha św., do zasłużenia sobie na siedem błogosławieństw, na dwanaście owoców Ducha św., na koniec poprzez sąd do nieba. A oglądanie Boga, które czeka nas w niebie, pojmuje Bonaventura nie jako intelektualne tylko oglądanie, lecz jako zlanie się z Bogiem w płomiennej miłości, jako upojenie się Bogiem, jako przetopienie się w Boga. Ten stan kontemplacji czyli oglądania Boga, którego Bóg użycza niekiedy godnym sługom swoim już za życia ziemskiego, przebiega przez siedem stopni, dokładnie przez Bonaventurę rozważonych i opisanych. Tak tedy treść mistyczna z formą scholastyczną w jedną się tu zlewa całość, jakby na dowód, że wpływowi tej metody scholastycznej wówczas nic oprzeć się nie mogło, nawet nie takie umysły, które cała ich istota na odmienne pchała tory.
+
+
+Rogeriusz Bacon
+
+2. A przecież współcześnie z Bonaventurą żył człowiek, który nie tylko jak Bonaventura od treści ówczesnej filozofii się odwrócił, lecz także formę jej zwalczał jak najostrzej. Był to *Rogeriusz Bacon*, imiennik żyjącego o półczwarta wieku później *Franciszka Bacona*, z którym łączy go prócz nazwiska i narodowości wspólność przekonań naukowych. *Rogeriusz Bacon* (1214–1294) na równi z *Bonaventurą* nosił habit św. Franciszka, ale koleje jego życia różnią się od losów *Bonaventury* jak niebo włoskie, które spoglądało na Bonaventurę, od nieba angielskiego, pod którem rodził się i przeważnie żył *Rogeriusz Bacon*. Tamten dostąpił niemal wszystkich ziemskich zaszczytów hierarchii kościelnej: był jenerałem zakonu, biskupem, kardynałem; ten zaś jadał gorzki chleb wygnańca i więźnia, pokutującego za to, że daleko myślą swą wyprzedził swój czas.
+
+
+Postulat wiedzy źródłowej
+
+Wtedy, gdy inni ślęczyli nad łacińskimi przekładami *Arystotelesa* i jego arabskich komentatorów, a z autorów tych i ze słów pisma świętego, które również w łacińskim przekładzie czytali, stawiali gmach katolickiego poglądu na świat, *Rogeriusz Bacon* odezwał się w słowa, które niebawem stać się miały zasadniczym hasłem odrodzenia. Jak można, pyta się, poznać myśli Arystotelesa i arabskich filozofów, jak można objaśniać pismo św., jeśli nie zna się języków, w których dzieła te były pisane, jeśli polega się wyłącznie na przekładach, nurzających tak często myśl oryginału? Uczycie się gramatyki, znacie formy jej i prawidła, lecz lepiej byłoby, gdybyście się zamiast gramatyki uczyli języków. Wszędzie bowiem dotrzeć trzeba do źródeł; kto z drugiej tylko bierze ręki, wiedzy naprzód nie posunie. Polecając współczesnym sobie uczonym, by docierali do źródła filozofii i teologii, sam *Rogeriusz Bacon* w innym kierunku postanowił czerpać z pierwszej ręki: na polu poznania przyrody.
+
+
+Gerbert, Witelo
+
+Do takiego celu wiodła i wiedzie droga tylko jedna: a jest nią doświadczenie. Przyrodę nie z książek, lecz z doświadczenia tylko poznać można. Zasadę tę wygłosił już *Albert Wielki*. który sam żywo zajął się państwem roślinnym i osobne mu poświęcił dzieło. Ale mimo to niezupełnie zerwał ze zwyczajem powoływania się w tego rodzaju badaniach na powagi i na nich niejednokrotnie polegał tam, gdzie należało się zwrócić do doświadczenia. Znamiennym jest fakt, że i ten nowy prąd zawdzięcza średniowiecze filozofom arabskim. Autorowie arabscy bowiem nie zajmowali w swych pismach tak obojętnego lub nawet wrogiego jak chrześcijańscy filozofowie stanowiska względem przyrody, lecz i jej badaniu poświęcali się w mniejszym lub szerszym zakresie. Oni to wzbudzili także wśród chrześcijańskich autorów przynajmniej w niektórych odosobnionych wypadkach umiłowanie do badań przyrodniczych oraz matematycznych. Już w wieku X pisywał *Gerbert*, późniejszy papież Sylwester II, rozprawy matematyczne, a wykształcenie matematyczne zawdzięczał Arabom hiszpańskim, od których przejął używane potem powszechnie cyfry. A Polak — przynajmniej po matce — *Witelo*, żyjący w wieku XIII, jest autorem dzieła treści optycznej, opartego głównie na optyce arabskiego filozofa Alhazena. Najwybitniejszym jednak przedstawicielem kierunku matematyczno-przyrodniczego w chrześcijańskiej filozofii średniowiecza jest *Rogeriusz Bacon*, zajmujący się zagadnieniami astronomicznymi i matematycznymi ze względu na konieczną poprawę kalendarza, a nadto całym sercem oddany badaniom fizycznym i chemicznym.
+
+
+Bacon a nauki przyrodnicze
+
+Rozumiał przy tym, że fizyk i chemik potrzebuje przyrządów; toteż cały swój znaczny majątek na nie wydał. Nie mógł się zupełnie wyzwolić spod panujących wówczas w chemii, a raczej w alchemii poglądów; pod wielu względami żywił takie same przesądy jak współcześni mu alchemicy i astrologowie. Ale przy tym w wielu wypadkach dowiódł zarówno bystrości w obserwowaniu zjawisk, jak przenikliwości w wykrywaniu przyczyn. Twierdził, że tęcza jest tylko podmiotowym zjawiskiem, powstałem przez odbijanie się światła, skoro każdy widzi niejako swoją tęczę; rozprawiał o takich szkłach, przy pomocy których można widzieć karłów olbrzymami, a olbrzymów karłami, gdyż wielkość przedmiotów widzianych zależy od kąta utworzonego przez wnikające w oko promienie, o szkłach, za pomocą których można promienie słońca w jednym zebrać miejscu i tym sposobem w walce wrogom swoim wielką wyrządzić szkodę; wspomina o mieszaninie, zawierającej saletrę, która, zapalona w żelaznej rurze, wybucha z wielkim hukiem. Niewątpliwie więc pewne zjawiska przyrody znał lepiej, aniżeli niemal wszyscy współcześni mu ludzie, których wyprzedził także ustawicznym nawoływaniem do naprawy kalendarza juliańskiego, wykazując jego błędność i nazywając jego używanie wstydem i hańbą. Ale jeszcze pod innym względem myśl *Rogeriusza Bacona* wybiega daleko naprzód: w pismach jego znajdują się bowiem niektóre przepowiednie, w których ręka w rękę z naiwnością idzie zdumiewająca intuicja. Naiwnie bowiem brzmi proroctwo, że religia mahometańska ogółem będzie istniała tylko lat 693, albo że szczególnie ważną rolę przy końcu świata odegrać mają Tatarzy. Ze zdumieniem natomiast czytamy u niego takie np. zdanie: „Można zbudować okręty, które będą wiosłowały bez pomocy ludzi, tak iż pływać będą jak największe statki na rzekach i morzach, posłuszne kierownictwu jednego człowieka, jadąc szybciej, aniżeli gdyby pełne były poruszających je ludzi. Można też budować wozy, których nie będzie ciągnęło żadne zwierzę, a które będą się poruszać z gwałtowną szybkością”.
+
+
+Bacon a tomizm
+
+Kto tego rodzaju wygłaszał zdania, musiał się wydawać podejrzanym o sprawy nieczyste i wywołać zgorszenie u przedstawicieli ówczesnego poglądu na świat, którego ostatnim i najdoskonalszym wyrazem był system Tomasza z Akwinu. Czuli oni dobrze, że nauki, które uprawia Rogeriusz Bacon, sięgają poza koło, temu poglądowi zakreślone; czuli, że tu się wykluwa wiedza, która nie ma punktów stycznych z teologią, która więc stanie obok teologii, gdy tymczasem dotąd teologia obejmowała sobą niemal wszelką naukę, wchłonąwszy w siebie filozofię, ów całokształt wiedzy przyrodzonej, czyniąc sobie z niej powolne narzędzie dla swych własnych celów, swoją służebnicę.
+
+
+Odosobnienie Bacona
+
+O ile niebezpieczeństwo takie groziło ze strony *Rogeriusza Bacona*, zostało ono zażegnane; franciszkanin ten nie znalazł na razie zwolenników lub naśladowców; jego pełen zapału rozpęd ku opartej na doświadczeniu uprawie nauk poza obrębem teologii idących nikogo wówczas ze sobą nie porwał.
+
+
+Opozycja przeciw tomizmowi
+
+Ale mimo to niebezpieczeństwo utraty stanowiska jedynej, wyłącznej, wszechobejmującej nauki nie tylko nie przestało teologii grozić, lecz stawało się coraz większym; tym większym, że nie wyszło ani od snujących rzekomo fantastyczne pomysły wielbicieli doświadczenia, ani od wybiegających poza przyrodzone światło rozumu apostołów ekstatycznego oglądania tajemnic bożych, lecz od samychże przedstawicieli scholastycyzmu w ściślejszym tego słowa znaczeniu.
+
+
+Duns Szkot
+
+3. Pierwszym, który sam na tym gruncie stojąc, zaczął wymierzać w zbudowany przez Tomasza z Akwinu gmach wstrząsające jego podstawami ciosy, był *Jan Duns Szkot*, jak *Bonaventura* i *Rogeriusz Bacon* franciszkanin, urodzony według jednych w Irlandii, według innych w Anglii około roku 1270, czynny jako nauczyciel w Oxfordzie, w Paryżu, w Kolonii, gdzie też w roku 1308 umarł. Kierunek myśli, przez niego reprezentowany i zwany *skotyzmem*, od razu staje w opozycji do pewnych poglądów *Tomasza z Akwinu* czyli do *tomizmu*. Filozofii *Dunsa Szkota* bronili oczywiście franciszkanie, nauki *Tomasza* dominikanie. Stąd powstają około roku 1300 spory filozoficzno-teologiczne, podsycane poczuciem solidarności zakonnej, a zaostrzone współzawodnictwem między tymi przodującymi wówczas w Kościele zakonami.
+
+
+Jego pogląd na teologię
+
+Rzecz ciekawa i uwagi godna, że samo istnienie takich sporów filozoficzno-teologicznych odpowiada w zupełności poglądom *Dunsa Szkota* na te nauki. Tomiści mogli sądzić i sądzili istotnie, że skonstruowany przez ich mistrza system, łącząc w sobie wykwit mądrości greckiej i wyniki prac ojców i doktorów Kościoła, jest koroną i zakończeniem całego dotychczasowego rozwoju myśli ludzkiej, zasilanej objawieniem bożym. Mogli sądzić, że im samym nic już innego nic pozostaje, jak rozpowszechnianie i objaśnianie nauki Tomasz. I gdyby wszystko było poszło po ich myśli, filozofia średniowieczna kończyłaby się *Tomaszem z Akwinu*, albowiem z ich punktu widzenia wszelką nową myśl, od mistrza odbiegającą, można było w zarodku stłumić wskazaniem na niewzruszoną, po wszystkie czasy ustaloną powagą *Tomasza*. *Duns Szkot* natomiast sądzi, że nie tylko filozofia, lecz nawet teologia nie może stać na miejscu, lecz bezustannie się rozwija i naprzód kroczy. Wszak *św. Augustyn* wypowiadał zdania, które później uznano za mylne, wszak ani w piśmie św., ani u najdawniejszych autorów kościelnych nie ma wielu rzeczy, które później przecież Kościół przyjął, jak np. niepokalane poczęcie Matki Boskiej, albo bezżenność duchowieństwa. Nie ma więc zasadniczej przeszkody, by późniejsi posuwali naprzód dzieło swych poprzedników, udoskonalając je według swej najlepszej wiedzy i tym sposobem coraz dalej je rozwijając.
+
+
+Teologia i filozofia
+
+Wierząc w możność i potrzebę dalszego rozwoju teologii i filozofii, rzuca *Duns Szkot* zarazem pewną myśl, która, wprowadzona w czyn, dalszy rozwój obu nauk w wysokim stopniu musiała ułatwić. Zupełne stopienie obu tych nauk w jedną całość, które począwszy od *Jana Szkota Eriugeny* poprzez następne wieki mimo odmiennego stanowiska *Abelarda* na ogół się utrzymało i do najwyższego szczytu doszło u *Tomasza z Akwinu*, nie wydaje się *Dunsowi Szkotowi* rzeczą właściwą; toteż gani tych, co mieszając ze sobą filozofię i teologię, ani teologów, ani filozofów zadowolić nie mogą. Wszak filozoficzny punkt widzenia musi być inny, aniżeli teologiczny; gdy np. filozof o szczęściu mówi, rozumie przez nie szczęście doczesne, a gdy o szczęściu mówi teolog, ma on na myśli oczywiście szczęście wieczne; filozof, badając zjawiska i urządzenia tego świata, uważa je u coś całkiem naturalnego, teologowie natomiast wiedzą, że ten pozornie naturalny porządek rzeczy jest następstwem grzechu pierworodnego i upadku człowieka. Więc filozofia i teologia, to nie jest jedno i to samo, jak uczył ów pierwszy scholastyk *Szkot Eriugena*, lecz to są dwie nauki, idące obok siebie — jeżeli w ogóle teologię uważać zechcemy za naukę. Na wszelki wypadek jest ona nauką zupełnie inną aniżeli filozofia. Filozofia ma charakter czysto teoretyczny, jej chodzi o wiedzę jako taką; zdobywa ją zaś drogą doświadczenia i ścisłego dowodzenia. Cel teologii zupełnie inny: ma ona zapewnić nam wieczne zbawienie, a wiedzą o tyle tylko się zajmuje, o ile ona jest środkiem do osiągnięcia tego celu.
+
+
+Zakres wiedzy przyrodzonej
+
+Określiwszy w ten sposób wzajemny stosunek filozofii i teologii, musi *Duns Szkot* oczywiście inaczej aniżeli *Albert Wielki* i *Tomasz z Akwinu* rozgraniczać dziedzinę tego, co możemy wiedzieć dzięki samemu tylko przyrodzonemu światłu rozumu, a tego, czego nas uczy objawienie. Zdaniem więc *Dunsa Szkota* nie tylko dogmaty dotyczące Trójcy i wcielenia Syna Bożego, lecz wszelkie też inne dogmaty znamy jedynie i uzasadnić możemy jedynie dzięki objawieniu; nawet istnienia Boga i nieśmiertelności duszy niepodobna dowieść; są to wyłącznie rzeczy wiary.
+
+
+Motywa wiary
+
+4. Ale przy takim postawieniu sprawy wyłonić się musiało pewne, bardzo ważne zagadnienie. Dotąd przyjmowano, że rozum, powodując się logicznymi argumentami, skłania nas do wiary, dowodząc jednych dogmatów wprost, a o innych wykazując przynajmniej, że nic nie przemawia przeciw ich przyjęciu. Cóż nas jednak ma do wiary skłaniać, skoro filozoficzne wywody zadania tego spełniać nie mogą? Odpowiedź *Dunsa Szkota* jest bardzo prosta: zadanie to spełniać ma *wola*.
+
+
+Intelektualizm tomizmu
+
+Ale ta prosta konsekwencja jego poglądu na stosunek teologii i filozofii jest nowym ciosem, wymierzonym w samo serce tomizmu. Według *Tomasza* nie wola o tym rozstrzyga, co mamy uznać, a czemu zaprzeczyć, lecz rozum, a za jego głosem postępuje wola. Człowiek, poznawszy rozumem, co jest dobrem a co złem, wolę swoją ku poznanemu dobru kieruje i do niego zmierza. Wola jest więc w wysokim stopniu zależną od rozumu, tak dalece, że wyrok rozumu zakreśla kierunek woli zarówno w człowieku, jak w Bogu. Bóg bowiem tylko dlatego miał wolę stworzenia świata, że poznał w swym rozumie, iż tak będzie dobrze. *Tomizm* głosi tedy pierwszeństwo rozumu przed wolą.
+
+
+Woluntaryzm skotyzmu
+
+Wręcz przeciwnie *skotyzm*: pierwszeństwo ma wola przed rozumem. Nie dlatego przyjmuje człowiek to lub owo zdanie, że rozum mu tak każe, lecz dlatego, że się na nie zgadza, tj. że wolę swoją ku niemu skłania. Rozum i prawa jego w niczym woli nie krępują: z całą swobodą może ona wybierać, co jej lepiej odpowiada. I nie tylko wola ludzka, lecz także wola boża. Stworzenie świata było aktem zupełnie swobodnego i dowolnego postanowienia bożego; tak samo dobrze byłby mógł Bóg postanowić, że świata nie stworzy; co więcej, wola boża tak dalece nie jest krępowana w swych postanowieniach poznaniem tego, co dobre lub złe, że dopiero Bóg swym postanowieniem jedne rzeczy piętnuje jako złe, inne do godności dobrych podnosi. Gdyby więc Bóg kazał był zabijać lub popełniać inne czyny, uważane dzisiaj za zbrodnie, nie byłyby one wcale zbrodnią ani grzechem. Ponad wolę bożą bowiem nie ma prawa wyższego.
+
+
+Indywidualizm Szkota
+
+5. Jeśli zważymy, że prawa rozumu są czymś przedmiotowym, powszechnym, że dla wszystkich ludzi są jedne i te same, gdy tymczasem wolę człowieka cechuje zupełna podmiotowość i dowolność, łatwo zrozumiemy, że zaznaczone przeciwieństwo między *Tomaszem z Akwinu* a *Dunsem Szkotem* łączyło się jeszcze z dalszym. Zgodnie ze swoimi poglądami na stosunek rozumu do woli *Tomasz* widział w działaniu ludzkim objawy rozumowego poznania, podległego u wszystkich ludzi tym samym prawom; *Duns Szkot* natomiast w działaniu tym widzieć mógł jedynie wypływ woli i postanowienia danej jednostki. A przyznając tej woli jednostki pierwszeństwo przed rozumem, kierowanym powszechnie obowiązującymi prawami, podkreślił z naciskiem znaczenie jednostki i jej woli wobec tego, co jest powszechne i ogólne. Był jednym słowem *indywidualistą*. A tym sposobem spór o to, czy rzeczywistość przypisać należy także bytom ogólnym, czy też tylko bytom jednostkowym, konkretnym, spór o *universalia* przybrał tutaj formę całkiem nową, łącząc się z zagadnieniem pierwszeństwa woli czy rozumu.
+
+
+Przełom
+
+6. Ale poglądy *Dunsa Szkota* nie tylko tworzą przeciwieństwo do poglądów *Tomasza*, lecz zarazem oznaczają wyraźny i całkiem stanowczy przełom w rozwoju myśli średniowiecznej, początek nowego jej okresu, ostatniego. Odtąd bowiem obok teologii staje równouprawniona z nią filozofia, upoważniona do tego, by na własną rękę, nie krępując się teologią, dążyła do poznania prawdy. A tym samym rozpoczyna się okres upadku filozofii średniowiecznej, tej filozofii, która tak się zżyła z teologią, tak przywykła do jej opieki, tak się jej w służbę oddała, że obecnie, pozostawiona własnym siłom, o własnych siłach stać nie potrafi i zaczęła się chylić ku upadkowi. I na nowo nauczyć się musiała stawiać swe kroki samodzielnie, zanim, pokrzepiona i z pełnym poczuciem swej godności własnej, odważyła się wkroczyć na nowe tory.
+
+
+Wilhelm Ockham
+
+7. Ta emancypacja filozofii spod władzy teologii łączy się z odnowieniem kierunku myśli, który już dawniej zaznaczył się jako prąd w obrębie teologii i Kościoła opozycyjny, mianowicie z odnowieniem nominalizmu. Rolę odnowiciela nominalizmu (umiarkowanego, czyli konceptualizmu) odegrał uczeń *Dunsa Szkota*, *Wilhelm Ockham*, który nadto do ostatecznych konsekwencji doprowadził naukę swego nauczyciela o stosunku teologii do filozofii, rozumu do woli, ogółu do jednostki. Duns Szkot i Ockham tworzą ciekawą analogię do innej pary, złożonej również z mistrza i ucznia, do *Alberta Wielkiego* i *Tomasza z Akwinu*. Ci dwaj głównie stworzyli jednolity, z teologii i filozofii utkany pogląd na świat wieku XIII. *Albert* dzieło rozpoczął, *Tomasz* go dokończył. Co ci dwaj dominikanie zbudowali, tamci dwaj franciszkanie zburzyli: *Duns Szkot* rozerwał spójnię, jednocząca teologię i filozofię w jedną całość, a jeśli nie był tu lub tam dość stanowczy, *Ockham* rzecz poprowadził dalej, snując z twierdzeń *Dunsa Szkota* najskrajniejsze wnioski.
+
+
+Metoda teologii
+
+*Wilhelm Ockham*, ur. w Anglii, był tak jak jego mistrz franciszkaninem i jak on czas jakiś wykładał w Paryżu; umarł w r. 1347. Według niego teologia w ogóle nie jest nauką w ścisłem tego słowa znaczeniu; wszelka bowiem nauka musi — jak to już Rogeriusz Bacon zauważył — opierać się na doświadczeniu i posługiwać się dowodzeniem. Wiedza zaś o Bogu nie z doświadczenia pochodzi i dowodów stosować nie może. Cokolwiek o Bogu wiemy, zawdzięczamy objawieniu, które daje nam także wiedzę, ale nie wiedzę naukową. Ten pogląd swój o niemożności naukowego dowodzenia w obrębie teologii usiłuje Ockham bardzo szczegółowo uzasadnić, i dlatego zajmuje się w swych dziełach bardzo obszernie logicznym rozbiorem wszelkiego rodzaju dowodów, dotąd w teologii używanych. Dogmatów, których utwierdzeniu służyć mają owe zdaniem *Ockhama* tylko rzekome dowody, bynajmniej nie zaprzecza; jak *Duns Szkot* jest szczerze i głęboko wierzącym katolikiem. Krytyka jego zwraca się przeciw metodzie ówczesnej teologii, a nie przeciw jej treści. A w tej krytycznej analizie okazał się *Ockham* niezmiernie bystrym i subtelnym, a zarazem śmiałym myślicielem, nie cofającym się przed zwalczaniem definicji i pojęć, uświęconych tradycją bardzo poważną.
+
+
+Konceptualizm Ockhama
+
+Zastanawiając się tak gruntownie nad metodyczną stroną wiedzy, przyjął *Ockham* pewną zasadę, która po dziś dzień w naukowych badaniach zajmuje bardzo ważne miejsce. Zasada ta orzeka, że *nie należy bez potrzeby bytów mnożyć*. Jeśli więc dla wytłumaczenia pewnych zjawisk lub faktów wystarczy przyjąć jeden jakiś byt lub jeden jakiś rodzaj bytów, postąpilibyśmy nienaukowo, przyjmując nadto jeszcze jakieś inne byty. A tak właśnie zdaniem *Ockhama* postępują wszyscy zwolennicy realizmu, którzy obok bytów jednostkowych wyjmują istnienie bytów ogólnych czyli *universaliów*, obok poszczególnych ludzi jakichś ludzi w ogóle. *Universalia* są więc czymś zupełnie zbytecznym; istnieją byty jednostkowe i wspólne dla podobnych do niebie jednostek pojęcia i nazwy.
+
+
+Terminizm
+
+Stosując zasadę, iż nie należy bez potrzeby mnożyć bytów, do tłumaczenia wszelkiej czynności poznawczej umysłu ludzkiego, wystąpił *Ockham* także przeciw powszechnie przez wieki średnie za wzorem starożytności przyjętej teorii poznania zmysłowego. Teoria ta głosiła, że przedmioty przez nas spostrzegane wysyłają niejako w umysł nasz jakby podobizny, obrazy swoje, a umysł, obrazy te ujmując, poznaje przedmioty, od których pochodzą. Otóż owe obrazy czyli podobizny są zdaniem *Ockhama* bytem zupełnie zbytecznym. Wystarczy bowiem przyjąć, że przedmioty zewnętrzne, na nas działając, wywołują pewne stany umysłowe; stany te są dla nas znakami przedmiotów zewnętrznych i przedmioty te w naszym myśleniu zastępują. Ponieważ *Ockham* te stany umysłowe czyli znaki nazwał też *terminami* (*terminus*: tyle co myśl określona), przeto jego teoria poznania otrzymała nazwę *terminizmu*, tym bardziej, że pogląd ten stosuje się nie tylko do poznania zmysłowego, lecz także do myślenia abstrakcyjnego, w którym pojęcia ogólne zastępują szereg wyobrażeń jednostkowych w sposób podobny, jak owe powyżej wspomniane stany umysłowe zastępują przedmioty zmysłowe.
+
+
+Indywidualizm
+
+Nominalizm Ockhama doskonale się dostrajał do głoszonego już przez *Dunsa Szkota* indywidualizmu i jeszcze silniej go uwydatnił. Toteż u *Ockhama* indywidualizm przybiera formę, jeśli to w ogóle możliwe, jeszcze jaskrawszą, a tak samo jeszcze silniej występuje u niego pierwszeństwo woli podmiotowej przed rozumem przedmiotowym. Skrajny ten indywidualizm *Ockhama* pozwolił mu występować śmiało nie tylko w dziedzinie nauki, lecz także na polu polityki kościelnej. *Ockham* zwrócił się bowiem stanowczo przeciw papieżowi *Bonifacemu VIII*, gdy tenże ogłosił słynną bullę, w której przypisuje papieżom nie tylko najwyższą duchowną, lecz także najwyższą świecką władzę. Zdaniem *Ockhama* ani w sprawach świeckich, ani w duchownych papież najwyższej władzy nie posiada, lecz w świeckich głos rozstrzygający mają królowie i książęta świeccy, a w duchownych Kościół, reprezentowany w soborze powszechnym i przez jego uchwały przemawiający. Wtrącony za to wystąpienie do więzienia, uszedł *Ockham* i schronił się na dwór Ludwika bawarskiego.
+
+
+Ockham a Kościół
+
+8. Że zakonnik i wierzący syn Kościoła wystąpił przeciw papieżowi, pragnącemu skupić w swych rękach całą władzę świecką i duchowną, możemy zrozumieć, jeśli dowiadujemy się, że *Ockham* powoływał się na ubóstwo Chrystusa i apostołów, nie mających także na swe usługi władzy świeckiej, która ich prześladowała i na śmierć wydawała. Ale trudno nam zrazu zrozumieć, jak wierzący zakonnik katolicki mógł wygłaszać poglądy teologiczne, które najwidoczniej były heretyckie. Wszak *Ockham* nie tylko wiedział i sam przyznawał, że nominalizm nie da się pogodzić z dogmatem Trójcy, lecz nie wahał się nawet twierdzić i szczegółowo wykazywać, że zasadnicze dogmaty Kościoła prowadzą do konsekwencji sprzecznych z prawami myślenia i rozumu. Jak to wytłumaczyć?
+
+
+Dwojaka prawda u Averroësa
+
+Odpowiedzi na to pytanie szukać należy w pewnej teorii, którą *Ockham* w zupełności sobie przyswoił, a której początki zjawiają się już przedtem. Jest to teoria dwojakiej prawdy. Teoria ta powstała niemal samorzutnie, jako nieuniknione następstwo stanu umysłów, wytworzonego zaznajomieniem się z *Arystotelesem*. *Arystoteles* cieszył się bowiem u wszystkich filozofów, arabskich, żydowskich czy chrześcijańskich, tak niezmiernym poważaniem, tak bezwzględnie w sprawach filozofii ufano jego słowom, że powaga jego w kwestiach filozoficznych, a często też w innych stanęła równorzędnie obok powagi, której pismo święte i ojcowie Kościoła zażywali w kwestiach religijnych. Ponieważ jednak ojcowie Kościoła na platonizmie raczej się opierali, aniżeli na *Arystotelesie*, przeto wyznawanie dwóch powag, tj. Biblii i ojców Kościoła z jednej, a *Arystotelesa* z drugiej strony, musiało nieraz w sercach ówczesnych uczonych rodzić rozterkę. Skwapliwie więc zgodzili się na takie wyjście z tego trudnego położenia, jakie podał był Arab *Averroës*, doznawszy sam trudności, na które często napotyka pogodzenie powagi ksiąg religijnych z pismami *Arystotelesa*. Twierdził mianowicie *Averroës*, że pod względem teologicznym niejedno trzeba uznawać, co się pod względem filozoficznym utrzymać nie da, i że istnieją na odwrót prawdy filozoficzne których z punktu widzenia teologicznego przyjąć niepodobna. Przyjęcie i szczere zupełnie wyznawanie tej nauki o dwojakiej prawdzie ułatwiała ta okoliczność, że już od dawna, od samych niemal początków istnienia ksiąg świętych, znane i nawet teoretycznie wyłuszczone były rozmaite sposoby rozumienia i objaśniania tych ksiąg: sposób dosłowny, sposób przenośny, alegoryczny itd. A przecież te różne sposoby objaśniania i rozumienia świętych ksiąg miały być wyrazem jednej i tej samej wiary, jednego i tego samego objawienia. Tak więc głębsze, filozoficzne znaczenie świętych ksiąg mogło być inne, aniżeli ich rozumienie dosłowne; pierwsze było dostępne tylko umysłom odpowiednio wykształconym, drugie szerokim masom; ale jedno i drugie miało równą rację bytu i równocześnie obok siebie istniało.
+
+
+Dwojaka prawda u Ockhama
+
+Powstała w ten sposób nauka o dwojakiej prawdzie dostała się wraz z innymi poglądami *Averroësa* do świata chrześcijańskiego i od razu widocznie czyniąc zadość żywo odczutej potrzebie, musiała się rozpowszechniać, skoro już papież Jan XXI w roku 1275 wyraźnie i stanowczo ją potępił. Mimo to przyłącza się do niej, chociaż nieśmiało, *Duns Szkot*, a już bez ogródek i całkiem otwarcie wyznaje ją *Ockham*. Toteż, będąc nominalistą, przecież nie tylko wierzy w Trójcę, lecz gotów jest bronić tego dogmatu i wszystkich innych, a nawet bronić takich poglądów, które sam zwalcza, jeżeli Kościół tego od niego zażąda; wszak poglądy, które on zwalcza, są mylne z punktu widzenia filozoficznego, ale z punktu widzenia teologicznego są niewątpliwie prawdą, jeśli je Kościół za prawdę uznaje.
+
+
+Potępienie Ockhama
+
+9. Dzięki takiemu stanowisku mógł *Ockham* wygłaszać swe przekonania filozoficzne, nie przestając być wierzącym katolikiem i zakonnikiem. Kościół jednak nie mógł spokojnie ścierpieć rozgłaszania nauki, która w dalszym rozwoju i konsekwentnym przeprowadzeniu musiała nawet wbrew woli tego czcigodnego nowatora (venerabilis inceptor), jak nazwali Ockhama jego zwolennicy, osłabić i zniszczyć dotychczasowy fundament teologii, którym był jej związek z filozofią. I już w r. 1339 zakazano wykładać w Paryżu według dzieł *Ockhama*, a w rok później naukę jego potępiono. W roku 1473 rozkazał nawet król Ludwik XI, by od wszystkich profesorów paryskiego uniwersytetu odebrać przysięgę, iż w wykładach i pismach wyznawać będą jedynie realizm; ale już w osiem lat później ograniczenia wszystkie zniesiono i odtąd wolno było uczyć i pisać także w duchu *nominalistycznym*.
+
+
+Nowe prądy
+
+10. Fakt przywrócenia swobody nominalizmowi u schyłku wieku XIV dowodzi, że musiał on wówczas liczyć wyznawców nawet wśród wpływowych i znakomitych przedstawicieli Kościoła. Zjawisko to pozostaje w związku z nowym ukształtowaniem się prądów filozoficznych wskutek wystąpienia Ockhama. Miejsce silnego antagonizmu pierwotnego między *tomistami* i *skotystami* zajęła wspólna ich obrona i walka przeciw nowemu wrogowi, *nominalizmowi*. A ponieważ z *nominalizmem* *Ockhama* łączyło się pogłębienie wykopanego już przez *Dunsa Szkota* rowu między teologią i filozofią, więc obok *tomistów*, broniących i nadal wszelkimi siłami jedności teologii i filozofii, zjawiają się w ostatnich dwóch stuleciach średniowiecza trzy nowe kierunki. Jeden z nich usiłuje osiągnąć ten sam cel, który przed oczyma mają *tomiści*, pragnie więc pogodzić teologię i filozofię, lecz cel ten stara się osiągnąć innymi, aniżeli tomizm sposobami. Pozostałe dwa prądy idą w kierunkach wskazanych rozszczepieniem się *tomizmu* na teologię, naukę o Bogu, objawioną, służącą przede wszystkim zbawieniu człowieka, i na filozofię, naukę na doświadczeniu opartą, służącą czystej wiedzy i zbadaniu prawdy przy pomocy rozumowania i ścisłych dowodów logicznych. Z obu tych prądów, teologicznego i filozoficznego, pierwszy występuje znacznie silniej i zjawia się pod formą *mistycyzmu*, bądź zgodnego, bądź niezgodnego z nauką Kościoła; drugi zrazu bardzo słabo się zaznacza i dopiero pod koniec wieku XV z większym występuje naciskiem, zasłaniając się jednak zawsze teorią dwojakiej prawdy przed interwencją Kościoła.
+
+
+Charakter okresu ostatniego
+
+Te ostatnie dwa stulecia filozofii średniowiecznej, które znamionuje proces coraz dalej posuniętego rozkładu organizmu teologiczno-filozoficznego na jego dwa główne pierwiastki, są jednak zarazem brzaskiem rozwoju nowych kierunków myśli, nowej epoki ludzkości. Ostatni więc okres filozofii średniowiecznej ukaże nam najważniejsze czynniki, które złożyły się na przejście ludzkości z tzw. mroków średniowiecza do jasności ery nowożytnej.
+
+
+
+Wykład szósty
+
+1. Kierunek teologii wolnej od filozofii i dwie jego formy. — 2. Mistyka Gersona. — 3. Tzw. mistyka niemiecka Eckhardta. — 4. Mikołaj z Kuzy. — 5. Rajmund de Sabunda. — 6. Kierunek filozofii wolnej od teologii i dwie jego formy. Nawiązywanie do tradycji. — 7. Zwrot ku bezpośredniemu poznaniu autorów starożytnych. — 8. Stosunek Kościoła do odrodzonej filozofii starożytnej. — 9. Wpływ filozofii średniowiecznej na ukształtowanie się życia umysłowego ery nowożytnej. — 10. Znaczenie średniowiecza dla rozwoju myśli ludzkiej. — 11. Stosunek teologii i filozofii, wiedzy i wiary.
+
+
+Nowe kierunki teologii
+
+1. Ci, którzy idąc za wskazówkami *Dunsa Szkota* i *Ockhama*, uważali teologię za sprawę od filozofii zupełnie odrębną, a sami nie filozofii, lecz rozważaniu prawd religijnych poświęcić się pragnęli, mieli do wyboru dwie drogi. Jedna polegała na odnowieniu nauki *Bonaventury*, którego teologia, mimo swą formę scholastyczną, przecież ponad rozumowe poznanie Boga stawia bezpośrednie, ekstatyczne i intuicyjne ujęcie tajemnic bożych; druga droga polegała na stworzeniu nowej teologii, wolnej od filozoficznych rusztowań *tomizmu*, rozwijającej się w myśl poglądów *Ockhama* samodzielnie.
+
+
+Jan Gerson
+
+2. Najwybitniejszym mężem, który w okresie upadku filozofii średniowiecznej obrał pierwszą z tych dróg, jest *Jan Gerson* (1363–1429), profesor i kanclerz uniwersytetu paryskiego. Z *Ockhamem* zgadza się nie tylko w kwestii stosunku teologii do filozofii, lecz na równi z nim wyznaje nominalizm, a ostro zwraca się przeciw realizmowi, zarzucając mu, że prowadzi do konsekwencji panteistycznych. Ta obawa przed panteizmem tłumaczy się zresztą w sposób bardzo zrozumiały faktem, że panteizm znanego nam już *Amalryka z Beny* i *Dawida z Dinant*, z którymi polemizował też *Albert Wielki* i *Tomasz z Akwinu*, krzewił się i nadal w postaci rożnych nauk przez Kościół potępionych. Ale wyżej od Ockhama, najwyżej ze wszystkich stawia *Gerson Bonaventurę*. Toteż sam swoją teologię nazywa teologią mistyczną tj. taką, do której nie uczoność i wiedza, lecz modlitwa przede wszystkim prowadzi. Wiedzą świecką nie trzeba się zbytnio zajmować; ani *Platon*, ani *Arystoteles* do zbawienia nie wiodą.
+
+
+Mistrz Eckhardt
+
+3. Wstępując w ślady *Bonaventury*, obrał *Gerson* drogę, na której nie miał liczniejszych następców. Miał ich natomiast ten, co drugą poszedł drogą i pokusił się o stworzenie nowej, od filozofii zupełnie niezależnej teologii, Mistrz *Eckhardt*. On to dał początek mistycyzmowi, odbiegającemu bardzo znacznie od mistycyzmu *Bonaventury*; dlatego też stworzony przez *Eckhardta* kierunek zwie się mistycyzmem niemieckim dla odróżnienia od mistycyzmu romańskiego *Bernarda z Clairvaux*, *Hugona* i *Ryszarda* z klasztoru św. Wiktora i *Bonaventury*. Mistrz *Eckhardt*, dominikanin, od *Tomasza* o 35 lat mniej więcej młodszy, nauczał w Paryżu i w Kolonii, piastował różne wysokie godności w swym zakonie i znał niewątpliwie bardzo dokładnie naukę największego filozofa zakonu. Mimo to z całą świadomością od niej się odwrócił, chociaż nie zwrócił się oczywiście przeciw niej. Pojmował jednak bardzo poważnie zadania ciążące na zakonie kaznodziejskim i tym to zadaniom głównie poświęcić się postanowił, pragnąc wzbudzać w szerokich warstwach ducha gorącej pobożności jak najgłębszej wiary. Stąd też nie tylko mówił i pisał w języku ludu, w języku niemieckim, lecz także uwolnił naukę swoją od całego ciążącego dotąd na teologii aparatu filozoficzno-naukowego i pragnął prawdy wiary przedstawić po prostu i w sposób taki, by z serca płynąc, do serc najpewniej trafiały. A ponieważ wszelkie poznanie prawdy według niego polega na tym, że umysł poznający jednoczy się z przedmiotem poznanym, przeto i poznanie prawd bożych osiągnąć można wyłącznie zupełnym zjednoczeniem się duszy z Bogiem. Tym sposobem poglądy *Eckhardta* przybierają zabarwienie mistyczne w rodzaju neoplatonizmu, jego ekstatycznych wizji i intuicji Bóstwa, wobec których zarówno rozumowa wiedza, jak nawet wszelkie praktyki religijne wydają się czymś nieskończenie niższym.
+
+
+Wpływ mistyki niemieckiej
+
+Fakt, że Kościół potępił naukę *Eckhardta*, nie był przeszkodą w jej rozwoju i rozprzestrzenianiu się. Mistyka niemiecka nie tylko wśród Niemców, lecz także wśród narodu niderlandzkiego licznych zjednała sobie zwolenników; olbrzymi zaś wpływ tego kierunku myśli na dalsze dzieje ducha ludzkiego jasno można sobie uprzytomnić, pamiętając, że z grona tych, co się przejęli duchem *Eckhardta*, wyszły na świat dwie książki: jedna nieznanego autora, zwana „teologią niemiecką”, która, pierwszy raz drukiem wydana przez Lutra, wybitnie przyczyniła się do dalszego istnienia i rozwoju mistyki także w erze nowożytnej; druga książka — to znana powszechnie rzecz O naśladowaniu Chrystusa, której autor, żyjący od 1380 do 1461 *Tomasz Hamerken*, zwany według leżącego pod Kolonią miejsca urodzenie zwykle *Tomaszem a Kempis*, należał do „Braci wspólnego życia”, związku stworzonego przez jednego z wyznawców mistycyzmu *Eckhardta*, zmodyfikowanego jednak w kierunku zgody z nauką kościelną. Kto dziełko to czyta, łatwo w nim odnajdzie zasadnicze czynniki mistycyzmu tj. pewne lekceważenie wszelkiej nauki świeckiej i filozofii, ustawiczne uwydatnienie konieczności bezpośredniego obcowania duszy z Bogiem, podkreślanie znaczenia gorącej wiary i ustawicznego skupiania ducha w kierunku pełnienia woli bożej.
+
+
+Przeciw filozofii
+
+Chociaż więc mistyka niemiecka z innych wynikła pobudek, aniżeli mistyka *Gersona*, przecież obie razem wspólnie reprezentują w owych czasach kierunek teologii wolnej od filozofii, który to kierunek siebie uważa za jedynie uprawniony i nie bez przekąsu wyraża się o teologach, dociekających prawd wiary przy pomocy pojęć i rozumowań arystotelesowych, czyli „metafizykujących”, jak ich nazywa *Gerson*.
+
+
+Mistyka Mikołaja z Kuzy
+
+4. Fala mistycyzmu tak silnie wezbrała w teologii ostatnich dwu stuleci średniowiecza, że nie mógł się jej nawet oprzeć *Mikołaj z Kuzy* pod Trewirem (1401–1464), wysoki dostojnik Kościoła, zmarły jako biskup w Brixen, który posiadł niemal całą ówczesną wiedzę nie tylko filozoficzną, lecz także prawniczą, matematyczną i przyrodniczą, i pod tym względem żywo przypomina *Rogeriusza Bacona*. Ale od tych nauk silniejszy na niego wpływ wywarli bracia wspólnego życia, u których się wychował. A chociaż znacznie wyżej niż inni mistycy stawia przyrodzone zdolności rozumu ludzkiego, przecież tam, gdzie chodzi o poznanie Boga i jego tajemnic, staje na stanowisku *Bonaventury* i Mistrza Ekhardta. Sam stanowisko to określa wyrazem od *Bonaventury* zapożyczonym jako docta ignorantia tj. jako świadomą niewiedzę. Rozum bowiem dostarcza nam wiedzy; rozum jednak w czynnościach swych skrępowany jest zasadą sprzeczności, która nie pozwala mu równocześnie uznawać rzeczy ze sobą lub w sobie sprzecznych. Bóg zaś, który wszystko obejmuje, ponieważ jest wszechbytem, obejmuje sobą także sprzeczności, skoro jako istota nieskończona obejmuje sobą świat, rzecz skończoną. W nim więc sprzeczności się godzą, i dlatego poznać go nie może rozum, który sprzeczności nie może ze sobą pogodzić. Kto tedy poznać chce Boga, musi się wznieść ponad rozum i ponad wiedzę, którą rozumowi zawdzięczamy; musi wyzbyć się wiedzy, nieznoszącej sprzeczności, musi więc dojść do niewiedzy, a ponieważ tym sposobem z całą świadomością wznosi się z wiedzy do niewiedzy, więc w świadomej niewiedzy (docta ignoranta) ujmuje bezpośrednią intuicją tajemnice bytu bożego.
+
+
+Wszechstronność Mikołaja z Kuzy
+
+*Mikołaj z Kuzy*, oddzielając jak *Bonaventura*, *Eckhardt* i *Gerson* wiedzę od wiary i stając tym sposobem obok innych przedstawicieli teologii mistycznej, tym się przecież od nich różni, że wiedzę, którą od wiary oddziela, upatruje przede wszystkim w naukach matematycznych i przyrodniczych, gdy tymczasem tamci, mówiąc o wiedzy, na myśli mieli filozofię. Cześć, którą żywił dla wiedzy na doświadczeniu opartej, sam ją skutecznie uprawiając, stawia *Mikołaja z Kuzy* w rzędzie zwiastunów nowej ery myśli ludzkiej; dość wspomnieć, że nie tylko jak *Rogeriusz Bacon* nawoływał do naprawy kalendarza i pracami swymi jego reformę przygotował, lecz że także wystąpił z przypuszczeniem, iż ziemia obraca się naokoło swej osi. Tak wiec Mikołaj z Kuzy w bogatym swym umyśle łączy brzask wiedzy nowożytnej z wiarą *Bonaventury i Eckhardta*: z nauką empiryczną teologię mistyczną.
+
+
+Nauki przyrodnicze
+
+5. Skoro jednak badanie przyrody zaczęło coraz wyraźniej zaznaczać swe istnienie, skoro obok wiedzy, którą *Ockham* tak stanowczo oddzielił od teologii, tj. obok filozofii, zaczęła coraz śmielej pierwsze swe kroki stawiać wiedza inna, przyrodnicza, łatwo mogła się zrodzić myśl, że ona to właśnie powinna spełnić wobec teologii zadanie, które przedtem filozofia spełniała, więc stać się służebnicą teologii i podobnie rozumowo ją uzasadniać, jak to czyniła filozofia w pismach *Eriugeny*, *Anzelma* i *Tomasza z Akwinu*.
+
+
+Rajmund de Sabunda
+
+Takie stanowisko zajął *Rajmund de Sabunda*, lekarz, a więc tym samym przyrodnik, urodzony w Barcelonie, zmarły w Tuluzie. Usiłując nawiązać na nowo zerwaną przez *Ockhama* nić miedzy wiedzą rozumową a wiarą objawioną, stawiając zarazem w miejsce wiedzy filozoficznej wiedzę przyrodniczą, zasługuje na uwagę jako postać z obu tych powodów znamienna. Znamiennym też jest tytuł głównego dzieła, które napisał między rokiem 1430 i 1440, nazywając je Teologią przyrodzoną, przeciwstawiając tę swoją teologię wszelkim teologiom mistycznym. Zasadniczy pogląd *Rajmunda de Sabunda* streszcza się w twierdzeniu, że Boga poznajemy drogą dwojaką: z przyrody i z objawienia. Więc nie tylko z ksiąg świętych, lecz także z księgi przyrody możemy czerpać wiedzę o Bogu, a nawet księga przyrody tym stoi od ksiąg świętych wyżej, że każdy z niej czytać potrafi, a nikt znaczenia jej wypaczyć nie może. Dlatego też wiedza, wyczytana z księgi przyrody, jest wiedzą podstawową; objawienie zaś jest tylko uzupełnieniem przyrody. Snując tedy wątek myśli, wypływających z rozważania przyrody i człowieka, będącego cząstką przyrody, zastanawiając się nad ustrojem świata i duszy ludzkiej, *Rajmund* nie tylko dowodzi istnienia Boga, lecz podaje konstrukcję rozumową wszystkich zasadniczych dogmatów, rozwiązując według swego przekonania zadanie, któremu już *Tomasz z Akwinu* ciaśniejsze wytknął granice, ucząc, że pewnych dogmatów rozumowo dowieść niepodobna.
+
+
+Rozłam między filozofią a teologią
+
+I nie można się dziwić, że usiłowania *Rajmunda* nie znalazły oddźwięku, jeśli nawet mniej daleko idący tomizm prawie znikł z szerszej widowni i wiódł cichy żywot w klasztorach dominikańskich, zwłaszcza na półwyspie pirenejskim, gdzie też najdłużej się utrzymał; pora harmonijnego zlania się filozofii, nauki, w jedną organiczną całość z teologią minęła, jak tego dowodzą ostatnie dwa stulecia wieków średnich; osobno kroczyła teologia w różnych postaciach, osobno filozofia, wybierając także postacie różne.
+
+
+Filozofia wolna od teologii
+
+6. A między postaciami jednej i drugiej nie ma brak pewnej analogii. Tak jak mistycyzm ówczesny po części do dawniejszych nawiązywał wzorów, po części zaś nową sobie stworzył formę, tak też i ówcześni filozofowie uprawiający filozofię bez łączenia jej z teologią, bądź w ślady swych poprzedników wstępywali, bądź nowych szukali dróg. Ci, co do poprzednich nawiązywali wieków, mogli pójść w kierunku nominalizmu lub realizmu. Realiści obrali sobie za mistrza *Arystotelesa*, uwolnionego z objęć teologii, i studiowali go na podstawie i przy pomocy komentarzy *Averroësa*; kierunek ten miał swą główną siedzibę w Padwie; nominaliści kroczyli śladami *Ockhama* i uważali Paryż za stroje centrum. Ich to prace głównie zdyskredytowały w oczach późniejszych filozofię wieków średnich, gdyż idąc za przykładem *Ockhama* zajmowali się przede wszystkim metodyczną stroną filozofii, budową wniosków, dowodów, znaczeniem i rozmaitym sposobem używania wyrazów, przez co cała niemal ich filozofia zeszła na formalistyczne subtelności i szermierkę słowną, które znalazły pole popisu w urządzanych po uniwersytetach według ściśle przepisanego ceremoniału publicznych dysputach czyli tzw. aktach. Wzorem w tej mierze był znowu Paryż, gdzie w roku 1315 miano zaprowadzić ceremoniał tych aktów w myśl propozycji *Franciszka de Mayronis*, najwybitniejszego osobistego ucznia *Dunsa Szkota*; ów actus Sorbonnicus miał zaś polegać na tym, że uczony, występujący z pewnymi twierdzeniami, musiał bronić się bez przerwy od 6. rano do 6. wieczór według ściśle określonych zasad dyskusji przeciw każdemu, co twierdzenia te zaczepiał.
+
+
+Początki odrodzenia
+
+7. Gdy tak jedni gubili się w labiryncie form, przez uprawę filozofii w wiekach poprzednich stworzonych, inni chciwie wchłaniali w siebie nową treść, która była co prawda tylko dla nich nową, w istocie zaś bardzo dawną. W tym samym wieku XIV bowiem, w którym obok mistyki wzrastał nominalizm, rozpoczęło się wcielać w czyn hasło, przez *Rogeriusza Bacona* podniesione, nawołujące do bezpośredniego zaznajamiania się ze źródłami, z których czerpie się swoją wiedzę. Więc ci, co zajmowali się filozofią, zapragnęli poznać filozofów starożytnych oko w oko, bez okularów, przez które na nich patrzyli dotąd zwolennicy i wielbiciele *Platona* i *Arystotelesa*, znając *Platona* takim, jakim go przedstawiał *św. Augustyn*, *Arystotelesa* takim, jakim go przedstawiał *Averroës* i *Tomasz z Akwinu*, a nie znając ich takimi, jakimi znała ich starożytność. Pragnienie filozofów wieku XIV łączyło się z takim samym pragnieniem poetów i polityków włoskich. Wszak *Dante* dał Włochom narodową poezję, reprezentującą zarazem doniosłą ideę polityczną Włoch, zjednoczonych pod panowaniem cesarzy rzymskich; toteż zarówno narodowe uświadomienie Włochów, jak też głębsze ujęcie zagadnień politycznych obudziło żywe zainteresowanie się kulturalnym i politycznym życiem starożytnego Rzymu. A skoro zaczęto rozczytywać się w literaturze rzymskiej, wyrosłej na wzorach greckich, sięgnięto niebawem też do greckiej, uczono się po grecku, znalazłszy sobie nauczycieli po części w klasztorach Włoch południowych, w których znajomość tego języka przechowała się przez całe wieki średnie, po części w Konstantynopolu, z którym wielkie handlowe miasta włoskie ożywione utrzymywały stosunki. Tak więc zaczyna się w wieku XIV równocześnie z obumieraniem filozofii średniowiecznej odradzać znajomość literatury klasycznej, a równocześnie z *Gerhartem de Groot*, wielbicielem Mistrza *Eckhardta*, twórcą „bractwa wspólnego życia”, żyje *Jan Boccaccio*, wielbiciel słonecznej, młodością i swobodą tętniącej Hellady.
+
+
+Humaniści
+
+Chęć bezpośredniego poznania filozofów starożytnych zwróciła się najsilniej ku *Platonowi*, którego dialogi zachwalał już *Petrarka* (1304–1374), a za jego przykładem cały szereg innych zwolenników literatury i świata klasycznego czyli tzw. humanistów; miarą siły tego prądu może być fakt, że, jak wiadomo, *Koźma Medici* stworzył w Florencji w XV wieku dla badania i rozpowszechnienia filozofii platońskiej związek uczonych i miłośników nauki, który nazwał akademią, więc tak, jak się nazywała szkoła Platona w Atenach. Inni, jak *Jerzy z Trapezuntu* żyjący w wieku XV, bronili przeciw platończykom epoki humanizmu znaczenia *Arystotelesa*, a zwrot ku oryginalnym pismom *Arystotelesa* i jego greckich komentatorów dał początek nowemu obozowi arystotelików, który następnie wiódł zacięte spory z arystotelikami dawniejszymi, traktującymi nauki *Arystotelesa* w Padwie na tle poglądów *Averroësa*. A obok *Platona*, *Plotyna* i *Arystotelesa* odżyli w owej epoce humanizmu prędzej czy później niemal wszyscy inni filozofowie starożytnej Hellady.
+
+
+Odrodzenie a Kościół
+
+8. Jeśli Kościół zdołał przedtem wchłonąć w siebie arystotelizm averroistyczny, dzięki pracom *Alberta Wielkiego* i *Tomasza z Akwinu*, jeśli jeszcze dawniej przyswoił sobie i w naukę swą wcielił liczne pierwiastki *Platona* i neoplatonizmu dzięki pracom *św. Augustyna*, *Szkota Eriugeny* i mistyków romańskich, obecnie stanął bezsilny wobec tego nowego napływu odrodzonej filozofii starożytnej. Główna przyczyna tej bezsilności tkwi w podwójnej rozbieżności, cechującej ówczesny stan rzeczy w porównaniu z dawniejszym. Za *św. Augustyna* filozofia skupiała się głównie w kierunku platońskim i neoplatońskim; ten też kierunek ze wszystkich starożytnych jedynie znany był lepiej *Szkotowi Eriugenie*; tak samo też około roku 1200 zjawił się jeden tylko arystotelizm; obecnie zaś i *Platon* odżył w pierwotnej swej postaci, i *Arystoteles*, a obok nich nie brakło *epikureizmu* i *stoicyzmu*. A z tą rozbieżnością w odnawianiu się kierunków filozoficznych ręka w rękę idzie druga, w obrębie stosunków politycznych, Kościoła i organizacji nauki. Dawniej świecka i duchowna władza mimo liczne spory o odgraniczenie wzajemnej kompetencji w tym były zgodne, że reprezentowały wspólnie myśl wszechświatowego imperium rzymskiego; w ostatnim zaś okresie średniowiecza między cesarstwo i papiestwo wciska się klinem Francja; nadto samo cesarstwo doznaje zaćmienia swego blasku i wskutek bezkrólewia w II. połowie wieku XIII i wskutek wzrastającej w następnych wiekach coraz więcej potęgi książąt niemieckich, papiestwo zaś po olbrzymim rozkwicie swej władzy w wieku XIII staje się w wieku XIV powolnym narzędziem polityki świeckiej i ciężko na powadze swej cierpi zarówno wskutek schizmy, spoglądającej na dwóch, a chwilowo i trzech równoczesnych papieży, oraz wskutek wybuchłych wobec takiego stanu rzeczy na nowo sporów kompetencji pomiędzy papieżem i powszechnym soborem kościelnym. Poprzednia jednolita organizacja Kościoła, której podwaliny położył *Grzegorz VII*, a którą dokończył *Bonifacy VIII*, zaczęła się kruszyć; dawna centralizacja ustępuje miejsca objawiającej się w licznych faktach decentralizacji ustroju nie tylko administracji, lecz także nauki kościelnej. Obok zakonników, głównych przedstawicieli teologii w wieku XIII występują teologowie kleru świeckiego, jak *Gerson*, lub wprost ludzie świeccy, jak *Rajmund de Sabunda*; obok pism łacińskich teologowie tworzą dzieła w językach ludu; obok uniwersytetu paryskiego, którego fakultet teologiczny najwyższej zażywał powagi w kwestiach nauki kościelnej, tak iż śmiało można by nazwać ówczesne grono paryskich profesorów teologii najwyższym trybunałem nauki kościelnej, powstają w wieku XIV liczne inne uniwersytety, jak Praga 1348, Kraków 1364, Wiedeń 1365, Heidelberg 1386, Kolonia 1388, Lipsk 1409 itd. A uniwersytety te, reprezentując rożne kierunki teologiczno-filozoficzne, niekoniecznie zawsze pozostają tak w zgodzie z Paryżem, jak Wiedeń, który krzewi nominalizm; w Pradze przeciw wyznającym nominalizm studentom niemieckim występują studenci i profesorowie czescy, oświadczając się za realizmem; w Krakowie kwitnie przeważnie skotyzm, w osobach *Michała z Bystrzykowa* i ucznia jego, *Jana ze Stobnicy* (obaj żyli w II. połowie wieku XV), obok których nie brak jednak także tomisty *Jana z Głogowa*,
+
+zażywającego wielkiej powagi jako astrolog, oraz ockhamisty *Michała z Wrocławia*. Ale gdyby nawet wszystkie ówczesne uniwersytety były zgodnie z Paryżem pielęgnowały nominalizm, niewielki byłby stąd płynął pożytek dla Kościoła, stojącego zawsze twardo na gruncie realizmu; toteż z uniwersytetów wyszły kierunki teologii, które Kościół katolicki piętnuje jako heretyckie: z Oxfordu *Wiclef*, z Pragi *Jan Hus*, z Wittenbergii *Luter*. I już nie wystarczyły siły Kościoła na to, by herezje te stłumić tak samo, jak to był dawniej uczynił z herezjami albingensów i z innymi; liczne nowe centra życia umysłowego ułatwiały ich rozwój, a wynaleziony w połowie wieku XV druk ich rozpowszechnienie.
+
+
+Rozbieżność
+
+To powstawanie nowych centrów życia umysłowego w epoce upadku filozofii średniowiecznej stanowi wymowny kontrast do skupiania się życia tego w Paryżu w epoce jej rozwoju. Tę rozbieżność terytorialną życia umysłowego można uważać wprost za symbol rozbieżności poglądów, cechującej tak wybitnie ostatnie dwa stulecia średniowiecza. A tak samo, jak z upadkiem filozofii hellenistycznej i z utratą dominujących stanowisk, które w tej filozofii zajmowały Aleksandria, Ateny i Rzym, rozpoczęła się wędrówka życia umysłowego do najdalszych krańców imperium rzymskiego, znamienna dla okresu przygotowawczego filozofii średniowiecznej, tak i teraz obok nielicznych dawniejszych ognisk nauki, wśród których Paryż pierwsze zajmował miejsce, powstają nowe, przygotowując nowe ukształtowanie się życia umysłowego.
+
+
+Katolicyzm i reformacja
+
+9. To nowe ukształtowanie się życia umysłowego w erze nowożytnej łączy się z silniejszym uwydatnieniem, z wzmożonym rozwojem tych głównych kierunków, które zaznaczyły się w epoce upadku filozofii średniowiecznej. Tomizm, którego przewodnią myślą jest organiczne zespolenie wiedzy rozumowej z wiarą objawioną, teologii i filozofii, zyskując wpływowych sprzymierzeńców w jezuitach, którzy wycisnęli tak wybitne piętno na życiu kościelnym czasów nowożytnych i doczekali się dla swych idei tego tryumfu, że papież *Leon XIII* w r. 1879 ogłosił *tomizm* urzędową niejako filozofią Kościoła katolickiego, pobudzając do życia tzw. neoscholastycyzm. Nie brakło też licznych prób pogodzenia wiary i wiedzy, rozumu i objawienia innymi sposobami, aniżeli czyni to tomizm: *Malebranche* i *Leibniz* na przełomie wieku XVII i XVIII,
+
+*Cousin* i *Günther* w wieku XIX mogą w tej mierze służyć za przykłady.
+
+Ale zarówno tomizm, jak też dążności od niego metodą różne, lecz ku temu samemu celowi skierowane, tj. także usiłujące pogodzić teologię i filozofię, ustępują na drugi plan wobec dwóch innych kierunków życia duchowego, od których zaznaczenia rozpoczął się upadek filozofii średniowiecznej: kierunku teologicznego, niezależnego od filozofii i nauki w ogóle, kierunku naukowego, niezależnego od teologii. Pierwszy z nich, nawiązując do mistycyzmu i czerpiąc swe natchnienie w znacznej mierze ze *św. Augustyna*, którego coraz wyraźniej przeciwstawiano *Tomaszowi z Akwinu*, przybrał formę reformacji religijnej, rozgałęziającej się w różne odcienie. Zarzucając tradycję średniowiecza i arystotelizmu, reformatorowie Kościoła, czy to luteranie, czy wyznawcy *Zwingliego* i *Kalwina*, czy członkowie Kościoła anglikańskiego — wszyscy oni zmierzali do usunięcia formalizmu, narzuconego teologii przez sprzągnięcie jej z filozofią, i do stworzenia bardziej bezpośredniego stosunku między duszą ludzką a Bogiem drogą głębokiej, gorącej wiary. Drugi z tych kierunków — to kierunek badań czysto rozumowych, od teologii niezależnych, zarówno na polu filozofii, jak też innych nauk, wśród których na pierwszy plan wysuwają się nauki przyrodnicze, a obok nich zagadnienia społeczne i polityczne. Na początku okresu rozwoju filozofii scholastycznej teologię i filozofię zupełnie ze sobą utożsamiano; następnie w epoce rozkwitu filozofia stała się służebnicą teologii; w okresie upadku zdobywa sobie ponownie swobodę i niezależność od teologii.
+
+
+Początek filozofii nowożytnej
+
+Tym więc sposobem główne kierunki myśli ludzkiej nowożytnej początkami swymi tkwią w ostatnim okresie wieków średnich, podobnie, jak zasadniczy charakter myśli średniowiecznej, polegający na ścisłym zbrataniu się wiedzy świeckiej z religią, wytworzył się już w ostatnich stuleciach ery starożytnej w filozofii hellenistycznej. I gdyby dzielono dzieje powszechne na znane trzy okresy według przełomów w rozwoju myśli ludzkiej, należałoby zarówno średniowieczną, jak nowożytną historię rozpocząć wcześniej, aniżeli to się obecnie dzieje: średniowieczną od wystąpienia pierwszych usiłowań stworzenia religijno-filozoficznych poglądów na świat przez neoplatonizm i gnostyków, nowożytną od rozszczepienia się teologicznego i filozoficznego kierunku myśli w poglądach *Dunsa Szkota* a zwłaszcza *Ockhama* około roku 1300.
+
+
+Znaczenie średniowiecza
+
+10. Stając u końca przeglądu głównych kierunków myśli średniowiecznej i najważniejszych ich reprezentantów musimy, chociażby w krótkości, zdać sobie sprawę z dziejowego znaczenia tego przeszło tysiącletniego okresu rozwoju myśli ludzkiej. Czy można tu w ogóle mówić o rozwoju myśli ludzkiej? Czy wieki średnie wniosły w skarbiec ducha ludzkiego jakieś nowe, trwałe zdobycze, czy wzbogaciły ludzkość treścią nową, zasługującą na dalsze pielęgnowanie i staranne przechowywanie? Na tak postawione pytania odpowiedź musi stanowczo wypaść przecząco. Porównując owoce, które wydała praca myśli ludzkiej w wiekach średnich z bogactwem sztuk i nauk, które duch grecki bądź sam stworzył, bądź rozwinął, najgorętszy nawet wielbiciel średniowiecza jedno tylko znajdzie, na co wskazać może jako na własną zdobycz średniowiecza: owe pomniki architektury, owe zamki i pałace, owe tumy i katedry, owe minarety i meczety, budzące po dziś dzień szczery i słuszny podziw. Czyż jednak mamy nazwać średnie wieki epoką ciemnoty i żałować, że w ogóle *były*? Pominąwszy bezużyteczność takiego żalu, przyznać trzeba, że byłby on niesłuszny. Za przykładem epoki odrodzenia, a jeszcze i wieku XVIII, zwanego wiekiem oświecenia, wielu sądzi, że średniowiecze jest wyłącznie smutną kartą w dziejach ducha ludzkiego; wiek XIX jednak, dzięki pogłębionemu w nim zmysłowi i zrozumieniu historycznemu, inaczej ocenia rolę średniowiecza. Wszak kultura starożytna chyliła się w pierwszych wiekach ery chrześcijańskiej stanowczo ku upadkowi; Rzymianie i Grecy stracili zdolność posuwania jej dalej naprzód. Zjawiły się ludy i szczepy inne, barbarzyńskie, albo przynajmniej zupełnie nieoświecone, i objęły terytorialny spadek po państwie rzymskim; inne znowu ludy i szczepy na tamte napierały, zamieszkując wokoło nich. I oto chrześcijaństwo wysyła swych misjonarzy, by te szczepy uczyć wiary, a razem z wiarą chrześcijańską misyonarze przynoszą pojęcia przez myślicieli greckich sformułowane; pojęć tych, czerpanych z kultury starożytnej, dołącza się z czasem coraz więcej do treści wiary. A zarazem owe szczepy nabywają uspołecznienia w szkole organizacji kościelnej i tak ściśle z nią złączonej organizacji średniowiecznego cesarstwa rzymskiego. Przyswoiwszy sobie tym sposobem zasadniczą treść kultury świata starożytnego za pośrednictwem religii chrześcijańskiej i Kościoła, wysubtelniwszy swój rozum i zakosztowawszy słodyczy pracy umysłowej, szczepy te rozwinęły z biegiem czasu swój charakter narodowy i swój język i stały się zdolne czerpać samodzielnie ze skarbów kultury starożytnej, których im dotąd udzielał Kościół, stopniowo w mierze coraz obfitszej, gdyż sam tylko stopniowo wchodził w ich posiadanie. Gdyby nie ścisłe zespolenie nauki Chrystusowej z pojęciami filozofii greckiej, wędrówka ludów byłaby stanęła wprost wobec wysoko rozwiniętej cywilizacji starożytnej, a ludy, biorące w tej wędrówce udział, niezdolne do przyswojenia sobie tej cywilizacji, byłyby ją zmiażdżyły i przyprawiły o ostateczną zagładę.
+
+
+Rola Kościoła
+
+Z tego punktu widzenia średniowiecze przedstawia się nam jako okres, w którym Kościół wychowywał ludy nieoświecone, w znacznej mierze barbarzyńskie i przygotowywał je do tego, by mogły kiedyś samodzielnie pracę swą nawiązać do kultury klasycznej starożytności. Dłoń wychowawcy nieraz zaciężyła dotkliwie na wychowankach; nie zawsze miłość, nierzadko srogość kierowała sercem wychowawcy. A skoro wychowankowie czuli się dojrzałymi, nie chcieli się już ślepo pod rządy wychowawcy poddawać; przebywszy wiek chłopięcy i doszedłszy do wieku młodzieńczego i męskiego, zapragnęli samodzielności, swemu dawnemu wychowawcy zaś wyznaczyli rolę życzliwego przyjaciela i doświadczonego doradcy, bacznie czuwając, by nie zajął już nigdy wobec nich stanowiska dawniejszego, i nie żądał nadal od swych byłych wychowanków ślepego posłuszeństwa.
+
+
+Zespolenie filozofii z teologią
+
+Zapatrując się w ten sposób na rolę średniowiecza w dziejach ludów europejskich, zrozumiemy też, że to charakterystyczne dla tej epoki zespolenie wiary i wiedzy było skutecznym środkiem, umożebniającym przeszczepienie wiedzy za pośrednictwem wiary z epoki starożytnej na ludy, które miały objąć kierownictwo duchowe Europy w epoce nowożytnej. Ale odkąd środek ten spełnił swój cel, stracił też swoje uprawnienie. Słusznie też epoka odrodzenia i humanizmu, idąc za głosem *Ockhama*, oddzieliła wiarę od wiedzy, teologię od filozofii.
+
+
+Rozdział filozofii i teologii
+
+11. Z takiego stanu rzeczy wyłonił się na nowo dla myśli nowożytnej problemat, który zaprzątywał już umysły w wiekach średnich. Jak mianowicie ma się ułożyć stosunek wiary do wiedzy, teologii do filozofii, skoro nie mają już tworzyć jednolitej, harmonijnie zespolonej całości? Żadna z nich drugiej poddać się nie chce, każda chce sobie zachować niezależność. Stąd liczne powstają tarcia i walki, których epilog nie rozgrywa się wprawdzie już ani w lochach inkwizycji, ani na stosie, które jednak wnoszą niepokój i rozterkę w duszę nowożytnego człowieka. Położenie zdaje się bez wyjścia; w istocie jednak nauka wkroczyła już w sposób całkiem wyraźny na drogę, na której dojść można do usunięcia konfliktu. Drogę tę wskazała filozofia nowożytna, zwróciwszy się ku zbadaniu podstaw i granic rozumowego poznawania i przekonawszy się, że Bóg i jego stosunek do świata i człowieka nie może być przedmiotem wiedzy rozumowej, lecz jedynie wiary religijnej, że tedy filozofia w sprawach tych wyrokować nie może, gdyż leżą one poza zakresem jej środków poznawczych. Ograniczywszy w ten sposób w myśl *Ockhama* i *Rogeriusza Bacona* swe badania do tego, co podlega doświadczeniu, pozostawiła wolne miejsce teologii do rozpamiętywania spraw, leżących poza zakresem doświadczenia. I jeżeli teologia podobnie postąpi ze swej strony i do tych właśnie spraw się ograniczy, nie wkraczając w sferę zagadnień, podlegających rozumowi i badaniu naukowemu, znikną między filozofią i wiedzą świecką w ogóle, a teologią wszelkie powody starć i walk. Skoro teologia pójdzie za tymi wskazówkami filozofii, będzie można powiedzieć, że filozofia w zamian za przysługę, którą teologia oddała jej w wiekach średnich, przelewając ją wraz z wiarą w umysły ludów europejskich, wyświadczyła teologii w erze nowożytnej przysługę inną, wyznaczając jej w organizmie myśli nowożytnej zamiast utraconego raz na zawsze miejsca dawniejszego inne, nie mniej od poprzedniego zaszczytne i ważne.
+
+
+
+
+Tablice synchronistyczne
+
+
+
+II wiek
+
+
+Filozofia
+
+Basilides um. ok. 125
+
+Justyn Męczennik um. 165 r.
+
+Marek Aureli 121–180
+
+Valentinus poł. II. w.
+
+Tertulian ur. 160
+
+
+Historia polityczna
+
+98–116 Trajan
+
+116–198 Hadrian
+
+138–161 Antoninus Pius
+
+161–180 Marek Aureli
+
+
+Historia kultury
+
+Plutarch um. ok. 120
+
+Lukian z Samosate 120–200
+
+
+
+III wiek
+
+
+Filozofia
+
+Clemens Alexandrinus um. 217
+
+Origenes 185–254
+
+Mani 214–275
+
+Plotyn 204–269
+
+Porfiriusz 232/3–304
+
+
+Historia polityczna
+
+222–235 Aleksander Severus
+
+
+Historia kultury
+
+251 Ogólne prześladowanie chrześcijan
+
+
+
+IV wiek
+
+
+Filozofia
+
+Laktancjusz ok. 250–325
+
+Atanazy 296–373
+
+Julian Apostata 331–363
+
+Grzegorz z Nyssy 331–394
+
+Św. Ambroży ur. 334
+
+
+Historia polityczna
+
+284–305 Dioklecjan
+
+306–337 Konstantyn Wielki
+
+375 Hunowie; początek wędrówek narodów
+
+395 Podział państwa rzymskiego na zachodnie i wschodnie
+
+
+Historia kultury
+
+303 Ostatnie prześladowanie chrześcijan
+
+393 Zamknięcie świątyń pogańskich
+
+395 Ostatnie igrzyska olimpijskie
+
+
+
+V wiek
+
+
+Filozofia
+
+Św. Augustyn 354–430
+
+Marcianus Capella ur. w I połowie V wieku
+
+
+Historia polityczna
+
+415 Powstanie panstwa Gotów
+
+451 Bitwa na polach katalońskich
+
+475 Upadek cesarstwa zachodniego
+
+481–511 Klodwik
+
+
+Historia kultury
+
+496 Chrzest Franków
+
+
+
+VI wiek
+
+
+Filozofia
+
+Böethius 480–525
+
+Pseudo-Dionysios Areopagita
+
+Zamknięcie akademii platońskiej 529
+
+
+Historia polityczna
+
+507 Bitwa pod Poitiers i powstanie państwa Wizygotów w Hiszpanii
+
+493–526 Teodoryk Wielki
+
+527–565 Justynian I
+
+555 Upadek państwa Ostrogotów
+
+568 Powstanie państwa Longobardów we Włoszech północnych
+
+
+Historia kultury
+
+529 Założenie zakonu Benedyktynów
+
+590–604 Papież Grzegorz W. Chrzest Longobardów
+
+
+
+VII wiek
+
+
+Filozofia
+
+Maximus Confessor 580–662
+
+
+Historia polityczna
+
+623–658 Państwo Samona
+
+661 Początek dynastii Omajadów
+
+
+Historia kultury
+
+ok. 570–632 Mahomet
+
+622 Hedżra
+
+
+
+VIII wiek
+
+
+Filozofia
+
+Johannes Damascenus
+
+
+Historia polityczna
+
+711 Bitwa pod Xeres de la Frontera
+
+
+Historia kultury
+
+ok. 680–755 Bonifacy, apostoł Niemiec
+
+
+
+IX wiek
+
+
+Filozofia
+
+Alkendi um. 870
+
+Johannes Scotus Eriugena 810–877
+
+
+Historia polityczna
+
+800 Karol W. cesarzem rzymskim
+
+830 Powstanie państwa wielkomorawskiego
+
+843 Traktat w Verdun. Podział państwa frankońskiego na trzy części
+
+862 Ruryk opanowuje Nowogród
+
+867 Początek dynastii macedońskiej w państwie bizantyjskim
+
+871–901 Alfred W., król angielski
+
+
+Historia kultury
+
+864 Przybycie Św. Cyryla i Metodego do państwa morawskiego
+
+867 Focjusz; schizma kościoła greckiego
+
+
+
+X wiek
+
+
+Filozofia
+
+Alfarabi um. 950
+
+Gerbert ur. w poł. X w. um. 1003
+
+
+Historia powszechna polityczna
+
+907 Upadek państwa wielkomorawskiego
+
+911 wygaśnięcie dynastii Karolingów
+
+919 Początek dynastii saskiej w Niemczech
+
+937–973 Otto I
+
+955 Bitwa nad Lechem, klęska Węgrów
+
+962 Otto cesarzem rzymskim. Święte cesarstwo rzymskie niemieckiego narodu
+
+987 Początek dynastii Kapetyngów
+
+980–1015 Włodzimierz Wielki
+
+
+Historia polska
+
+966 Chrzest Polski
+
+966–992 Mieszko I
+
+968 Biskupstwo w Poznaniu
+
+
+Historia kultury
+
+940–1020 Firdusi
+
+988 Chrzest Rusi
+
+
+
+XI wiek
+
+
+Filozofia
+
+Avicenna 980–1038
+
+Avlcebron 1020/1–1069/70
+
+Anzelm Kantuareński 1033–1109
+
+Gaunilo
+
+Roscelinus
+
+
+Historia powszechna polityczna
+
+995–1038 Stefan Święty, król węgierski
+
+1014–1035 Kanut Wielki
+
+1024 Początek dynastii frankońskiej w Niemczech
+
+1015–1054 Jarosław ruski
+
+1042–1066 Edward Wyznawca, król angielski
+
+1066 Bitwa pod Hastings
+
+1066–1087 Wilhelm Zdobywca
+
+1057 Początek dynastii Komnenów w państwie bizantyjskim
+
+1060–1103 Filip I, król francuski
+
+1056–1106 Henryk IV
+
+1077 Henryk IV w Kanossie
+
+1096–99 Pierwsza wyprawa krzyżowa
+
+
+Historia polska
+
+992–1025 Bolesław I Chrobry
+
+1000 Pielgrzymka Ottona do Gniezna. Założenie arcybiskupstwa w Gnieźnie
+
+1004–1018 Wojny z Henrykiem II
+
+1025–1034 Mieszko II
+
+1040–1058 Kazimierz Odnowiciel
+
+1058–1079 Bolesław Śmiały
+
+1079–1102 Władysław Herman
+
+
+Historia kultury
+
+ok. 1000 Chrzest Skandynawii i Danii
+
+1098 Założenie zakonu cystersów
+
+
+
+XII wiek
+
+
+Filozofia
+
+Wilhelm z Champeaux 1070–1120
+
+Abelard 1079–1142
+
+Bernard z Clairvaux 1091–1153
+
+Hugo z klaszt. św. Wiktora 1096–1141
+
+Ryszard z klaszt. św. Wiktora um. 1173
+
+Averroës 1126–1198
+
+Majmonides 1135–1204
+
+Amalryk z Beny, II poł. wieku XII
+
+Dawid z Dinant, II wieku XII
+
+
+Historia powszechna polityczna
+
+1122 Konkordat wormacki
+
+1147–1140 Druga wyprawa krzyżowa
+
+1152–1100 Fryderyk I Rudobrody
+
+1156 Austria księstwem (Henryk Jasomirgott)
+
+1158–1183 Walka Fryderyka I z miastami włoskimi
+
+1154 Początek dynastii Plantagenetów w Anglii
+
+1154–1189 Henryk II, król angielski
+
+1164 Konstytucje klarendońskie
+
+1180–1223 Filip II August
+
+1189–1192 Trzecia wyprawa krzyżowa
+
+1190 Wyprawa krzyżowa Filipa II Augusta i Ryszarda Lwie Serce
+
+ok. 1170 Rozpadnięcie się W. Księstwa kijowskiego na 72 ksiąstewek
+
+1185 Początek dynastii Angelus w państwie bizantyjskim
+
+
+Historia polska
+
+1102–1138 Bolesław III Krzywousty
+
+1138–1148 Władysław II
+
+1146–1178 Bolesław Kędzierzawy
+
+1163 Synowie Władysława II otrzymują Śląsk
+
+1173–1177 Mieszko III Stary
+
+1180–1194 Kazimierz II Sprawiedliwy
+
+1180 Zjazd w Łęczycy
+
+
+Historia kultury
+
+1100 Najstarszy uniwersytet w Bolonii
+
+1150 powstanie zakonów w St. Jago di Compostella, Alcantara i Calatrava
+
+ok. 1190 Początek fabrykacji papieru w Niemczech
+
+
+
+XIII wiek
+
+Aleksander z Hales um. 1245
+
+Albert Wielki 1193–1280
+
+Bacon Rogeriusz 1210/15 do 1292/4
+
+Fidanza Jan 1221–1274
+
+Tomasz z Akwinu 1225 do 1274
+
+Piotr Hiszpan 1226–1277
+
+Duns Szkot Jan 1265/6 (1274)–1308
+
+
+Historia powszechna polityczna
+
+1198–1216 Innocenty III
+
+1197–1230 Przemysł I Ottokar (Czechy)
+
+1202–04 Czwarta wyprawa krzyżowa
+
+1215 Magna charta libertatum (Jan bez Ziemi)
+
+1212 Wyprawa dzieci
+
+1205–1235 Andrzej II, król węgierski
+
+1217–21 Piąta wyprawa krzyżowa
+
+1217–1252 Ferdynand II, król Kastylii
+
+1215–1247 Fryderyk II
+
+1228–29 Szósta wyprawa krzyżowa
+
+1241 Związek Hanzy
+
+1243–54 Innocenty IV
+
+1284–54 Siódma wyprawa krzyżowa
+
+1226–1270 Ludwik IX Święty
+
+1261 Michał Paleolog zdobywa Konstantynopol
+
+1270 Ósma wyprawa krzyżowa
+
+1273–1291 Rudolf z Habsburga
+
+1272–1307 Edward I, król angielski
+
+1285–1314 Filip II Piękny, król francuski
+
+
+Historia polska
+
+1202–1206 Władysław Laskonogi
+
+1206–1228 Leszek Biały
+
+1226 Nadanie Ziemi Chełmińskiej i Nieszawskiej Zakonowi Niemieckiemu
+
+1227–1234 Walki o tron krakowski
+
+1234–1238 Henryk I Brodaty
+
+1238–1241 Henryk II Pobożny
+
+1241 Bitwa pod Legnicą
+
+1243–1279 Bolesław Wstydliwy
+
+1259 Drugi napad Tatarów
+
+1279–1288 Leszek Czarny
+
+1291 Wacław II Czeski księciem krakowskim
+
+1295 Przemysław królem polskim
+
+
+Historia kultury
+
+1200 Uniwersytet w Paryżu
+
+1216 Powstanie zakonu dominikanów
+
+Wolfram z Eschenbach um. ok. 1220
+
+Walter z Vogelweide ur. ok. 1170 um. po 1228
+
+1265–1321 Dante Alighieri
+
+
+
+XIV wiek
+
+
+Filozofia
+
+Eckhardt 1260–1327
+
+Franciszek de Mayronis um. 1325
+
+Wilhelm Ockham um. 1347
+
+Gerhart de Groot 1340–1384
+
+Gerson 1364–1429
+
+
+Historia powszechna polityczna
+
+1301 Wygaśnięcie dynastii Arpadów na Węgrzech
+
+1306 Wygaśnięcie dynastii Przemyślidów w Czechach
+
+1309–1377 Papieże w Avignonie
+
+1328 Wygaśnięcie głównej linii Kapetyngów
+
+1337 Początek stuletniej wojny o tron francuski
+
+1342–1382 Ludwik Wielki, król węgierski
+
+1347–78 Karol IV
+
+1356 Złota Bulla
+
+1350–1364 Jan Dobry, król francuski
+
+1357 Powstanie w Paryżu (Marcel)
+
+1378–1409 Schizma papieska
+
+1381 Bunt chłopski w Anglii
+
+1386 Bitwa pod Sempach
+
+1389 Bitwa na Kosowym Polu. Upadek Serbii
+
+1393 Upadek Bułgarii
+
+1397 Unia kalmarska
+
+
+Historia polska
+
+1300–1305 Wacław II królem polskim
+
+1306–1333 Władysław Łokietek
+
+1326–1333 Pierwsza wojna z Krzyżakami
+
+1333–1370 Kazimierz Wielki
+
+1340 Zajęcie Ziemi Halickiej
+
+1347 Statut wiślicki
+
+1370–1382 Ludwik Węgierski
+
+1374 Pakta koszyckie
+
+1384–1434 Władysław Jagiełło
+
+1386 ślub Jadwigi z Jagiełłą
+
+1387 Chrzest Litwy
+
+
+Historia kultury
+
+1304–1374 Petrarka
+
+1313–1374 Boccaccio
+
+1321 Boska komedia
+
+1346 Pierwsze użycie armat (w bitwie pod Crécy)
+
+1348 Uniwersytet praski
+
+1364 Uniwersytet krakowski
+
+1365 Uniwersytet wiedeński
+
+1330–1384 Wiclef
+
+1386 Uniwersytet heidelberski
+
+
+
+XV wiek
+
+
+Filozofia
+
+Tomasz a Kempis nano 1380–1471
+
+Georgius Trapezuntius ur. 1396
+
+Mikołaj z Kuzy 1401–1464
+
+Raymund de Sabunda um. ok. 1440
+
+Jan z Głogowa um. 1507
+
+[Michał z Bystrzykowa um. 1530]
+
+[Jan ze Stobnicy um. w poł. XVI wieku]
+
+[Michał z Wrocławia um. 1534]
+
+
+Historia powszechna polityczna
+
+1415 Bitwa pod Azincourt (Henryk V i Karol VI)
+
+1409 Sobór w Pizie; trzech papieży
+
+1414–18 Sobór w Konstancji
+
+1413–1421 Mohamed I
+
+1419–1436 Wojny husyckie w Czechach
+
+1429 Joanna d'Arc pod Orleanem
+
+1431–39 Sobór w Bazylei
+
+1453 Koniec wojny 100-letniej
+
+1455–85 Wojna dwu róż
+
+1453 Zdobycie Konstantynopola
+
+1457–1490 Maciej Korwin (Węgry)
+
+1461 Początek dynastii York w Anglii
+
+1461–1483 Ludwik XI, król francuski
+
+1482 Podział Burgundii
+
+1469 Połączenie Kastylii z Aragonią
+
+1492–1503 Papież Aleksander VI (Borgia)
+
+1494 Medyceusze opuszczają Florencję
+
+1496 Początek dynastii orleańskiej we Francji
+
+
+Historia polska
+
+1400 Wznowienie akademii krakowskiej
+
+1410 Bitwa pod Grunwaldem
+
+1413 Unia horodelska
+
+1434–1444 Władysław Warneńczyk
+
+1444 Bitwa pod Warną
+
+1447–1492 Kazimierz Jagiellończyk
+
+1454 Statuty nieszawskie
+
+1446 Pokój w Toruniu
+
+1492–1501 Jan Olbracht
+
+1496 Statuty piotrkowskie
+
+
+Historia kultury
+
+1415 Spalenie Husa
+
+ok. 1450 Wynalazek druku
+
+1452–1519 Leonardo da Vinci
+
+1467–1536 Erazm z Rotterdamu
+
+1489–1527 Macchievelli
+
+1474–1533 Ariosto
+
+1475–1564 Michał Anioł
+
+1477–1576 Tycjan
+
+1483–1520 Rafael
+
+1483–1546 Marcin Luter
+
+1486 Odkrycie Przylądka Dobrej Nadziei
+
+1492 Odkrycie Ameryki
+
+1498 Vasco de Gama w Indiach Wschodnich
+
+
+
+
+Indeks rzeczowy
+
+Actus Sorbonnicus
+
+conceptus
+
+docta ignorantia
+
+dualizm
+
+emanacja
+
+empiryzm
+
+epikureizm
+
+gnosis
+
+gnostycyzm
+
+idea
+
+idealizm
+
+inkwizycja
+
+kategorie
+
+konceptualizm
+
+Logos
+
+manicheizm
+
+mistycyzm
+
+monoteletyzm
+
+neoplatonizm
+
+neoscholastycyzm
+
+nominalizm
+
+odkupienie ludzkości (teoria Anzelma Kantuareńskiego)
+
+ontologiczny dowód istnienia Boga
+
+panlogizm
+
+panteizm
+
+pitagoreizm
+
+prajedność, prajednia
+
+pramateria
+
+proces dialektyczny
+
+quadrivium
+
+quinque voces
+
+realizm
+
+Satyricon
+
+sceptycyzm
+
+scholastyczna filozofia
+
+skotyzm
+
+sofiści
+
+stoicyzm
+
+sylogizm
+
+synkretyzm (żydowski)
+
+teizm
+
+terminizm
+
+terminus
+
+tomizm
+
+triteizm
+
+trivium
+
+universalia
+
+
+
+
+Indeks osobowy
+
+Abelard (Abelardus)
+
+Aegidius
+
+Albert Wielki
+
+albingensi
+
+Aleksander z Hales
+
+Aleksander Wielki
+
+Alfârâbi (Abu Nasr Mohammed ben Mohammed ben Tarkhan)
+
+Alhazen
+
+Alkendi (Abu Jusuf Jacub Ibn Ishak Al Kendi)
+
+Amalryk z Beny (Amaury de Bènes)
+
+Ambroży św.
+
+Ammonius Sakkas
+
+Anaksagoras
+
+Antoninus Pius
+
+Anytos
+
+Anzelm Kantuareński
+
+Areopagita zob. Pseudo-Dionysios Areopagita
+
+Arystoteles
+
+Atanazy
+
+Augustyn św.
+
+Averroës
+
+Avicebron (Abu Ajjub Soleiman Ibn Djeribul, Avencebrol)
+
+Avicenna (Abu Ali el-Hoséin Ibn Allah Ibu Sinâ)
+
+Bacon Franciszek
+
+Bacon Rogeriusz
+
+Bazylides
+
+Bernard z Clairvaux (Bernardus Clarevallensis)
+
+Boccaccio Jan
+
+Boëthius (Boecjusz)
+
+Bonaventura zob. Fidanza Jan
+
+Bonifacy VIII
+
+Caecilius Firmianus zob. Laktancjusz (Lactantius)
+
+Chrypffs Mikołaj zob. Mikołaj z Kuzy
+
+Cieszkowski
+
+Clemens Alexandrinus zob. Klemens z Aleksandrii
+
+Cousin
+
+Dante
+
+Dawid z Dinant
+
+Descartes René
+
+Dionysios Areopagita zob. Pseudo-Dionysios Areopagita
+
+Dionysius I
+
+Dionizjusz zob. Pseudo-Dionysios Areopagita
+
+Duns Szkot
+
+Eckhardt
+
+Eriugena
+
+Euklides
+
+Fainarete
+
+Fidanza Jan
+
+Franciszek z Asyżu
+
+Franciszek de Mayronis
+
+Fulbert
+
+Gasztołd Jan
+
+Gaunilo
+
+Georgius Trapezuntius zob. Jerzy z Trapezuntu
+
+Gerbert
+
+Gerhart de Groot
+
+Gerson Jan
+
+Grzegorz z Nyssy
+
+Grzegorz VII
+
+Günther
+
+Hamerken Tomasz zob. Tomasz Hamerken
+
+Hegel
+
+Heloiza
+
+Herakliusz (cesarz)
+
+Hipacjusz
+
+Hugo z klasztoru św. Wiktora
+
+Hus Jan
+
+Ibn-al-Haitam zob. Alhazen
+
+Ibn Rożd zob. Averroës
+
+Innocenty (biskup)
+
+Innocenty III
+
+Ioannes Versor
+
+Iulianus Flavius Claudius zob. Julian Apostata
+
+Jamblichos
+
+Jan Damasceński zob. Johannes Damascenus
+
+Jan Duns Szkot zob. Duns Szkot
+
+Jan z Głogowa
+
+Jan Hus zob. Hus
+
+Jan z Rochelle
+
+Jan ze Stobnicy
+
+Jan Szkot Eriugena zob. Eriugena
+
+Jan XXI (papież)
+
+Jan XXII (papież)
+
+Jerzy z Trapezuntu
+
+jezuici
+
+Johannes Arnaudi de Gersonio zob. Gerson
+
+Johannes Damascenus
+
+Julian Apostata
+
+Justinus Martyr (Justyn męczennik)
+
+Justynian (cesarz)
+
+Kalwin
+
+Karol Łysy
+
+Karol Wielki
+
+Kartezjusz zob. Descartes
+
+Klemens z Aleksandrii
+
+Klemens IV
+
+Konstanty Wielki
+
+Krebs Mikołaj zob. Mikołaj z Kuzy
+
+Kremer
+
+Krystyna (król. szwedzka)
+
+Laktancjusz
+
+Leibniz
+
+Leon XIII
+
+Leonardus Aretinus
+
+Lubrański
+
+Ludwik bawarski
+
+Ludwik XI (król franc.)
+
+Luter
+
+Lykon
+
+Majmonides Mojżesz
+
+Malebranche
+
+Mani
+
+Marcianus Capella
+
+Marcus Annius Verus zob. Marcus Aurelius Antoninus
+
+Marcus Aurelius Antoninus
+
+Marek Aureliusz zob. Marcus Aurelius Antoninus
+
+Maximus Confessor
+
+Medici Koźma
+
+Meletos
+
+Michał z Bystrzykowa
+
+Michał z Paradyża
+
+Michał z Wrocławia
+
+Mikołaj z Kuzy
+
+Mojżesz
+
+Monika
+
+Montigny hr.
+
+Moszech ben Maimun zob. Majmonides
+
+Ockham Wilhelm
+
+Orygenes
+
+Pascal
+
+Paweł z Wenecji
+
+Petrarka
+
+Petrus Lombardus
+
+Philo Judaeus
+
+Piotr Hiszpan (Pedro Julião Rebello, Petrus Hispanus)
+
+Platon
+
+Plotyn
+
+Porfiriusz
+
+Porphyrios zob. Porfiriusz
+
+Proklos
+
+Pseudo-Dionysios Areopagita
+
+Rajmund de Sabunda
+
+Roscelinus (Rucelinus)
+
+Ryszard z klasztoru św. Wiktora
+
+Salomo ben Jehuda ben Gebirol zob. Avicebron
+
+Sokrates
+
+Sophroniskos
+
+Spinoza
+
+Sylwester II (papież) zob. Gerbert
+
+Teodoryk
+
+Tertullian
+
+Tertullianus zob. Tertullian
+
+Tomasz z Akwinu
+
+Tomasz Hamerken
+
+Tomasz a Kempis zob. Tomasz Hamerken
+
+Trentowski
+
+Valentinus
+
+Vitellio zob. Witelo
+
+Vitello zob. Witelo
+
+Walentynus zob. Valentinus
+
+Wiclef
+
+Wilhelm z Champeaux
+
+Wilhelm Ockham zob. Ockham
+
+Witelo
+
+Zaratustra (Zoroaster)
+
+Zwingli
+
+
+
+
+Indeks miejscowości
+
+Aleksandria, Altdorf, Akwin (Aquino), Aosta, Asyż, Atena, Bagdad, Balneoregium (Bagnorea), Barcelona, Basra, Batanea, Bec, Belcastro, Bena, Bolonia, Brixen, Bystrzyków, Canterbury, Cezarea, Cambridge, Chàlons sur Marne, Champeaux, Chrysopolis, Clairvaux (Clara vallis), Compiègne, Corbeil, Damaszek, Deventer, Dinan, Dinant, Duns, Dunston, Efez, Farab, Fez, Florencja, Fossa Nuova, Fostat, Fryburg, Głogów, Gota, Hales, Hamâdân, Hannower, Heidelberg , Hierozolyma , Highgate, Hildesheim, Hippo Regius, Hochheim, Ilchester, Ispahan, Jena, Kair, Kartagina, Kempis (Kempen), Kharmaiten, Klazomenae, Kolonia, Konstantynopol, Kordowa, Kraków, Kuza (Kues), Kyrene, Laflèche, La Haye, Lauingen, Lignica, Lipsk, Londyn, Lykopolis, Lyon, Madauros, Malaga, Mar-Montier, Mayronne, Mediolan, Megara, Melun, Minturnae, Monte Cassino, Neapol, Nicea, Nyssa, Occam (Ockham), Oxford, Padwa, Pallet (Palais), Paradyż, Paryż, Poznań, Praga, Ratysbona, Roccasicca, Rochelle, Rzym, Saba, Saragossa, Sens, Soissons, Stagira (Stagiros), St.-Marcel les Châlons, Stobnica, Strassburg, Syrakuzy, Sztokholm, Thagaste, Todi, Tours, Trewir, Tuluza, Turyn, Tyrus, Viterbo, Wenecja, Werulam, Wiedeń, Wittenberga, Wrocław
+
+
+
+

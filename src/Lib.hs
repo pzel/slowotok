@@ -39,7 +39,7 @@ digrams tokens =
   foldr addNext M.empty (shift tokens)
  where
    addNext :: (Token,Token) -> DigramMap -> DigramMap
-   addNext (t,next) m = M.insertWith (++) t [next] m
+   addNext (t,u) m = M.insertWith (++) t [u] m
    shift l = zipWith (,) l (tail l)
 
 trigrams :: Corpus -> TrigramMap
@@ -50,17 +50,32 @@ trigrams tokens =
    addNext (t,u,v) m = M.insertWith (++) (t,u) [v] m
    shift l = zipWith3 (,,) l (tail l) (tail (tail l))
 
+fromTrigram :: (RandomGen g) => Integer -> TrigramMap -> Rand g [Token]
+fromTrigram k m = do
+  key@(t,v) <- randomKey m
+  case M.lookup key m of
+    Nothing -> error "Consistency error, this shouldn't happen"
+    (Just ts) -> do
+      e <- randomEl ts
+      buildTriText k m [e,v,t]
 
-fromTrigram :: (RandomGen g) => TrigramMap -> Rand g [Token]
-fromTrigram m = do
-  let l = M.toList m
-      len = length l
-  idx <- getRandomR (0,len-1)
-  let randomKey = fst (l !! idx)
-      entry = M.findWithDefault [] randomKey m
-  case entry of
-    [] -> return []
-    tokens -> return tokens
+buildTriText :: (RandomGen g) => Integer -> TrigramMap -> [Token] -> Rand g [Token]
+buildTriText 0 _ acc = return (reverse acc)
+buildTriText k m acc@(v:t:_) =
+  case M.lookup (t,v) m of
+    Nothing -> return (reverse acc)
+    (Just ts) -> do
+      t' <- randomEl ts
+      buildTriText (k-1) m (t':acc)
+buildTriText _ _ _ = return []
+
+----
+
+randomKey :: (RandomGen g) => M.Map k v -> Rand g k
+randomKey m = getRandomR (0, M.size m - 1) >>= return . (M.keys m !!)
+
+randomEl :: (RandomGen g) => [a] -> Rand g a
+randomEl l = getRandomR (0, length l - 1) >>= return . (l  !!)
 
 frequency :: Int -> [[Token]] -> Token -> Frequency
 frequency n grouped word =
