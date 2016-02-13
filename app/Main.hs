@@ -10,7 +10,7 @@ main :: IO ()
 main = do
   files <- listDirectory "data"
   t <- (trigrams . clean . T.concat) `fmap` mapM TIO.readFile files
-  result <- evalRandIO (fromTrigram 100 t)
+  result <- evalRandIO (fromTrigrams 1000 t)
   TIO.putStrLn (T.intercalate (T.pack " ") result)
 
 listDirectory :: FilePath -> IO [[Char]]

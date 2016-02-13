@@ -41,11 +41,15 @@ tests = do
                     (("moon","hello"), ["there"]),
                     (("there","moon"), ["hello"])]
 
-  describe "generating text" $ do
-    it "works" $ do
+  describe "text can be generated" $ do
+    it "from trigrams" $ do
       let t = trigrams ["a", "b", "c", "a", "b", "c"]
           g = mkStdGen 1
-      evalRand (fromTrigram 2 t) g `shouldBe` ["hello"]
+      evalRand (fromTrigrams 1 t) g `shouldBe` ["c", "a", "b"]
+    it "from digrams" $ do
+      let t = digrams ["a", "b", "c", "a", "b", "c"]
+          g = mkStdGen 1
+      evalRand (fromDigrams 1 t) g `shouldBe` ["c", "a"]
 
 digrams_sorted = sort . M.toList . digrams
 trigrams_sorted = sort . M.toList . trigrams
