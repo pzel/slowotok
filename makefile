@@ -1,6 +1,9 @@
-.PHONY: deploy
+.PHONY: build deploy
 
-deploy:
+build:
+	@stack build --pedantic
+
+deploy: build
 	@rsync -crzq .stack-work/install/x86_64-linux/lts-3.18/7.10.2/bin/slowotok-exe brzoza:/tmp/slowotok-exe
 	@rsync -crzq  data/* brzoza:slowotok/data
 	@ssh brzoza 'pkill slowotok || /bin/true'
