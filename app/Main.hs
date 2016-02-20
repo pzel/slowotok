@@ -15,7 +15,7 @@ main =
   listDirectory "data" >>= mapM TIO.readFile >>=
   withTrigrams . (trigrams . clean . T.concat)
 
---withTrigrams :: [] -> IO ()
+withTrigrams :: Trigrams -> IO ()
 withTrigrams (!t) =
   scotty 3111 $ do
     get "/text/:length" $ do

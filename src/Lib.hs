@@ -6,10 +6,8 @@ module Lib
    fromDigrams, fromTrigrams
   ) where
 
-import Control.Parallel.Strategies
 import Control.Monad.Random
 import Data.Char (isSpace)
-import Data.List (group,nub,sort)
 import qualified Data.Map as M
 import qualified Data.Text as T
 
@@ -62,7 +60,6 @@ fromTrigrams k m = do
                                 t' <- randomEl ts
                                 build (i-1) d (t':acc)
     build _ _ _ = return []
-
 
 ngrams :: (a -> M.Map k v -> M.Map k v) -> ([b] -> [a]) -> [b] -> M.Map k v
 ngrams add shift tokens = foldr add M.empty (shift tokens)
