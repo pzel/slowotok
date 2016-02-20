@@ -14,7 +14,8 @@ main :: IO ()
 main = do
   files <- listDirectory "data"
   t <- (trigrams . clean . T.concat) `fmap` mapM TIO.readFile files
-  scotty 3111 $ do
+  t `seq`
+    scotty 3111 $ do
          get "/text/:length" $ do
                   len <- (min 1000) `fmap` param "length"
                   result <- liftIO $ evalRandIO (fromTrigrams len t)
