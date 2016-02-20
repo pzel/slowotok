@@ -18,6 +18,7 @@ main =
 withTrigrams :: Trigrams -> IO ()
 withTrigrams (!t) =
   scotty 3111 $ do
+    get "/" $ file "./data/index.html"
     get "/text/:length" $ do
       len <- (min 1000) `fmap` param "length"
       result <- liftIO $ evalRandIO (fromTrigrams len t)
@@ -29,4 +30,4 @@ connect = TL.fromChunks . (:[]) . T.intercalate (T.pack " ")
 listDirectory :: FilePath -> IO [[Char]]
 listDirectory d = getDirectoryContents d >>=
                   return . map ((d ++ "/") ++)
-                  . filter (\e -> not (elem e [".", ".."]))
+                  . filter (\e -> not (elem e [".", "..", "index.html"]))
