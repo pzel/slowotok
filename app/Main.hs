@@ -1,4 +1,4 @@
-{-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE BangPatterns, OverloadedStrings #-}
 module Main where
 
 import Control.Monad.Trans (liftIO)
@@ -11,16 +11,17 @@ import Lib
 import Web.Scotty
 
 main :: IO ()
-main = do
-  files <- listDirectory "data"
-  t <- (trigrams . clean . T.concat) `fmap` mapM TIO.readFile files
-  t `seq`
-    scotty 3111 $ do
-         get "/text/:length" $ do
-                  len <- (min 1000) `fmap` param "length"
-                  result <- liftIO $ evalRandIO (fromTrigrams len t)
-                  text (connect result)
+main =
+  listDirectory "data" >>= mapM TIO.readFile >>=
+  withTrigrams . (trigrams . clean . T.concat)
 
+--withTrigrams :: [] -> IO ()
+withTrigrams (!t) =
+  scotty 3111 $ do
+    get "/text/:length" $ do
+      len <- (min 1000) `fmap` param "length"
+      result <- liftIO $ evalRandIO (fromTrigrams len t)
+      text (connect result)
 
 connect :: [T.Text] -> TL.Text
 connect = TL.fromChunks . (:[]) . T.intercalate (T.pack " ")
