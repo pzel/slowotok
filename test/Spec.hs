@@ -15,34 +15,34 @@ tests = do
     it "removes spurious puctuation" $ do
       clean "hello, ,, there!" `shouldBe` ["hello,","there!"]
 
-  describe "digrams" $ do
+  describe "unigrams" $ do
     it "works on two word corpus" $ do
-      digrams_sorted ["hello", "world"]
+      unigrams_sorted ["hello", "world"]
         `shouldBe` [("hello", ["world"])]
     it "adds all subsequent strings to the parent key" $ do
-      digrams_sorted ["hello", "world", "hello", "moon"]
+      unigrams_sorted ["hello", "world", "hello", "moon"]
         `shouldBe` [("hello", ["world", "moon"]),
                     ("world", ["hello"])]
 
-  describe "trigrams" $ do
+  describe "digrams" $ do
     it "works on three word corpus" $ do
-      trigrams_sorted ["hello", "there", "moon"]
+      digrams_sorted ["hello", "there", "moon"]
         `shouldBe` [(("hello","there"), ["moon"])]
     it "adds all subsequent strings to the parent key" $ do
-      trigrams_sorted ["hello", "there", "moon", "hello", "there", "moon"]
+      digrams_sorted ["hello", "there", "moon", "hello", "there", "moon"]
         `shouldBe` [(("hello","there"), ["moon", "moon"]),
                     (("moon","hello"), ["there"]),
                     (("there","moon"), ["hello"])]
 
   describe "text can be generated" $ do
-    it "from trigrams" $ do
-      let t = trigrams ["a", "b", "c", "a", "b", "c"]
-          g = mkStdGen 1
-      evalRand (fromTrigrams 1 t) g `shouldBe` ["c", "a", "b"]
     it "from digrams" $ do
       let t = digrams ["a", "b", "c", "a", "b", "c"]
           g = mkStdGen 1
-      evalRand (fromDigrams 1 t) g `shouldBe` ["c", "a"]
+      evalRand (fromDigrams 1 t) g `shouldBe` ["c", "a", "b"]
+    it "from unigrams" $ do
+      let t = unigrams ["a", "b", "c", "a", "b", "c"]
+          g = mkStdGen 1
+      evalRand (fromUnigrams 1 t) g `shouldBe` ["c", "a"]
 
+unigrams_sorted = sort . M.toList . unigrams
 digrams_sorted = sort . M.toList . digrams
-trigrams_sorted = sort . M.toList . trigrams
