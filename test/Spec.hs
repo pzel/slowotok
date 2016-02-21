@@ -34,15 +34,28 @@ tests = do
                     (("moon","hello"), ["there"]),
                     (("there","moon"), ["hello"])]
 
+  describe "trigrams" $ do
+    it "works on four word corpus" $ do
+      trigrams_sorted ["one", "two", "three", "four"]
+        `shouldBe` [(("one", "two", "three"), ["four"])]
+
   describe "text can be generated" $ do
-    it "from digrams" $ do
-      let t = digrams ["a", "b", "c", "a", "b", "c"]
-          g = mkStdGen 1
-      evalRand (fromDigrams 1 t) g `shouldBe` ["c", "a", "b"]
     it "from unigrams" $ do
       let t = unigrams ["a", "b", "c", "a", "b", "c"]
           g = mkStdGen 1
       evalRand (fromUnigrams 1 t) g `shouldBe` ["c", "a"]
 
+    it "from digrams" $ do
+      let t = digrams ["a", "b", "c", "a", "b", "c"]
+          g = mkStdGen 1
+      evalRand (fromDigrams 1 t) g `shouldBe` ["c", "a", "b"]
+
+    it "from trigrams" $ do
+      let t = trigrams ["a", "b", "c", "a", "b", "c"]
+          g = mkStdGen 1
+      evalRand (fromTrigrams 1 t) g `shouldBe` ["c", "a", "b", "c"]
+
+
 unigrams_sorted = sort . M.toList . unigrams
 digrams_sorted = sort . M.toList . digrams
+trigrams_sorted = sort . M.toList . trigrams
