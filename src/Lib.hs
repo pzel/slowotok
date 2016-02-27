@@ -46,9 +46,10 @@ fromDigrams k m = fromNGrams (\(t,v) e -> [e,v,t]) (\(v:t:_) -> (t,v)) k m
 fromTrigrams :: (RandomGen g) => Integer -> Trigrams -> Rand g [Token]
 fromTrigrams k m = fromNGrams (\(t,v,u) e -> [e,u,v,t]) (\(u:v:t:_) -> (t,v,u)) k m
 
-fromNGrams :: (RandomGen g, Ord n) =>
-              (n -> Token -> [Token]) -> ([Token] -> n) -> Integer
-              -> M.Map n [Token] -> Rand g [Token]
+fromNGrams ::
+  (RandomGen g, Ord n) =>
+  (n -> Token -> [Token]) -> ([Token] -> n) -> Integer -> M.Map n [Token]
+  -> Rand g [Token]
 fromNGrams initialBuildStep accDecompStep k m = do
   (key,tokens) <- randomKV m
   e <- randomEl tokens

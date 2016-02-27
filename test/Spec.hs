@@ -21,7 +21,7 @@ tests = do
         `shouldBe` [("hello", ["world"])]
     it "adds all subsequent strings to the parent key" $ do
       unigrams_sorted ["hello", "world", "hello", "moon"]
-        `shouldBe` [("hello", ["world", "moon"]),
+        `shouldBe` [("hello", ["moon", "world"]),
                     ("world", ["hello"])]
 
   describe "digrams" $ do
