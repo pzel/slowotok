@@ -18,7 +18,7 @@ type Unigrams = M.Map Token [Token]
 type Digrams = M.Map (Token,Token) [Token]
 type Trigrams = M.Map (Token,Token,Token) [Token]
 
-clean :: T.Text -> [Token]
+clean :: T.Text -> Corpus
 clean = filter (not . junk) . T.split isSpace . T.map replacePunctuation
   where
     replacePunctuation c = if c `elem` ("…+„”*—-:;'\"()[]»«"::String)

@@ -1,4 +1,4 @@
-.PHONY: build deploy run
+.PHONY: build deploy run test
 
 build:
 	@stack build --pedantic
@@ -13,3 +13,5 @@ deploy: build
 	@ssh $(T) 'cp /tmp/slowotok-exe ~/slowotok/'
 	@ssh -n -f $(T) "sh -c 'cd slowotok; nohup ./slowotok-exe > /dev/null 2>&1 &'"
 
+test:
+	@stack test
