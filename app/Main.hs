@@ -13,7 +13,7 @@ import Web.Scotty
 main :: IO ()
 main =
   listDirectory "data" >>= mapM TIO.readFile >>=
-  withNgrams . (digrams . clean . T.concat)
+  withNgrams . digrams . clean . T.concat
  where
    withNgrams (!t) = scotty 3111 $ do
      get "/" $ file "./data/index.html"
