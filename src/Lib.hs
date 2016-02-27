@@ -53,12 +53,12 @@ fromNGrams ::
 fromNGrams initialBuildStep accDecompStep k m = do
   (key,tokens) <- randomKV m
   e <- randomEl tokens
-  build (k-1) m (initialBuildStep key e)
+  build (k-1) (initialBuildStep key e)
  where
-    build 0 _ acc = return (reverse acc)
-    build i d acc = case M.lookup (accDecompStep acc) m of
-                      Nothing -> return (reverse acc)
-                      (Just ts) -> randomEl ts >>= build (i-1) d . (:acc)
+    build 0 acc = return (reverse acc)
+    build i acc = case M.lookup (accDecompStep acc) m of
+                   Nothing -> return (reverse acc)
+                   (Just ts) -> randomEl ts >>= build (i-1) . (:acc)
 
 ngrams :: (a -> M.Map k v -> M.Map k v) -> ([b] -> [a]) -> [b] -> M.Map k v
 ngrams add shift tokens = foldl' (flip add) M.empty (shift tokens)
