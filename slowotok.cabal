@@ -27,7 +27,7 @@ library
 executable slowotok-exe
   hs-source-dirs:      app
   main-is:             Main.hs
-  ghc-options:         -optl-static -threaded -rtsopts -with-rtsopts=-N
+  ghc-options:         -optl-static -threaded -rtsopts -with-rtsopts=-N1
   build-depends:       base
                      , directory
                      , mtl
