@@ -8,8 +8,8 @@ module Lib
 
 import Control.Monad.Random
 import Data.Char (isSpace)
-import Data.List (zipWith4)
-import qualified Data.Map as M
+import Data.List (foldl', zipWith4)
+import qualified Data.Map.Strict as M
 import qualified Data.Text as T
 
 type Token = T.Text
@@ -46,6 +46,9 @@ fromDigrams k m = fromNGrams (\(t,v) e -> [e,v,t]) (\(v:t:_) -> (t,v)) k m
 fromTrigrams :: (RandomGen g) => Integer -> Trigrams -> Rand g [Token]
 fromTrigrams k m = fromNGrams (\(t,v,u) e -> [e,u,v,t]) (\(u:v:t:_) -> (t,v,u)) k m
 
+fromNGrams :: (RandomGen g, Ord n) =>
+              (n -> Token -> [Token]) -> ([Token] -> n) -> Integer
+              -> M.Map n [Token] -> Rand g [Token]
 fromNGrams initialBuildStep accDecompStep k m = do
   (key,tokens) <- randomKV m
   e <- randomEl tokens
@@ -57,7 +60,7 @@ fromNGrams initialBuildStep accDecompStep k m = do
                       (Just ts) -> randomEl ts >>= build (i-1) d . (:acc)
 
 ngrams :: (a -> M.Map k v -> M.Map k v) -> ([b] -> [a]) -> [b] -> M.Map k v
-ngrams add shift tokens = foldr add M.empty (shift tokens)
+ngrams add shift tokens = foldl' (flip add) M.empty (shift tokens)
 
 pairs :: [a] -> [(a,a)]
 pairs l = zipWith (,) l (tail l)

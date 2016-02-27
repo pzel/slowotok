@@ -13,13 +13,13 @@ import Web.Scotty
 main :: IO ()
 main =
   listDirectory "data" >>= mapM TIO.readFile >>=
-  withNgrams . (trigrams . clean . T.concat)
+  withNgrams . (digrams . clean . T.concat)
  where
    withNgrams (!t) = scotty 3111 $ do
      get "/" $ file "./data/index.html"
      get "/text/:length" $ do
        len <- (min 1000) `fmap` param "length"
-       result <- liftIO $ evalRandIO (fromTrigrams len t)
+       result <- liftIO $ evalRandIO (fromDigrams len t)
        text (connect result)
 
 connect :: [T.Text] -> TL.Text
