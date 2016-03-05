@@ -21,7 +21,7 @@ type Trigrams = M.Map (Token,Token,Token) [Token]
 clean :: T.Text -> Corpus
 clean = filter (not . junk) . T.split isSpace . T.map replacePunctuation
   where
-    replacePunctuation c = if c `elem` ("…+„”*—-:;'\"()[]»«"::String)
+    replacePunctuation c = if c `elem` ("…+„”*—-:;\"()[]»«_"::String)
                            then ' ' else c
     junk e = e `elem` ["", ".", ",", "..", ",,"]
 

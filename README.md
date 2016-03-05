@@ -7,3 +7,8 @@ A random text generator based on Markov chains
   1.  Put text files in `data`
   2.  `make run`
   3.  `curl http://localhost:3111/text/100`
+
+
+## Copyrights
+
+Data files in `data/*` are from the public domain.

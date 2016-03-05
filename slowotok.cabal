@@ -30,6 +30,7 @@ executable slowotok-exe
   ghc-options:         -optl-static -threaded -rtsopts -with-rtsopts=-N1
   build-depends:       base
                      , directory
+                     , http-types
                      , mtl
                      , MonadRandom
                      , parallel

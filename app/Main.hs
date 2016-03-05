@@ -1,31 +1,52 @@
-{-# LANGUAGE BangPatterns, OverloadedStrings #-}
+{-# LANGUAGE BangPatterns, OverloadedStrings, TupleSections #-}
 module Main where
 
+import Control.Arrow (second)
 import Control.Monad.Trans (liftIO)
 import Control.Monad.Random (evalRandIO)
 import qualified Data.Text as T
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text.IO as TIO
+import Network.HTTP.Types (status400)
 import System.Directory (getDirectoryContents)
 import Lib
 import Web.Scotty
 
 main :: IO ()
-main =
-  listDirectory "data" >>= mapM TIO.readFile >>=
-  withNgrams . digrams . clean . T.concat
+main = do
+  langs <- subDirs "data"
+  wrds <- mapM (\(l,fs) -> mapM TIO.readFile fs >>= return . (l,)) langs
+  withNgrams (map (second (digrams . clean . T.concat)) wrds)
  where
-   withNgrams (!t) = scotty 3111 $ do
-     get "/" $ file "./data/index.html"
-     get "/text/:length" $ do
+   withNgrams (!ts) = scotty 3111 $ do
+     get "/" $ file "./static/index.html"
+     get "/text/:lang/:length" $ do
        len <- (min 1000) `fmap` param "length"
-       result <- liftIO $ evalRandIO (fromDigrams len t)
-       text (connect result)
+       lang <- param "lang"::ActionM String
+       case lookup lang ts of
+        Nothing -> do
+          text (mconcat ["Language ", TL.pack lang, " not supported"])
+          status status400
+        (Just ngrams) -> do
+          r <- liftIO $ evalRandIO (fromDigrams len ngrams)
+          text (connect r)
 
 connect :: [T.Text] -> TL.Text
 connect = TL.fromChunks . (:[]) . T.intercalate (T.pack " ")
 
-listDirectory :: FilePath -> IO [[Char]]
-listDirectory d = getDirectoryContents d >>=
-                  return . map ((d ++ "/") ++)
-                  . filter (\e -> not (elem e [".", "..", "index.html"]))
+subDirs :: FilePath -> IO [(String, [String])]
+subDirs d = do
+  subdirs <- filteredContents d
+  mapM (\s -> dirFiles (d </> s) >>= return . (s,) ) subdirs
+
+dirFiles :: FilePath -> IO [String]
+dirFiles d =
+  filteredContents d >>=
+  return . map (d </>) . filter (\e -> not (elem e [".", ".."]))
+
+filteredContents :: FilePath -> IO [FilePath]
+filteredContents d =
+  filter (not . flip elem [".", ".."]) `fmap` getDirectoryContents d
+
+(</>) :: FilePath -> FilePath -> FilePath
+p </> r = p ++ "/" ++ r
