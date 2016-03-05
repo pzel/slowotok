@@ -29,6 +29,7 @@ executable slowotok-exe
   main-is:             Main.hs
   ghc-options:         -optl-static -threaded -rtsopts -with-rtsopts=-N1
   build-depends:       base
+                     , data-default-class
                      , directory
                      , http-types
                      , mtl
@@ -38,6 +39,8 @@ executable slowotok-exe
                      , slowotok
                      , random
                      , text
+                     , wai-extra
+
   default-language:    Haskell2010
 
 test-suite slowotok-test

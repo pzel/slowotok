@@ -4,21 +4,25 @@ module Main where
 import Control.Arrow (second)
 import Control.Monad.Trans (liftIO)
 import Control.Monad.Random (evalRandIO)
+import Data.Default.Class (def)
 import qualified Data.Text as T
 import qualified Data.Text.Lazy as TL
 import qualified Data.Text.IO as TIO
 import Network.HTTP.Types (status400)
+import Network.Wai.Middleware.RequestLogger
 import System.Directory (getDirectoryContents)
 import Lib
 import Web.Scotty
 
 main :: IO ()
 main = do
+  logger <- mkRequestLogger def{outputFormat = Apache FromHeader}
   langs <- subDirs "data"
   wrds <- mapM (\(l,fs) -> mapM TIO.readFile fs >>= return . (l,)) langs
-  withNgrams (map (second (digrams . clean . T.concat)) wrds)
+  withNgrams logger (map (second (digrams . clean . T.concat)) wrds)
  where
-   withNgrams (!ts) = scotty 3111 $ do
+   withNgrams logger (!ts) = scotty 3111 $ do
+     middleware logger
      get "/" $ file "./static/index.html"
      get "/text/:lang/:length" $ do
        len <- (min 1000) `fmap` param "length"

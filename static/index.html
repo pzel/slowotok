@@ -5,8 +5,8 @@
     <meta name=viewport content="width=device-width, initial-scale=1"/>
     <title>Słowotok, czyli Lorem Ipsum po polsku</title>
     <style type="text/css">
-      html[lang="pl"] *[lang="en"] { display:none;}
-      html[lang="en"] *[lang="pl"] { display:none;}
+      html[lang="pl"] *[lang="en"] {display:none;}
+      html[lang="en"] *[lang="pl"] {display:none;}
       body { margin: 0 auto; width: 80%; }
       h1 { font-style: italic; }
       #slowotok-output { margin: 20px auto; min-height: 200px;}
@@ -38,11 +38,11 @@
       var gen = (function(){
         var top = document.querySelectorAll("html")[0];
         return function(lang){return function(e){
-            top.setAttribute("lang", lang);
             var request = new XMLHttpRequest();
             request.open('GET', '/text/'+lang+'/300', true);
             request.onload = function() {
             if (request.status >= 200 && request.status < 400) {
+              top.setAttribute("lang", lang);
               renderText(request.responseText);
             } else { alert("error") }};
            request.onerror = function() {alert("error")};
