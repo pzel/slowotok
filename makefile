@@ -4,7 +4,7 @@ build:
 	@stack build --pedantic
 
 run: build
-	@stack exec slowotok-exe
+	@stack exec slowotok-exe -- +RTS -s
 
 deploy: build
 	@rsync -crzq .stack-work/install/x86_64-linux/lts-3.18/7.10.2/bin/slowotok-exe $(T):/tmp/slowotok-exe
