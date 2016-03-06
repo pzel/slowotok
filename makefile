@@ -12,7 +12,7 @@ deploy: build
 	@rsync -crzq  static/* $(T):slowotok/static
 	@ssh $(T) 'pkill slowotok || /bin/true'
 	@ssh $(T) 'cp /tmp/slowotok-exe ~/slowotok/'
-	@ssh -n -f $(T) "sh -c 'cd slowotok; nohup ./slowotok-exe > /dev/null 2>&1 &'"
+	@ssh -n -f $(T) "sh -c 'cd slowotok; nohup ./slowotok-exe > slowotok.log 2>&1 &'"
 
 test:
 	@stack test
